@@ -1,0 +1,66 @@
+﻿FK_LOJA,LOJA,DATA_INI,DATA_FIM,DESCRICAO
+POR012,Almada Fórum,2023-01-01,2023-01-01,Janeiro 01.23
+POR065,Canidelo,2022-12-24,2022-12-24,Véspera Natal
+POR009,Coimbra,2022-11-21,2022-11-21,IP Garrafeira
+POR009,Coimbra,2022-11-14,2022-11-14,IP Lácteos
+POR062,Eiras,2022-11-14,2022-11-14,Inventário Garrafeira
+POR062,Eiras,2022-11-07,2022-11-07,Entrada Campanha
+POR062,Eiras,2022-11-21,2022-11-21,Inventário Cápsulas
+POR062,Eiras,2022-11-09,2022-11-09,Inventário Lácteos
+POR008,Gaia,2022-12-24,2022-12-24,Véspera Natal
+POR008,Gaia,2022-12-31,2022-12-31,Véspera Ano Novo
+POR008,Gaia,2022-12-24,2022-12-24,Véspera Natal
+POR008,Gaia,2022-12-31,2022-12-31,Véspera Ano Novo
+POR008,Gaia,2022-12-31,2022-12-31,Véspera Ano Novo
+POR008,Gaia,2022-12-24,2022-12-24,Véspera Natal
+POR008,Gaia,2022-12-24,2022-12-24,Véspera Natal
+POR008,Gaia,2022-12-31,2022-12-31,Véspera Ano Novo
+POR016,Matosinhos,2022-12-31,2022-12-31,vespera natal
+POR031,Famalicão,2022-10-21,2022-10-21,Campanha Natal
+POR029,Alverca,2023-05-08,2023-05-08,Ip Brico
+POR029,Alverca,2023-05-16,2023-05-16,DMC BT
+POR029,Alverca,2023-05-15,2023-05-15,IP ARTIGOS MESA
+POR029,Alverca,2023-05-14,2023-05-14,IP ARTIGOS MESA
+POR029,Alverca,2023-05-08,2023-05-08,IP Interiores
+POR029,Alverca,2023-05-07,2023-05-07,IP Interiores armazém + brico
+POR029,Alverca,2023-05-16,2023-05-16,DMC BT
+POR013,Torres Vedras,2023-05-15,2023-05-15,IP Perfumaria
+POR013,Torres Vedras,2023-05-22,2023-05-22,IP Biológicos 
+POR013,Torres Vedras,2022-12-27,2022-12-27,IP Perfumaria
+POR013,Torres Vedras,2022-12-29,2022-12-29,IP Drogaria
+POR013,Torres Vedras,2022-12-27,2022-12-27,IP Lácteos/Congelados
+POR013,Torres Vedras,2023-05-16,2023-05-22,IP  Peixaria
+POR013,Torres Vedras,2023-05-15,2023-05-15,IP  Peixaria
+POR013,Torres Vedras,2022-12-26,2022-12-26,IP Pastelaria/Padaria
+POR013,Torres Vedras,2023-05-22,2023-05-22,IP Pastelaria/Padaria
+POR013,Torres Vedras,2022-12-27,2022-12-27,Montagem Campanha Têxtil Lar
+POR013,Torres Vedras,2022-12-12,2022-12-12,Folheto 
+POR013,Torres Vedras,2023-05-16,2023-05-16,Campanha Sazonais de Verão e Dia Mundial da Criança
+POR013,Torres Vedras,2023-05-16,2023-05-16,Campanha Sazonais de Verão e Dia Mundial da Criança
+POR013,Torres Vedras,2023-05-08,2023-05-08,IP Interiores 
+POR013,Torres Vedras,2023-05-22,2023-05-22,IP Artigos de mesa
+POR013,Torres Vedras,2023-05-16,2023-05-16,Campanha Sazonais de Verão e Dia Mundial da Criança
+POR013,Torres Vedras,2023-05-15,2023-05-15,Campanha Sazonais de Verão e Dia Mundial da Criança
+POR013,Torres Vedras,2022-12-26,2022-12-26,Montagem Campanha Têxtil Lar
+POR013,Torres Vedras,2022-12-15,2022-12-15,IP Decoração Natal
+POR013,Torres Vedras,2022-12-26,2022-12-26,IP Brinquedos
+POR013,Torres Vedras,2023-05-18,2023-05-18,IP Brico
+POR013,Torres Vedras,2023-05-15,2023-05-15,IP Frutas
+POR013,Torres Vedras,2023-05-22,2023-05-22,IP Gastronomia
+POR013,Torres Vedras,2023-05-11,2023-05-11,IP Equip. Tec.
+POR027,Setúbal,2023-04-12,2023-04-12,Inventario NSBE
+POR008,Gaia,2023-04-03,2023-04-05,invent
+POR016,Matosinhos,2023-02-07,2023-02-07,INVENTARIO QUEIJOS
+POR016,Matosinhos,2022-11-08,2022-11-08,inventario garrafeira
+POR016,Matosinhos,2022-11-14,2022-11-14,inventario lacteos
+POR016,Matosinhos,2022-11-14,2022-11-14,inventario outdoor
+POR016,Matosinhos,2022-11-15,2022-11-15,inventario capsulas cafe
+POR016,Matosinhos,2022-11-12,2022-11-12,inventario ET
+POR029,Alverca,2023-05-15,2023-05-31,IP PERFUMARIA
+POR029,Alverca,2023-05-14,2023-05-14,IP PERFUMARIA ARMAZÉM
+POR029,Alverca,2023-05-16,2023-05-16,DMC PGC
+POR029,Alverca,2023-03-08,2023-03-08,IP Interiores
+POR029,Alverca,2023-05-07,2023-05-07,IP Armazém Interiores
+POR029,Alverca,2023-05-14,2023-05-14,IP artigos de Mesa Armazém
+POR029,Alverca,2023-05-15,2023-05-15,IP artigos de Mesa
+POR029,Alverca,2023-05-08,2023-05-08,Ip Brico

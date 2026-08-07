@@ -1,0 +1,71 @@
+﻿FK_LOJA,LOJA,FK_CIDADE,CIDADE,FK_REGIAO,REGIAO,FK_SECAO,SECAO,PRODUTIVIDADE/HORA,N_COLABORADORES,SKUS,ABERTURA,FECHO,CAIXAS TRADICIONAIS,SELF CHECKOUTS
+POR025,Alfragide,228,Alfragide,14,Lisboa Central,976,Frente de Loja,269,85,35052,2000-01-01 08:00:00,2000-01-01 21:00:00,26,8
+POR012,Almada Fórum,164,Almada,3,Margem Sul,24,Frente de Loja,400,100,46951,2000-01-01 08:30:00,2000-01-01 23:00:00,26,6
+POR029,Alverca,227,Alverca,17,Lisboa Norte,1072,Frente de Loja,335,48,17367,2000-01-01 08:00:00,2000-01-01 21:00:00,50,26
+POR032,Aveiro,111,Aveiro,13,Beira Litoral,321,Frente de loja,227,60,36896,2000-01-01 08:00:00,2000-01-01 23:30:00,14,5
+POR052,Caldas da Rainha,171,Caldas da Rainha,17,Lisboa Norte,1125,Frente de Loja,136,7,2760,2000-01-01 07:00:00,2000-01-01 20:00:00,4,4
+POR057,Campera,239,Campera,17,Lisboa Norte,1092,Frente de Loja,200,12,3225,2000-01-01 07:30:00,2000-01-01 23:30:00,11,4
+POR065,Canidelo,208,Canidelo,12,Porto,298,Frente de Loja,147,13,3145,2000-01-01 08:30:00,2000-01-01 22:30:00,8,0
+POR028,Castelo Branco,113,Castelo Branco,11,Beira Interior,539,Frente de Loja,233,27,7562,2000-01-01 08:00:00,2000-01-01 23:00:00,19,6
+POR009,Coimbra,233,Coimbra,13,Beira Litoral,322,Frente de Loja,280,30,9774,2000-01-01 08:00:00,2000-01-01 23:00:00,6,4
+POR019,Coina,168,Coina,3,Margem Sul,65,Frente de Loja,424,44,19311,2000-01-01 07:30:00,2000-01-01 23:00:00,12,8
+POR062,Eiras,211,Eiras,13,Beira Litoral,365,Frente de Loja,172,19,9014,2000-01-01 08:00:00,2000-01-01 22:30:00,7,3
+POR021,Évora,177,Évora,3,Margem Sul,182,Frente de Loja,461,29,8927,2000-01-01 08:00:00,2000-01-01 22:30:00,29,14
+POR031,Famalicão,98,Vila Nova de Famalicão,1,Região Norte,570,Frente de Loja,229,37,15101,2000-01-01 09:00:00,2000-01-01 21:00:00,13,3
+POR033,Faro,178,Faro,15,Algarve,871,Frente de Loja,121,65,47879,2000-01-01 07:00:00,2000-01-01 23:00:00,17,13
+POR058,Faro Mercado,178,Faro,15,Algarve,848,Frente de Loja,222,11,3386,2000-01-01 07:15:00,2000-01-01 21:00:00,3,8
+POR034,Figueira da Foz,118,Figueira da Foz,13,Beira Litoral,323,Frente de loja,349,34,15682,2000-01-01 08:00:00,2000-01-01 23:00:00,8,2
+POR008,Gaia,99,Vila Nova de Gaia,12,Porto,406,Frente de Loja,210,56,37764,2000-01-01 09:00:00,2000-01-01 23:00:00,14,5
+POR035,Gondomar,70,Gondomar,12,Porto,425,Frente de Loja,231,53,38937,2000-01-01 09:00:00,2000-01-01 23:00:00,14,24
+POR054,Guarda,122,Guarda,11,Beira Interior,502,Frente de Loja,186,11,3215,2000-01-01 08:00:00,2000-01-01 22:30:00,5,1
+POR017,Guimarães,71,Guimarães,1,Região Norte,578,Frente de Loja,153,31,19248,2000-01-01 08:00:00,2000-01-01 21:00:00,13,7
+POR063,Lagoa,226,Lagoa,15,Algarve,808,Frente de Loja,242,20,9259,2000-01-01 09:00:00,2000-01-01 21:00:00,8,4
+POR026,Maia,75,Maia,12,Porto,464,Frente de Loja,229,58,40519,2000-01-01 08:00:00,2000-01-01 23:00:00,14,3
+POR016,Matosinhos,77,Matosinhos,12,Porto,482,Frente de Loja,179,58,40050,2000-01-01 09:00:00,2000-01-01 23:00:00,18,3
+POR053,Olhão,187,Olhão,15,Algarve,832,Frente de Loja,302,19,9572,2000-01-01 08:00:00,2000-01-01 23:30:00,5,2
+POR018,Paço de Arcos,229,Paço de Arcos,18,Lisboa Litoral,1015,Frente de Loja,233,37,15534,2000-01-01 09:00:00,2000-01-01 21:00:00,15,10
+POR023,Portimão,190,Portimão,15,Algarve,783,Frente de Loja,227,38,15354,2000-01-01 06:00:00,2000-01-01 21:00:00,11,13
+POR030,Santo Tirso,87,Santo Tirso,1,Região Norte,616,Frente de Loja,253,19,9585,2000-01-01 07:00:00,2000-01-01 21:00:00,6,1
+POR027,Setúbal,199,Setúbal,3,Margem Sul,164,Frente de Loja,392,71,44281,2000-01-01 08:00:00,2000-01-01 23:30:00,29,11
+POR038,Sintra,158,Sintra,18,Lisboa Litoral,1056,Frente de Loja,329,61,48810,2000-01-01 08:00:00,2000-01-01 23:00:00,17,3
+POR013,Torres Vedras,152,Torres Vedras,17,Lisboa Norte,1112,Frente de Loja,330,30,9451,2000-01-01 07:00:00,2000-01-01 23:00:00,8,8
+U0143,S - Ajuda,235,Lisboa,14,Lisboa Central,1442,Frente de Loja,0,16,3235,2000-01-01 09:00:00,2000-01-01 23:00:00,17,0
+POR419,S - Algés ,242,Algés,18,Lisboa Litoral,943,Frente de Loja,111,13,2849,2000-01-01 08:00:00,2000-01-01 20:00:00,15,0
+POR409,S - Almirante Reis ,235,Lisboa,14,Lisboa Central,942,Frente de Loja,172,26,8009,2000-01-01 09:00:00,2000-01-01 21:00:00,26,0
+POR421,S - Almirante Reis II,235,Lisboa,14,Lisboa Central,944,Frente de Loja,103,10,3120,2000-01-01 08:00:00,2000-01-01 21:00:00,14,0
+POR430,S - Amadora,167,Amadora,14,Lisboa Central,929,Frente de Loja,121,17,2973,2000-01-01 09:00:00,2000-01-01 21:00:00,20,0
+POR434,S - Av. D. João II,199,Setúbal,3,Margem Sul,199,Frente de Loja,210,14,3211,2000-01-01 08:00:00,2000-01-01 21:00:00,14,0
+POR413,S - Avenida Republica,235,Lisboa,14,Lisboa Central,935,Frente de Loja,130,14,3423,2000-01-01 08:00:00,2000-01-01 21:00:00,16,0
+POR411,S - Benfica,243,Benfica,14,Lisboa Central,902,Frente de Loja,175,15,3033,2000-01-01 08:00:00,2000-01-01 21:00:00,16,0
+POR422,S - Benificiencia,235,Lisboa,14,Lisboa Central,930,Frente de Loja,133,14,2546,2000-01-01 09:00:00,2000-01-01 21:00:00,15,0
+POR423,S - Bento Gonçalves,164,Almada,3,Margem Sul,201,Frente de Loja,144,11,2541,2000-01-01 09:00:00,2000-01-01 20:00:00,12,0
+POR446,S - Bento Jesus,1,Porto,12,Porto,1581,Frente de Loja,133,14,3475,2000-01-01 07:00:00,2000-01-01 20:00:00,15,0
+POR420,S - Bobadela,235,Lisboa,14,Lisboa Central,932,Frente de Loja,100,12,2566,2000-01-01 08:00:00,2000-01-01 21:00:00,14,0
+U0142,S - Cacilhas,235,Lisboa,14,Lisboa Central,1444,Frente de Loja,0,13,3172,2000-01-01 09:00:00,2000-01-01 21:00:00,15,0
+POR436,S - Campo de Ourique,235,Lisboa,14,Lisboa Central,945,Frente de Loja,118,12,3090,2000-01-01 09:00:00,2000-01-01 21:00:00,13,0
+POR408,S - Campolide,235,Lisboa,14,Lisboa Central,937,Frente de Loja,149,14,2743,2000-01-01 08:00:00,2000-01-01 21:00:00,15,0
+POR429,S - Carnide,235,Lisboa,14,Lisboa Central,906,Frente de Loja,126,14,2782,2000-01-01 08:00:00,2000-01-01 21:00:00,15,0
+POR414,S - Columbano Bordalo Pinheiro,235,Lisboa,14,Lisboa Central,936,Frente de Loja,162,13,3224,2000-01-01 09:00:00,2000-01-01 21:00:00,17,0
+POR445,S - Conde Redondo,235,Lisboa,14,Lisboa Central,1561,Frente de Loja,449,14,3232,2000-01-01 09:00:00,2000-01-01 20:00:00,20,0
+POR432,S - Costa Caparica (Navegantes),173,Costa da Caparica,3,Margem Sul,204,Frente de Loja,212,15,2929,2000-01-01 08:00:00,2000-01-01 20:00:00,16,0
+POR405,S - Costa Caparica (Pescadores),173,Costa da Caparica,3,Margem Sul,261,Frente de Loja,212,15,3432,2000-01-01 08:00:00,2000-01-01 23:00:00,16,0
+POR404,S - Duque Avila,235,Lisboa,14,Lisboa Central,908,Frente de Loja,145,13,2660,2000-01-01 08:00:00,2000-01-01 23:00:00,16,0
+POR427,S - Estrada de Benfica,235,Lisboa,14,Lisboa Central,903,Frente de Loja,127,12,3312,2000-01-01 10:00:00,2000-01-01 20:00:00,14,0
+POR412,S - Gil Vicente,164,Almada,3,Margem Sul,203,Frente de Loja,220,14,2818,2000-01-01 09:00:00,2000-01-01 20:00:00,15,0
+POR406,S - Graça,235,Lisboa,14,Lisboa Central,907,Frente de Loja,157,12,2990,2000-01-01 09:00:00,2000-01-01 23:00:00,14,0
+POR402,S - João XXI,235,Lisboa,14,Lisboa Central,1069,Frente de Loja,149,11,2676,2000-01-01 10:00:00,2000-01-01 23:00:00,14,0
+POR435,S - Jose Ricardo,235,Lisboa,14,Lisboa Central,941,Frente de Loja,123,12,3393,2000-01-01 10:00:00,2000-01-01 23:00:00,16,0
+POR424,S - Lumiar,235,Lisboa,14,Lisboa Central,933,Frente de Loja,128,14,3300,2000-01-01 08:00:00,2000-01-01 23:00:00,15,0
+POR417,S - Nuno Alvares Pereira,164,Almada,3,Margem Sul,82,Frente de Loja,225,16,3059,2000-01-01 08:00:00,2000-01-01 20:00:00,17,0
+POR416,S - Odivelas,236,Odivelas,14,Lisboa Central,931,Frente de Loja,150,16,3364,2000-01-01 08:00:00,2000-01-01 20:00:00,18,0
+POR433,S - Oscar Monteiro,235,Lisboa,14,Lisboa Central,905,Frente de Loja,119,10,3003,2000-01-01 08:00:00,2000-01-01 20:00:00,12,0
+POR403,S - Pascoal de Melo,235,Lisboa,14,Lisboa Central,938,Frente de Loja,194,15,2675,2000-01-01 08:00:00,2000-01-01 23:00:00,18,0
+POR437,S - Pedro Nunes,235,Lisboa,14,Lisboa Central,946,Frente de Loja,85,12,2951,2000-01-01 08:00:00,2000-01-01 23:00:00,13,0
+POR410,S - Penha de Franca,235,Lisboa,14,Lisboa Central,934,Frente de Loja,166,16,3057,2000-01-01 08:00:00,2000-01-01 20:00:00,20,0
+POR407,S - Queluz,235,Lisboa,14,Lisboa Central,940,Frente de Loja,146,14,2540,2000-01-01 10:00:00,2000-01-01 21:00:00,16,0
+POR425,S - R.Luis Queiroz,164,Almada,3,Margem Sul,200,Frente de Loja,132,11,2533,2000-01-01 09:00:00,2000-01-01 21:00:00,14,0
+POR438,S - Rua Visconde Santarém,235,Lisboa,14,Lisboa Central,1167,Frente de Loja,94,12,2523,2000-01-01 09:00:00,2000-01-01 21:00:00,15,0
+U0141,S - Vila Franca de Xira,244,Vila Franca de Xira,17,Lisboa Norte,1443,Frente de Loja,0,11,2912,2000-01-01 10:00:00,2000-01-01 20:00:00,17,0
+POR039,Vila do Conde,97,Vila do Conde,1,Região Norte,1536,Frente de Loja,229,40,15860,2000-01-01 09:00:00,2000-01-01 20:00:00,10,4
+POR036,Vila Real,100,Vila Real,1,Região Norte,606,Frente de Loja,234,19,8465,2000-01-01 07:00:00,2000-01-01 20:00:00,7,3
+POR010,Viseu,237,Viseu,11,Beira Interior,522,Frente de Loja,195,30,8879,2000-01-01 08:00:00,2000-01-01 23:00:00,13,3
