@@ -1,19 +1,20 @@
-# RetailCast
+# RetailCast: Daily Sales Forecasting
 
-## 
+**Objective:** Develop a Machine Learning model to forecast daily sales for a retail chain of 70 stores across Portugal, aiming to optimize inventory management, staff sizing, and promotional planning while preventing stockouts and overstock.
 
-## Objective:
+### 📊 Data & Feature Engineering
+* **Dataset:** Operational retail data (January 2019 to October 2023).
+* **Engineering:** Extensive creation of temporal variables, including 1, 7, and 14-day lags, and rolling averages.
+* **Validation:** Strict walk-forward validation to preserve chronological order and prevent data leakage.
 
-The RetailCast project developed a Machine Learning model to forecast daily sales for a retail chain with 70 stores across Portugal. The forecasts aim to support inventory management, optimize staff sizing, and improve promotional planning to avoid stockouts and overstock.  
+### 🤖 Model Performance
+* **Models Evaluated:** Linear Regression, Decision Tree, Random Forest.
+* **Winning Model:** Linear Regression.
+* **Key Metrics:**
+  * **MAPE:** 13.50% *(Successfully met business requirement of < 15%)*
+  * **R²:** 0.9545
+  * **MAE:** 5,289 €
 
-## Data & Engineering: 
-
-Utilizing operational data from January 2019 to October 2023, the study relied heavily on Feature Engineering. The team created temporal variables, such as 1, 7, and 14-day lags and rolling averages, while strictly preserving the chronological order during validation to prevent data leakage.  
-
-## Model Performance:
-
-Three algorithms were compared: Linear Regression, Decision Tree, and Random Forest. The Linear Regression model achieved the best results with a Mean Absolute Percentage Error (MAPE) of 13.50%, successfully meeting the business requirement of keeping the error below 15%. It also recorded an R² of 0.9545 and a Mean Absolute Error (MAE) of 5,289 €.  
-
-## Key Takeaways: 
-
-The success of the simpler model demonstrated that high-quality temporal variables and data preparation were more decisive for predictive performance than algorithm complexity. Due to its high accuracy, interpretability, and exceptionally low training time (0.10 seconds), the Linear Regression model was recommended as the final production solution.  
+### 💡 Key Takeaways
+* **Data over Algorithm:** High-quality temporal features and robust data preparation proved more decisive for predictive performance than algorithm complexity.
+* **Production Decision:** Linear Regression was selected as the final solution due to its optimal balance of high accuracy, business interpretability, and exceptionally low computational cost (0.10 seconds training time).
