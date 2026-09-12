@@ -1,0 +1,2222 @@
+FK_LOJA,DATA,DESCRICAO,FERIADO_FIXO,LOJA_ABERTA,ESTACAO_DO_ANO,FLAG_NATAL,FLAG_PASCOA,FLAG_ANO_NOVO,FLAG_DIA_TRABALHADOR
+POR012,2021-08-15,Assunção de Maria,false,true,Verão,false,false,false,false
+POR012,2021-10-05,Implantação da República,false,true,Outono,false,false,false,false
+POR021,2021-11-01,Todos os Santos,false,true,Outono,false,false,false,false
+POR434,2021-12-08,Imaculada Conceição,false,true,Inverno,false,false,false,false
+POR008,2022-01-01,Dia de Ano Novo,false,false,Inverno,false,false,true,false
+POR417,2022-01-01,Dia de Ano Novo,false,false,Inverno,false,false,true,false
+POR019,2022-01-01,Dia de Ano Novo,false,false,Inverno,false,false,true,false
+POR012,2022-03-01,Carnaval,false,true,Primavera,false,false,false,false
+POR417,2022-03-01,Carnaval,false,true,Primavera,false,false,false,false
+POR027,2022-03-01,Carnaval,false,true,Primavera,false,false,false,false
+POR405,2022-03-01,Carnaval,false,true,Primavera,false,false,false,false
+POR008,2022-04-15,Sexta-feira Santa,false,true,Primavera,false,false,false,false
+POR035,2022-04-15,Sexta-feira Santa,false,true,Primavera,false,false,false,false
+POR019,2022-04-15,Sexta-feira Santa,false,true,Primavera,false,false,false,false
+POR423,2022-04-17,Páscoa,false,true,Primavera,false,true,false,false
+POR028,2022-04-17,Páscoa,false,true,Primavera,false,true,false,false
+POR010,2022-04-17,Páscoa,false,true,Primavera,false,true,false,false
+POR036,2022-04-25,Dia da Liberdade,false,true,Primavera,false,false,false,false
+POR012,2022-05-01,1º MAIO - FERIADO ABERTO,false,true,Primavera,false,false,false,false
+POR021,2022-06-10,Dia de Portugal,false,true,Verão,false,false,false,false
+POR404,2022-06-13,Feriado Municipal de Lisboa,true,true,Verão,false,false,false,false
+POR403,2022-06-13,Feriado Municipal de Lisboa,true,true,Verão,false,false,false,false
+POR016,2022-06-24,Municipal do Porto (24 Jun),false,true,Verão,false,false,false,false
+POR030,2022-06-24,Municipal do Porto (24 Jun),false,true,Verão,false,false,false,false
+POR035,2022-06-24,Municipal do Porto (24 Jun),false,true,Verão,false,false,false,false
+POR019,2022-06-28,Municipal Barreiro (28 Jun),false,true,Verão,false,false,false,false
+POR062,2022-10-05,Implantação da República,false,true,Outono,false,false,false,false
+POR021,2022-10-05,Implantação da República,false,true,Outono,false,false,false,false
+POR032,2022-11-01,Todos os Santos,false,true,Outono,false,false,false,false
+POR034,2022-11-01,Todos os Santos,false,true,Outono,false,false,false,false
+POR405,2022-11-01,Todos os Santos,false,true,Outono,false,false,false,false
+POR035,2022-11-01,Todos os Santos,false,true,Outono,false,false,false,false
+POR026,2022-11-01,Todos os Santos,false,true,Outono,false,false,false,false
+POR030,2022-12-01,Restauração da Independência,false,true,Inverno,false,false,false,false
+POR010,2022-12-01,Restauração da Independência,true,true,Inverno,false,false,false,false
+POR021,2022-12-08,Imaculada Conceição,false,true,Inverno,false,false,false,false
+POR405,2022-12-08,Imaculada Conceição,false,true,Inverno,false,false,false,false
+POR034,2022-12-08,Imaculada Conceição,false,true,Inverno,false,false,false,false
+POR032,2022-12-25,Dia de natal,false,true,Inverno,true,false,false,false
+POR034,2023-01-01,Dia de Ano Novo,false,false,Inverno,false,false,true,false
+POR063,2023-02-21,Carnaval,false,true,Inverno,false,false,false,false
+POR053,2023-02-21,Carnaval,false,true,Inverno,false,false,false,false
+POR411,2023-02-21,Carnaval,false,true,Inverno,false,false,false,false
+POR404,2023-02-21,Carnaval,false,true,Inverno,false,false,false,false
+POR433,2023-02-21,Carnaval,false,true,Inverno,false,false,false,false
+POR438,2023-02-21,Carnaval,false,true,Inverno,false,false,false,false
+POR063,2023-04-07,Sexta-Feira Santa,false,true,Primavera,false,false,false,false
+POR038,2023-04-07,Sexta-Feira Santa,false,true,Primavera,false,false,false,false
+POR409,2023-04-07,Sexta-Feira Santa,false,true,Primavera,false,false,false,false
+POR414,2023-04-07,Sexta-Feira Santa,false,true,Primavera,false,false,false,false
+POR403,2023-04-07,Sexta-Feira Santa,false,true,Primavera,false,false,false,false
+POR410,2023-04-07,Sexta-Feira Santa,false,true,Primavera,false,false,false,false
+POR412,2023-04-09,Páscoa,false,true,Primavera,false,true,false,false
+POR035,2023-04-09,Páscoa,false,true,Primavera,false,true,false,false
+POR416,2023-04-25,Dia da Liberdade,true,true,Primavera,false,false,false,false
+POR063,2023-04-25,Dia da Liberdade,true,true,Primavera,false,false,false,false
+POR429,2023-04-25,Dia da Liberdade,true,true,Primavera,false,false,false,false
+POR423,2023-04-25,Dia da Liberdade,true,true,Primavera,false,false,false,false
+POR034,2023-04-25,Dia da Liberdade,true,true,Primavera,false,false,false,false
+POR407,2023-04-25,Dia da Liberdade,true,true,Primavera,false,false,false,false
+POR063,2023-05-01,Dia do Trabalhador,true,true,Primavera,false,false,false,true
+POR032,2023-05-01,Dia do Trabalhador,true,true,Primavera,false,false,false,true
+POR030,2023-05-01,Dia do Trabalhador,true,true,Primavera,false,false,false,true
+POR058,2023-06-08,Corpo de Deus,true,true,Verão,false,false,false,false
+POR421,2023-06-08,Corpo de Deus,true,true,Verão,false,false,false,false
+POR417,2023-06-08,Corpo de Deus,true,true,Verão,false,false,false,false
+POR410,2023-06-08,Corpo de Deus,true,true,Verão,false,false,false,false
+POR405,2023-06-10,Dia de Portugal,true,true,Verão,false,false,false,false
+POR054,2023-06-10,Dia de Portugal,true,true,Verão,false,false,false,false
+POR034,2023-06-10,Dia de Portugal,true,true,Verão,false,false,false,false
+POR035,2023-06-10,Dia de Portugal,true,true,Verão,false,false,false,false
+POR008,2023-06-10,Dia de Portugal,true,true,Verão,false,false,false,false
+POR031,2023-06-13,Feriado Municipal de Famalicão,true,true,Verão,false,false,false,false
+POR009,2023-07-04,Feriado Municipal de Coimbra,true,true,Verão,false,false,false,false
+POR052,2023-08-15,Assunção de Maria,true,true,Verão,false,false,false,false
+POR057,2023-08-15,Assunção de Maria,true,true,Verão,false,false,false,false
+POR062,2023-08-15,Assunção de Maria,true,true,Verão,false,false,false,false
+POR430,2023-09-11,Feriado Municipal da Amadora,true,true,Outono,false,false,false,false
+POR035,2023-10-02,Feriado Municipal de Gondomar,false,true,Outono,false,false,false,false
+POR427,2023-10-05,Implantação da República,true,true,Outono,false,false,false,false
+POR023,2023-10-05,Implantação da República,true,true,Outono,false,false,false,false
+POR036,2023-11-01,Dia de Todos os Santos,true,true,Outono,false,false,false,false
+POR416,2023-12-01,Restauração da Independência,true,true,Inverno,false,false,false,false
+POR408,2023-12-01,Restauração da Independência,true,true,Inverno,false,false,false,false
+POR010,2023-12-01,Restauração da Independência,true,true,Inverno,false,false,false,false
+POR036,2023-12-01,Restauração da Independência,true,true,Inverno,false,false,false,false
+U0141,2023-12-08,Imaculada Conceição,true,true,Inverno,false,false,false,false
+POR454,2023-12-08,Imaculada Conceição,true,true,Inverno,false,false,false,false
+POR430,2023-12-25,Natal,true,false,Inverno,true,false,false,false
+POR052,2024-02-13,Carnaval,false,true,Inverno,false,false,false,false
+POR430,2024-02-13,Carnaval,false,true,Inverno,false,false,false,false
+POR013,2024-02-13,Carnaval,false,true,Inverno,false,false,false,false
+POR414,2024-02-13,Carnaval,false,true,Inverno,false,false,false,false
+POR437,2024-02-13,Carnaval,false,true,Inverno,false,false,false,false
+POR031,2024-02-13,Carnaval,false,true,Inverno,false,false,false,false
+POR028,2024-03-29,Sexta-Feira Santa,false,true,Primavera,false,false,false,false
+POR012,2024-03-29,Sexta-Feira Santa,false,true,Primavera,false,false,false,false
+POR436,2024-03-29,Sexta-Feira Santa,false,true,Primavera,false,false,false,false
+POR434,2024-03-31,Páscoa,false,true,Primavera,false,true,false,false
+POR054,2024-03-31,Páscoa,false,true,Primavera,false,true,false,false
+POR034,2024-03-31,Páscoa,false,true,Primavera,false,true,false,false
+POR402,2024-03-31,Páscoa,false,true,Primavera,false,true,false,false
+POR408,2024-03-31,Páscoa,false,true,Primavera,false,true,false,false
+POR058,2024-03-31,Páscoa,false,true,Primavera,false,true,false,false
+U0141,2024-03-31,Pascoa,false,true,Primavera,false,true,false,false
+POR432,2020-01-01,Ano Novo,true,true,Inverno,false,false,true,false
+POR419,2020-01-01,Dia de Ano Novo,true,true,Inverno,false,false,true,false
+POR429,2020-01-01,Dia de Ano Novo,true,true,Inverno,false,false,true,false
+POR010,2020-01-01,Dia de Ano Novo,true,true,Inverno,false,false,true,false
+POR434,2020-09-15,Dia de Bocage (municipal),true,true,Outono,false,false,false,false
+POR034,2020-10-05,Implantação da República,true,true,Outono,false,false,false,false
+POR416,2020-11-19,Feriado Municipal de Odivelas,true,true,Outono,false,false,false,false
+POR035,2020-12-01,Restauração da Independência,true,true,Inverno,false,false,false,false
+POR057,2020-12-25,Natal,true,true,Inverno,true,false,false,false
+POR034,2020-12-25,Natal,true,true,Inverno,true,false,false,false
+POR410,2021-01-01,Dia de Ano Novo,true,true,Inverno,false,false,true,false
+U0143,2021-04-07,Feriado aberto,true,true,Primavera,false,false,false,false
+POR435,2021-12-25,Natal,true,true,Inverno,true,false,false,false
+POR029,2022-01-01,Dia de Ano Novo,true,true,Inverno,false,false,true,false
+POR039,2022-01-01,Dia de Ano Novo,true,true,Inverno,false,false,true,false
+U0143,2022-01-01,Dia de Ano Novo,true,true,Inverno,false,false,true,false
+U0141,2022-05-01,Dia do Trabalhador,true,true,Primavera,false,false,false,true
+POR438,2022-06-13,Feriado Municipal de Lisboa,true,true,Verão,false,false,false,false
+POR427,2022-12-25,Natal,true,true,Inverno,true,false,false,false
+POR052,2022-12-25,Natal,true,true,Inverno,true,false,false,false
+POR057,2022-12-25,Natal,true,true,Inverno,true,false,false,false
+POR423,2023-01-01,Ano Novo,true,true,Inverno,false,false,true,false
+POR058,2023-01-01,Dia de Ano Novo,true,true,Inverno,false,false,true,false
+POR025,2023-01-01,passagem de ano,true,true,Inverno,false,false,false,false
+POR413,2023-01-01,Dia de Ano Novo,true,true,Inverno,false,false,true,false
+POR039,2023-06-24,Feriado Municipal,true,true,Verão,false,false,false,false
+POR031,2023-08-15,Assunção de Maria,true,true,Verão,false,false,false,false
+POR406,2023-12-25,Natal,true,true,Inverno,true,false,false,false
+POR402,2023-12-25,Natal,true,true,Inverno,true,false,false,false
+POR053,2023-12-25,Natal,true,true,Inverno,true,false,false,false
+POR034,2024-01-01,Dia de Ano Novo,true,true,Inverno,false,false,true,false
+POR033,2024-01-01,Dia de Ano Novo,true,false,Inverno,false,false,true,false
+POR063,2024-01-01,Dia de Ano Novo,true,true,Inverno,false,false,true,false
+POR407,2024-01-01,Dia de Ano Novo,true,true,Inverno,false,false,true,false
+POR438,2024-01-01,Dia de Ano Novo,true,true,Inverno,false,false,true,false
+POR039,2024-06-24,Feriado Municipal,true,true,Verão,false,false,false,false
+POR038,2024-12-25,Natal,true,true,Inverno,true,false,false,false
+POR446,2024-12-25,Natal,true,true,Inverno,true,false,false,false
+POR021,2021-10-05,Implantação da República,false,true,Outono,false,false,false,false
+POR434,2021-12-01,Restauração da Independência,false,true,Inverno,false,false,false,false
+POR010,2022-01-01,Dia de Ano Novo,false,false,Inverno,false,false,true,false
+POR030,2022-01-01,Dia de Ano Novo,false,false,Inverno,false,false,true,false
+POR009,2022-03-01,Carnaval,false,true,Primavera,false,false,false,false
+POR423,2022-03-01,Carnaval,false,true,Primavera,false,false,false,false
+POR026,2022-03-01,Carnaval,false,true,Primavera,false,false,false,false
+POR417,2022-04-15,Sexta-feira Santa,false,true,Primavera,false,false,false,false
+POR009,2022-04-15,Sexta-feira Santa,false,true,Primavera,false,false,false,false
+POR054,2022-04-15,Sexta-feira Santa,false,true,Primavera,false,false,false,false
+POR432,2022-04-17,Páscoa,false,true,Primavera,false,true,false,false
+POR017,2022-04-17,Páscoa,false,true,Primavera,false,true,false,false
+POR009,2022-06-10,Dia de Portugal,false,true,Verão,false,false,false,false
+POR417,2022-06-10,Dia de Portugal,false,true,Verão,false,false,false,false
+POR036,2022-06-10,Dia de Portugal,false,true,Verão,false,false,false,false
+POR406,2022-06-13,Feriado Municipal de Lisboa,true,true,Verão,false,false,false,false
+POR405,2022-06-24,Feriado Municipal,false,true,Verão,false,false,false,false
+POR417,2022-10-05,Implantação da República,false,true,Outono,false,false,false,false
+POR016,2022-10-05,Implantação da República,false,true,Outono,false,false,false,false
+POR030,2022-12-08,Imaculada Conceição,false,true,Inverno,false,false,false,false
+POR009,2022-12-08,Imaculada Conceição,false,true,Inverno,false,false,false,false
+POR019,2022-12-25,Dia de natal,false,false,Inverno,true,false,false,false
+POR406,2023-02-21,Carnaval,false,true,Inverno,false,false,false,false
+POR054,2023-02-21,Carnaval,false,true,Inverno,false,false,false,false
+POR411,2023-04-07,Sexta-Feira Santa,false,true,Primavera,false,false,false,false
+POR432,2023-04-07,Sexta-Feira Santa,false,true,Primavera,false,false,false,false
+POR053,2023-04-09,Páscoa,false,true,Primavera,false,true,false,false
+POR023,2023-04-09,Páscoa,false,true,Primavera,false,true,false,false
+POR012,2023-04-09,Páscoa,false,true,Primavera,false,true,false,false
+POR433,2023-04-09,Páscoa,false,true,Primavera,false,true,false,false
+POR437,2023-04-09,Páscoa,false,true,Primavera,false,true,false,false
+POR057,2023-04-25,Dia da Liberdade,true,true,Primavera,false,false,false,false
+POR033,2023-04-25,Dia da Liberdade,true,true,Primavera,false,false,false,false
+POR437,2023-04-25,Dia da Liberdade,true,true,Primavera,false,false,false,false
+POR419,2023-05-01,Dia do Trabalhador,true,true,Primavera,false,false,false,true
+POR421,2023-05-01,Dia do Trabalhador,true,true,Primavera,false,false,false,true
+POR408,2023-05-01,Dia do Trabalhador,true,true,Primavera,false,false,false,true
+POR008,2023-05-01,Dia do Trabalhador,true,true,Primavera,false,false,false,true
+POR446,2023-05-01,Dia do Trabalhador,true,true,Primavera,false,false,false,true
+U0141,2023-05-18,Feriado Municipa Vila Franca de Xira,false,true,Primavera,false,false,false,false
+POR402,2023-06-08,Corpo de Deus,true,true,Verão,false,false,false,false
+POR435,2023-06-08,Corpo de Deus,true,true,Verão,false,false,false,false
+POR018,2023-06-08,Corpo de Deus,true,true,Verão,false,false,false,false
+POR023,2023-06-08,Corpo de Deus,true,true,Verão,false,false,false,false
+POR012,2023-06-08,Corpo de Deus,true,true,Verão,false,false,false,false
+POR033,2023-06-10,Dia de Portugal,true,true,Verão,false,false,false,false
+POR421,2023-06-10,Dia de Portugal,true,true,Verão,false,false,false,false
+POR430,2023-06-10,Dia de Portugal,true,true,Verão,false,false,false,false
+POR408,2023-06-10,Dia de Portugal,true,true,Verão,false,false,false,false
+POR446,2023-06-10,Dia de Portugal,true,true,Verão,false,false,false,false
+POR425,2023-06-24,Feriado Municipal de Almada,true,true,Verão,false,false,false,false
+POR405,2023-06-24,Feriado Municipal de Almada,true,true,Verão,false,false,false,false
+POR429,2023-08-15,Assunção de Maria,true,true,Verão,false,false,false,false
+POR432,2023-08-15,Assunção de Maria,true,true,Verão,false,false,false,false
+POR021,2023-08-15,Assunção de Maria,true,true,Verão,false,false,false,false
+POR008,2023-08-15,Assunção de Maria,true,true,Verão,false,false,false,false
+POR016,2023-08-15,Assunção de Maria,true,true,Verão,false,false,false,false
+POR435,2023-10-05,Implantação da República,true,true,Outono,false,false,false,false
+POR423,2023-10-05,Implantação da República,true,true,Outono,false,false,false,false
+POR035,2023-10-05,Implantação da República,true,true,Outono,false,false,false,false
+POR437,2023-10-05,Implantação da República,true,true,Outono,false,false,false,false
+POR058,2023-11-01,Dia de Todos os Santos,true,true,Outono,false,false,false,false
+POR063,2023-11-01,Dia de Todos os Santos,true,true,Outono,false,false,false,false
+POR422,2023-11-01,Dia de Todos os Santos,true,true,Outono,false,false,false,false
+POR027,2023-11-01,Dia de Todos os Santos,true,true,Outono,false,false,false,false
+POR410,2023-11-01,Dia de Todos os Santos,true,true,Outono,false,false,false,false
+POR420,2023-12-01,Restauração da Independência,true,true,Inverno,false,false,false,false
+POR423,2023-12-01,Restauração da Independência,true,true,Inverno,false,false,false,false
+POR032,2023-12-01,Restauração da Independência,true,true,Inverno,false,false,false,false
+POR437,2023-12-01,Restauração da Independência,true,true,Inverno,false,false,false,false
+POR446,2023-12-01,Restauração da Independência,true,true,Inverno,false,false,false,false
+POR053,2023-12-08,Imaculada Conceição,true,true,Inverno,false,false,false,false
+POR430,2023-12-08,Imaculada Conceição,true,true,Inverno,false,false,false,false
+POR031,2023-12-08,Imaculada Conceição,true,true,Inverno,false,false,false,false
+POR433,2023-12-08,Imaculada Conceição,true,true,Inverno,false,false,false,false
+POR421,2023-12-25,Natal,true,false,Inverno,true,false,false,false
+POR411,2023-12-25,Natal,true,false,Inverno,true,false,false,false
+POR434,2023-12-25,Natal,true,false,Inverno,true,false,false,false
+POR054,2023-12-25,Natal,true,false,Inverno,true,false,false,false
+POR031,2023-12-25,Natal,true,false,Inverno,true,false,false,false
+U0142,2023-12-25,Natal,true,false,Inverno,true,false,false,false
+U0143,2023-12-25,Natal,true,false,Inverno,true,false,false,false
+POR065,2024-02-13,Carnaval,false,true,Inverno,false,false,false,false
+POR433,2024-02-13,Carnaval,false,true,Inverno,false,false,false,false
+POR403,2024-02-13,Carnaval,false,true,Inverno,false,false,false,false
+POR057,2024-02-13,Carnaval,false,true,Inverno,false,false,false,false
+POR027,2024-02-13,Carnaval,false,true,Inverno,false,false,false,false
+POR412,2024-02-13,Carnaval,false,true,Inverno,false,false,false,false
+POR030,2024-02-13,Carnaval,false,true,Inverno,false,false,false,false
+U0141,2024-03-29,Sexta-feira Santa,false,true,Primavera,false,false,false,false
+POR034,2024-03-29,Sexta-Feira Santa,false,true,Primavera,false,false,false,false
+POR017,2024-03-31,Páscoa,false,true,Primavera,false,true,false,false
+POR035,2024-03-31,Páscoa,false,true,Primavera,false,true,false,false
+POR406,2024-03-31,Páscoa,false,true,Primavera,false,true,false,false
+POR419,2024-03-31,Páscoa,false,true,Primavera,false,true,false,false
+POR038,2024-03-31,Páscoa,false,true,Primavera,false,true,false,false
+POR052,2020-01-01,Dia de Ano Novo,true,true,Inverno,false,false,true,false
+POR033,2020-01-01,Dia de Ano Novo,true,false,Inverno,false,false,true,false
+POR436,2020-01-01,Dia de Ano Novo,true,true,Inverno,false,false,true,false
+POR035,2020-01-01,Dia de Ano Novo,true,true,Inverno,false,false,true,false
+POR445,2020-01-01,Dia de Ano Novo,true,true,Inverno,false,false,true,false
+U0141,2020-06-10,Dia de Portugal,true,true,Verão,false,false,false,false
+POR039,2020-08-15,Assunção de Maria,true,true,Verão,false,false,false,false
+POR010,2020-12-01,Restauração da Independência,true,true,Inverno,false,false,false,false
+POR028,2020-12-25,Natal,true,true,Inverno,true,false,false,false
+POR036,2020-12-25,Natal,true,true,Inverno,true,false,false,false
+POR065,2020-12-25,Natal,true,true,Inverno,true,false,false,false
+POR423,2021-01-01,Ano Novo,true,true,Inverno,false,false,true,false
+POR435,2021-01-01,Dia de Ano Novo,true,true,Inverno,false,false,true,false
+POR430,2021-01-01,Dia de Ano Novo,true,true,Inverno,false,false,true,false
+POR026,2021-01-01,Dia de Ano Novo,true,true,Inverno,false,false,true,false
+POR407,2021-01-01,Dia de Ano Novo,true,true,Inverno,false,false,true,false
+POR010,2021-12-01,Restauração da Independência,true,true,Inverno,false,false,false,false
+POR021,2021-12-25,Dia de natal,true,false,Inverno,true,false,false,false
+POR034,2022-01-01,Dia de Ano Novo,true,true,Inverno,false,false,true,false
+POR038,2022-12-25,Natal,true,true,Inverno,true,false,false,false
+POR436,2023-01-01,Dia de Ano Novo,true,true,Inverno,false,false,true,false
+U0141,2023-05-01,Dia do Trabalhador,true,true,Primavera,false,false,false,true
+POR019,2023-12-25,Natal,true,true,Inverno,true,false,false,false
+POR030,2023-12-25,Natal,true,true,Inverno,true,false,false,false
+POR065,2023-12-25,Natal,true,true,Inverno,true,false,false,false
+POR053,2024-01-01,Dia de Ano Novo,true,true,Inverno,false,false,true,false
+POR023,2024-01-01,Dia de Ano Novo,true,false,Inverno,false,false,true,false
+POR029,2024-01-01,Dia de Ano Novo,true,true,Inverno,false,false,true,false
+POR054,2024-01-01,Dia de Ano Novo,true,true,Inverno,false,false,true,false
+POR035,2024-01-01,Dia de Ano Novo,true,true,Inverno,false,false,true,false
+POR454,2024-01-01,Dia de Ano Novo,true,true,Inverno,false,false,true,false
+POR039,2024-04-25,Dia da Liberdade,true,true,Primavera,false,false,false,false
+POR436,2024-06-13,Feriado Municipal de Lisboa,true,true,Verão,false,false,false,false
+POR433,2024-06-13,Feriado Municipal de Lisboa,true,true,Verão,false,false,false,false
+POR063,2024-09-08,Feriado Municipal de Lagoa,true,true,Outono,false,false,false,false
+POR010,2024-12-01,Restauração da Independência,true,true,Inverno,false,false,false,false
+POR021,2024-12-25,Dia de natal,true,false,Inverno,true,false,false,false
+POR065,2024-12-25,Natal,true,true,Inverno,true,false,false,false
+POR019,2021-08-15,Assunção de Maria,false,true,Verão,false,false,false,false
+POR012,2021-12-08,Imaculada Conceição,false,true,Inverno,false,false,false,false
+POR417,2021-12-25,Dia de natal,false,false,Inverno,true,false,false,false
+POR028,2022-01-01,Dia de Ano Novo,false,false,Inverno,false,false,true,false
+POR035,2022-03-01,Carnaval,false,true,Primavera,false,false,false,false
+POR021,2022-03-01,Carnaval,false,true,Primavera,false,false,false,false
+POR028,2022-03-01,Carnaval,false,true,Primavera,false,false,false,false
+POR010,2022-03-01,Carnaval,false,true,Primavera,false,false,false,false
+POR405,2022-04-15,Sexta -Feira Santa,false,true,Primavera,false,false,false,false
+POR010,2022-04-15,Sexta-feira Santa,false,true,Primavera,false,false,false,false
+POR034,2022-04-17,Páscoa,false,true,Primavera,false,true,false,false
+POR026,2022-04-17,Páscoa,false,true,Primavera,false,true,false,false
+POR028,2022-05-01,1º MAIO - FERIADO ABERTO,false,true,Primavera,false,false,false,false
+POR012,2022-06-16,Corpo de Deus,false,true,Verão,false,false,false,false
+POR405,2022-06-16,Corpo de Deus,false,true,Verão,false,false,false,false
+POR036,2022-06-16,Corpo de Deus,false,true,Verão,false,false,false,false
+POR026,2022-06-24,Municipal do Porto (24 Jun),false,true,Verão,false,false,false,false
+POR062,2022-08-15,Assunção de Maria,false,true,Verão,false,false,false,false
+POR027,2022-08-15,Assunção de Maria,false,true,Verão,false,false,false,false
+POR434,2022-08-15,Assunção de Maria,false,true,Verão,false,false,false,false
+POR425,2022-10-05,Implantação da República,false,true,Outono,false,false,false,false
+POR016,2022-12-08,Imaculada Conceição,false,true,Inverno,false,false,false,false
+POR034,2022-12-25,Dia de natal,false,true,Inverno,true,false,false,false
+POR052,2023-02-21,Carnaval,false,true,Inverno,false,false,false,false
+POR430,2023-02-21,Carnaval,false,true,Inverno,false,false,false,false
+POR427,2023-02-21,Carnaval,false,true,Inverno,false,false,false,false
+POR437,2023-02-21,Carnaval,false,true,Inverno,false,false,false,false
+POR035,2023-02-21,Feriado-carnaval,false,true,Inverno,false,false,false,false
+POR402,2023-04-07,Sexta-Feira Santa,false,true,Primavera,false,false,false,false
+POR058,2023-04-07,Sexta-Feira Santa,false,true,Primavera,false,false,false,false
+POR422,2023-04-07,Sexta-Feira Santa,false,true,Primavera,false,false,false,false
+POR434,2023-04-07,Sexta-Feira Santa,false,true,Primavera,false,false,false,false
+POR017,2023-04-07,Sexta-Feira Santa,false,true,Primavera,false,false,false,false
+POR026,2023-04-07,Sexta-Feira Santa,false,true,Primavera,false,false,false,false
+POR438,2023-04-07,Sexta-Feira Santa,false,true,Primavera,false,false,false,false
+POR031,2023-04-07,Sexta-Feira Santa,false,true,Primavera,false,false,false,false
+POR033,2023-04-09,Páscoa,false,true,Primavera,false,true,false,false
+POR063,2023-04-09,Páscoa,false,true,Primavera,false,true,false,false
+POR031,2023-04-09,Páscoa,false,true,Primavera,false,true,false,false
+POR039,2023-04-09,Páscoa,false,true,Primavera,false,true,false,false
+POR421,2023-04-25,Dia da Liberdade,true,true,Primavera,false,false,false,false
+POR016,2023-04-25,Dia da Liberdade,true,true,Primavera,false,false,false,false
+POR410,2023-04-25,Dia da Liberdade,true,true,Primavera,false,false,false,false
+POR416,2023-05-01,Dia do Trabalhador,true,true,Primavera,false,false,false,true
+POR053,2023-05-01,Dia do Trabalhador,true,true,Primavera,false,false,false,true
+POR038,2023-05-01,Dia do Trabalhador,true,true,Primavera,false,false,false,true
+POR429,2023-05-01,Dia do Trabalhador,true,true,Primavera,false,false,false,true
+POR062,2023-05-01,Dia do Trabalhador,true,true,Primavera,false,false,false,true
+POR012,2023-05-01,Dia do Trabalhador,true,true,Primavera,false,false,false,true
+POR052,2023-05-15,Feriado Municipal das Caldas da Rainha,true,true,Primavera,false,false,false,false
+POR408,2023-06-08,Corpo de Deus,true,true,Verão,false,false,false,false
+POR438,2023-06-08,Corpo de Deus,true,true,Verão,false,false,false,false
+POR411,2023-06-10,Dia de Portugal,true,true,Verão,false,false,false,false
+POR420,2023-06-10,Dia de Portugal,true,true,Verão,false,false,false,false
+POR021,2023-06-10,Dia de Portugal,true,true,Verão,false,false,false,false
+POR010,2023-06-10,Dia de Portugal,true,true,Verão,false,false,false,false
+POR438,2023-06-10,Dia de Portugal,true,true,Verão,false,false,false,false
+POR036,2023-06-13,Feriado Municipal de Famalicão,true,true,Verão,false,false,false,false
+POR008,2023-06-24,Feriado Municipal de Vila Nova de Gaia,true,true,Verão,false,false,false,false
+POR412,2023-06-24,Feriado Municipal de Almada,true,true,Verão,false,false,false,false
+U0142,2023-06-24,Feriado Municipal,false,true,Verão,false,false,false,false
+POR407,2023-06-29,Feriado Municipal de Sintra,true,true,Verão,false,false,false,false
+POR030,2023-07-11,Feriado Municipal de Santo Tirso,true,true,Verão,false,false,false,false
+POR406,2023-08-15,Assunção de Maria,true,true,Verão,false,false,false,false
+POR435,2023-08-15,Assunção de Maria,true,true,Verão,false,false,false,false
+POR409,2023-08-15,Assunção de Maria,true,true,Verão,false,false,false,false
+POR408,2023-08-15,Assunção de Maria,true,true,Verão,false,false,false,false
+POR423,2023-08-15,Assunção de Maria,true,true,Verão,false,false,false,false
+POR446,2023-08-15,Assunção de Maria,true,true,Verão,false,false,false,false
+POR402,2023-10-05,Implantação da República,true,true,Outono,false,false,false,false
+POR013,2023-10-05,Implantação da República,true,true,Outono,false,false,false,false
+POR028,2023-10-05,Implantação da República,true,true,Outono,false,false,false,false
+POR012,2023-10-05,Implantação da República,true,true,Outono,false,false,false,false
+POR408,2023-11-01,Dia de Todos os Santos,true,true,Outono,false,false,false,false
+POR065,2023-11-01,Dia de Todos os Santos,true,true,Outono,false,false,false,false
+POR012,2023-11-01,Dia de Todos os Santos,true,true,Outono,false,false,false,false
+POR425,2023-11-01,Dia de Todos os Santos,true,true,Outono,false,false,false,false
+POR028,2023-11-01,Dia de Todos os Santos,true,true,Outono,false,false,false,false
+POR063,2023-12-01,Restauração da Independência,true,true,Inverno,false,false,false,false
+POR421,2023-12-01,Restauração da Independência,true,true,Inverno,false,false,false,false
+POR425,2023-12-01,Restauração da Independência,true,true,Inverno,false,false,false,false
+POR434,2023-12-01,Restauração da Independência,true,true,Inverno,false,false,false,false
+POR012,2023-12-01,Restauração da Independência,true,true,Inverno,false,false,false,false
+POR403,2023-12-01,Restauração da Independência,true,true,Inverno,false,false,false,false
+POR409,2023-12-08,Imaculada Conceição,true,true,Inverno,false,false,false,false
+POR425,2023-12-08,Imaculada Conceição,true,true,Inverno,false,false,false,false
+POR032,2023-12-08,Imaculada Conceição,true,true,Inverno,false,false,false,false
+POR030,2023-12-08,Imaculada Conceição,true,true,Inverno,false,false,false,false
+U0142,2023-12-08,Imaculada Conceição,true,true,Inverno,false,false,false,false
+POR424,2023-12-25,Natal,true,false,Inverno,true,false,false,false
+POR416,2023-12-25,Natal,true,false,Inverno,true,false,false,false
+POR421,2024-02-13,Carnaval,false,true,Inverno,false,false,false,false
+POR405,2024-02-13,Carnaval,false,true,Inverno,false,false,false,false
+POR454,2024-03-29,Sexta-Feira Santa,false,true,Primavera,false,false,false,false
+POR423,2024-03-29,Sexta-Feira Santa,false,true,Primavera,false,false,false,false
+POR009,2024-03-29,Sexta-Feira Santa,false,true,Primavera,false,false,false,false
+POR030,2024-03-29,Sexta-Feira Santa,false,true,Primavera,false,false,false,false
+POR065,2024-03-29,Sexta-Feira Santa,false,true,Primavera,false,false,false,false
+POR438,2024-03-29,Sexta-Feira Santa,false,true,Primavera,false,false,false,false
+POR454,2024-03-31,Páscoa,false,true,Primavera,false,true,false,false
+POR412,2024-03-31,Páscoa,false,true,Primavera,false,true,false,false
+POR446,2024-03-31,Páscoa,false,true,Primavera,false,true,false,false
+POR030,2024-03-31,Páscoa,false,true,Primavera,false,true,false,false
+POR411,2024-03-31,Páscoa,false,true,Primavera,false,true,false,false
+POR422,2024-03-31,Páscoa,false,true,Primavera,false,true,false,false
+POR403,2024-03-31,Páscoa,false,true,Primavera,false,true,false,false
+POR029,2020-01-01,Dia de Ano Novo,true,true,Inverno,false,false,true,false
+POR054,2020-01-01,Dia de Ano Novo,true,true,Inverno,false,false,true,false
+POR039,2020-01-01,Dia de Ano Novo,true,true,Inverno,false,false,true,false
+POR035,2020-04-25,Dia da Liberdade,true,true,Primavera,false,false,false,false
+POR031,2020-10-05,Implantação da República,true,true,Outono,false,false,false,false
+POR062,2020-12-25,Dia de natal,true,true,Inverno,true,false,false,false
+POR017,2020-12-25,Natal,true,true,Inverno,true,false,false,false
+POR021,2021-01-01,Ano Novo,true,false,Inverno,false,false,true,false
+POR031,2021-01-01,Dia de Ano Novo,true,true,Inverno,false,false,true,false
+POR033,2021-01-01,Dia de Ano Novo,true,false,Inverno,false,false,true,false
+POR063,2021-01-01,Dia de Ano Novo,true,true,Inverno,false,false,true,false
+POR409,2021-01-01,Dia de Ano Novo,true,true,Inverno,false,false,true,false
+POR012,2021-01-01,Dia de Ano Novo,true,false,Inverno,false,false,true,false
+POR438,2021-06-13,Feriado Municipal de Lisboa,true,true,Verão,false,false,false,false
+POR039,2021-10-05,Implantação da República,true,true,Outono,false,false,false,false
+POR029,2021-12-25,Natal,true,true,Inverno,true,false,false,false
+POR032,2021-12-25,Natal,true,true,Inverno,true,false,false,false
+POR034,2021-12-25,Natal,true,true,Inverno,true,false,false,false
+POR031,2022-01-01,Dia de Ano Novo,true,true,Inverno,false,false,true,false
+POR063,2022-01-01,Dia de Ano Novo,true,true,Inverno,false,false,true,false
+POR430,2022-01-01,Dia de Ano Novo,true,true,Inverno,false,false,true,false
+POR413,2022-01-01,Dia de Ano Novo,true,true,Inverno,false,false,true,false
+POR408,2022-01-01,Dia de Ano Novo,true,true,Inverno,false,false,true,false
+POR039,2022-04-25,Dia da Liberdade,true,true,Primavera,false,false,false,false
+POR013,2022-05-01,Dia do Trabalhador,true,true,Primavera,false,false,false,true
+POR031,2022-08-15,Assunção de Maria,true,true,Verão,false,false,false,false
+POR416,2022-11-19,Feriado Municipal de Odivelas,true,true,Outono,false,false,false,false
+POR028,2022-12-25,Natal,true,true,Inverno,true,false,false,false
+POR035,2022-12-25,Natal,true,true,Inverno,true,false,false,false
+POR057,2023-01-01,Dia de Ano Novo,true,true,Inverno,false,false,true,false
+POR417,2023-01-01,Dia de Ano Novo,true,true,Inverno,false,false,true,false
+POR026,2023-01-01,Dia de Ano Novo,true,true,Inverno,false,false,true,false
+POR407,2023-01-01,Dia de Ano Novo,true,true,Inverno,false,false,true,false
+POR446,2023-01-01,Ano Novo,true,true,Inverno,false,false,true,false
+U0141,2023-06-08,Corpo de Deus,true,true,Verão,false,false,false,false
+U0141,2023-06-10,Dia de Portugal,true,true,Verão,false,false,false,false
+POR025,2024-01-01,passagem de ano,true,true,Inverno,false,false,false,false
+POR413,2024-01-01,Dia de Ano Novo,true,true,Inverno,false,false,true,false
+POR065,2024-01-01,Dia de Ano Novo,true,true,Inverno,false,false,true,false
+POR445,2024-01-01,Dia de Ano Novo,true,true,Inverno,false,false,true,false
+POR435,2024-06-13,Feriado Municipal de Lisboa,true,true,Verão,false,false,false,false
+POR030,2024-12-25,Natal,true,true,Inverno,true,false,false,false
+POR027,2021-11-01,Todos os Santos,false,true,Outono,false,false,false,false
+POR017,2022-01-01,Dia de Ano Novo,false,false,Inverno,false,false,true,false
+POR016,2022-03-01,Carnaval,false,true,Primavera,false,false,false,false
+POR036,2022-03-01,Carnaval,false,true,Primavera,false,false,false,false
+POR031,2022-04-15,Sexta-feira Santa,false,true,Primavera,false,false,false,false
+POR026,2022-04-15,Sexta-feira Santa,false,true,Primavera,false,false,false,false
+POR054,2022-04-17,Páscoa,false,true,Primavera,false,true,false,false
+POR423,2022-05-01,1º MAIO - FERIADO ABERTO,false,true,Primavera,false,false,false,false
+POR425,2022-05-01,1º MAIO - FERIADO ABERTO,false,true,Primavera,false,false,false,false
+POR008,2022-06-10,Dia de Portugal,false,true,Verão,false,false,false,false
+POR019,2022-06-10,Dia de Portugal,false,true,Verão,false,false,false,false
+POR405,2022-06-10,Dia de Portugal,false,true,Verão,false,false,false,false
+POR412,2022-06-16,Corpo de Deus,false,true,Verão,false,false,false,false
+POR039,2022-06-16,Corpo de Deus,false,true,Verão,false,false,false,false
+POR008,2022-06-24,Municipal do Porto (24 Jun),false,true,Verão,false,false,false,false
+POR034,2022-08-15,Assunção de Maria,false,true,Verão,false,false,false,false
+POR008,2022-10-05,Implantação da República,false,true,Outono,false,false,false,false
+POR036,2022-10-05,Implantação da República,false,true,Outono,false,false,false,false
+POR027,2022-11-01,Todos os Santos,false,true,Outono,false,false,false,false
+POR423,2022-11-01,Todos os Santos,false,true,Outono,false,false,false,false
+POR012,2022-12-01,Restauração da Independência,false,true,Inverno,false,false,false,false
+POR423,2022-12-01,Restauração da Independência,false,true,Inverno,false,false,false,false
+POR062,2022-12-08,Imaculada Conceição,false,true,Inverno,false,false,false,false
+POR065,2022-12-25,Dia de natal,false,false,Inverno,true,false,false,false
+POR030,2022-12-25,Dia de natal,false,false,Inverno,true,false,false,false
+POR021,2023-01-01,Dia de Ano Novo,true,false,Inverno,false,false,true,false
+POR420,2023-02-21,Carnaval,false,true,Inverno,false,false,false,false
+POR010,2023-02-21,Carnaval,false,true,Inverno,false,false,false,false
+POR030,2023-02-21,Carnaval,false,true,Inverno,false,false,false,false
+POR016,2023-02-21,Carnaval,false,true,Inverno,false,false,false,false
+POR410,2023-02-21,Carnaval,false,true,Inverno,false,false,false,false
+POR406,2023-04-07,Sexta-Feira Santa,false,true,Primavera,false,false,false,false
+POR019,2023-04-07,Sexta-Feira Santa,false,true,Primavera,false,false,false,false
+POR417,2023-04-07,Sexta-Feira Santa,false,true,Primavera,false,false,false,false
+POR021,2023-04-07,Sexta-Feira Santa,false,true,Primavera,false,false,false,false
+POR008,2023-04-07,Sexta-Feira Santa,false,true,Primavera,false,false,false,false
+POR433,2023-04-07,Sexta-Feira Santa,false,true,Primavera,false,false,false,false
+POR018,2023-04-09,Páscoa,false,true,Primavera,false,true,false,false
+POR018,2023-05-01,Dia do Trabalhador,true,true,Primavera,false,false,false,true
+POR411,2023-05-01,Dia do Trabalhador,true,true,Primavera,false,false,false,true
+POR436,2023-05-01,Dia do Trabalhador,true,true,Primavera,false,false,false,true
+POR454,2023-05-01,Dia do Trabalhador,true,true,Primavera,false,false,false,true
+POR409,2023-06-08,Corpo de Deus,true,true,Verão,false,false,false,false
+POR430,2023-06-08,Corpo de Deus,true,true,Verão,false,false,false,false
+POR411,2023-06-08,Corpo de Deus,true,true,Verão,false,false,false,false
+POR433,2023-06-08,Corpo de Deus,true,true,Verão,false,false,false,false
+POR029,2023-06-08,Corpo de Deus,true,true,Verão,false,false,false,false
+POR454,2023-06-08,Corpo de Deus,true,true,Verão,false,false,false,false
+POR027,2023-06-10,Dia de Portugal,true,true,Verão,false,false,false,false
+POR065,2023-06-10,Dia de Portugal,true,true,Verão,false,false,false,false
+POR445,2023-06-10,Dia de Portugal,true,true,Verão,false,false,false,false
+POR454,2023-06-24,Dia de São João,true,true,Verão,false,false,false,false
+POR019,2023-06-28,Feriado Municipal do Barreiro,true,true,Verão,false,false,false,false
+POR038,2023-06-29,Feriado Municipal de Sintra,true,true,Verão,false,false,false,false
+POR062,2023-07-04,Feriado Municipal de Coimbra,true,true,Verão,false,false,false,false
+POR027,2023-09-15,Feriado Municipal de Setúbal,true,true,Outono,false,false,false,false
+POR027,2023-10-05,Implantação da República,true,true,Outono,false,false,false,false
+POR008,2023-10-05,Implantação da República,true,true,Outono,false,false,false,false
+POR016,2023-10-05,Implantação da República,true,true,Outono,false,false,false,false
+POR013,2023-11-01,Dia de Todos os Santos,true,true,Outono,false,false,false,false
+POR421,2023-11-01,Dia de Todos os Santos,true,true,Outono,false,false,false,false
+POR434,2023-11-01,Dia de Todos os Santos,true,true,Outono,false,false,false,false
+POR013,2023-11-11,Feriado Municipal de Torres Vedras,true,true,Outono,false,false,false,false
+U0141,2023-12-01,Restauração da Independência,true,true,Inverno,false,false,false,false
+POR023,2023-12-08,Imaculada Conceição,true,true,Inverno,false,false,false,false
+POR411,2023-12-08,Imaculada Conceição,true,true,Inverno,false,false,false,false
+POR417,2023-12-08,Imaculada Conceição,true,true,Inverno,false,false,false,false
+POR403,2023-12-08,Imaculada Conceição,true,true,Inverno,false,false,false,false
+POR016,2023-12-08,Imaculada Conceição,true,true,Inverno,false,false,false,false
+POR445,2023-12-08,Imaculada Conceição,true,true,Inverno,false,false,false,false
+POR028,2023-12-25,Dia de natal,false,true,Inverno,true,false,false,false
+POR414,2023-12-25,Natal,true,false,Inverno,true,false,false,false
+POR403,2023-12-25,Natal,true,false,Inverno,true,false,false,false
+POR023,2024-02-13,Carnaval,false,true,Inverno,false,false,false,false
+POR402,2024-02-13,Carnaval,false,true,Inverno,false,false,false,false
+POR425,2024-02-13,Carnaval,false,true,Inverno,false,false,false,false
+POR017,2024-02-13,Carnaval,false,true,Inverno,false,false,false,false
+POR405,2024-03-29,Sexta-Feira Santa,false,true,Primavera,false,false,false,false
+POR445,2024-03-29,Sexta-Feira Santa,false,true,Primavera,false,false,false,false
+POR422,2024-03-29,Sexta-Feira Santa,false,true,Primavera,false,false,false,false
+POR027,2024-03-31,Páscoa,false,true,Primavera,false,true,false,false
+POR425,2024-03-31,Páscoa,false,true,Primavera,false,true,false,false
+POR445,2024-03-31,Páscoa,false,true,Primavera,false,true,false,false
+POR434,2020-01-01,Ano Novo,true,true,Inverno,false,false,true,false
+POR412,2020-01-01,Ano Novo,true,true,Inverno,false,false,true,false
+POR058,2020-01-01,Dia de Ano Novo,true,true,Inverno,false,false,true,false
+POR422,2020-01-01,Dia de Ano Novo,true,true,Inverno,false,false,true,false
+POR008,2020-01-01,Dia de Ano Novo,true,true,Inverno,false,false,true,false
+POR407,2020-01-01,Dia de Ano Novo,true,true,Inverno,false,false,true,false
+POR013,2020-05-01,Dia do Trabalhador,true,true,Primavera,false,false,false,true
+POR028,2020-12-08,Dia da Imaculada Conceição,true,true,Inverno,false,false,false,false
+POR435,2020-12-25,Natal,true,true,Inverno,true,false,false,false
+POR035,2020-12-25,Natal,true,true,Inverno,true,false,false,false
+POR411,2021-01-01,Dia de Ano Novo,true,true,Inverno,false,false,true,false
+POR422,2021-01-01,Dia de Ano Novo,true,true,Inverno,false,false,true,false
+POR039,2021-01-01,Dia de Ano Novo,true,true,Inverno,false,false,true,false
+POR026,2021-04-25,Dia da Liberdade,true,true,Primavera,false,false,false,false
+POR031,2021-08-15,Assunção de Maria,true,true,Verão,false,false,false,false
+POR010,2021-11-01,Feriado Dia de todos os Santos,true,true,Outono,false,false,false,false
+POR029,2021-12-08,Imaculada Conceição,true,true,Inverno,false,false,false,false
+POR027,2021-12-25,Natal,true,true,Inverno,true,false,false,false
+POR412,2021-12-25,Natal,true,false,Inverno,true,false,false,false
+POR406,2021-12-25,Natal,true,true,Inverno,true,false,false,false
+POR063,2021-12-25,Natal,true,false,Inverno,true,false,false,false
+POR436,2021-12-25,Natal,true,true,Inverno,true,false,false,false
+POR026,2021-12-25,Natal,true,true,Inverno,true,false,false,false
+POR419,2022-01-01,Dia de Ano Novo,true,true,Inverno,false,false,true,false
+POR421,2022-01-01,Dia de Ano Novo,true,true,Inverno,false,false,true,false
+POR422,2022-01-01,Dia de Ano Novo,true,true,Inverno,false,false,true,false
+POR420,2022-01-01,Dia de Ano Novo,true,true,Inverno,false,false,true,false
+POR433,2022-01-01,Dia de Ano Novo,true,true,Inverno,false,false,true,false
+POR026,2022-04-25,Dia da Liberdade,true,true,Primavera,false,false,false,false
+POR437,2022-06-13,Feriado Municipal de Lisboa,true,true,Verão,false,false,false,false
+POR029,2022-12-25,Natal,true,true,Inverno,true,false,false,false
+POR430,2023-01-01,Dia de Ano Novo,true,true,Inverno,false,false,true,false
+POR422,2023-01-01,Dia de Ano Novo,true,true,Inverno,false,false,true,false
+POR065,2023-01-01,Dia de Ano Novo,true,true,Inverno,false,false,true,false
+POR410,2023-01-01,Dia de Ano Novo,true,true,Inverno,false,false,true,false
+POR438,2023-01-01,Dia de Ano Novo,true,true,Inverno,false,false,true,false
+POR025,2023-06-07,Feriado Municipal de Oeiras,true,true,Verão,false,false,false,false
+POR018,2023-06-07,Feriado Municipal de Oeiras,true,true,Verão,false,false,false,false
+POR436,2023-06-13,Feriado Municipal de Lisboa,true,true,Verão,false,false,false,false
+POR039,2023-12-01,Restauração da Independência,true,true,Inverno,false,false,false,false
+POR035,2023-12-01,Restauração da Independência,true,true,Inverno,false,false,false,false
+POR427,2023-12-25,Natal,true,true,Inverno,true,false,false,false
+POR425,2023-12-25,Natal,true,true,Inverno,true,false,false,false
+POR018,2024-01-01,Dia de Ano Novo,true,true,Inverno,false,false,true,false
+POR038,2024-01-01,Dia de Ano Novo,true,true,Inverno,false,false,true,false
+POR409,2024-01-01,Dia de Ano Novo,true,true,Inverno,false,false,true,false
+U0143,2024-04-07,Feriado aberto,true,true,Primavera,false,false,false,false
+U0141,2024-04-25,Dia da Liberedade,true,true,Primavera,false,false,false,false
+POR420,2024-07-26,Feriado Municipal de Loures,true,true,Verão,false,false,false,false
+POR039,2024-10-05,Implantação da República,true,true,Outono,false,false,false,false
+POR009,2024-12-25,Natal,true,false,Inverno,true,false,false,false
+POR025,2024-12-25,Natal,true,true,Inverno,true,false,false,false
+POR454,2024-12-25,Natal,true,true,Inverno,true,false,false,false
+POR434,2021-11-01,Todos os Santos,false,true,Outono,false,false,false,false
+POR062,2022-03-01,Carnaval,false,true,Primavera,false,false,false,false
+POR412,2022-04-15,Sexta-feira Santa,false,true,Primavera,false,false,false,false
+POR412,2022-04-17,Páscoa,false,true,Primavera,false,true,false,false
+POR032,2022-04-17,Páscoa,false,true,Primavera,false,true,false,false
+POR065,2022-04-25,Dia da Liberdade,false,true,Primavera,false,false,false,false
+POR432,2022-05-01,1º MAIO - FERIADO ABERTO,false,true,Primavera,false,false,false,false
+POR009,2022-05-01,1º MAIO - FERIADO ABERTO,false,true,Primavera,false,false,false,false
+POR419,2022-06-07,Feriado Municipal de Oeiras,true,true,Verão,false,false,false,false
+POR017,2022-06-10,Dia de Portugal,false,true,Verão,false,false,false,false
+POR421,2022-06-13,Feriado Municipal de Lisboa,true,true,Verão,false,false,false,false
+POR423,2022-06-16,Corpo de Deus,false,true,Verão,false,false,false,false
+POR012,2022-06-24,Municipal do Porto (24 Jun),false,true,Verão,false,false,false,false
+POR021,2022-08-15,Assunção de Maria,false,true,Verão,false,false,false,false
+POR412,2022-08-15,Assunção de Maria,false,true,Verão,false,false,false,false
+POR030,2022-08-15,Assunção de Maria,false,true,Verão,false,false,false,false
+POR017,2022-08-15,Assunção de Maria,false,true,Verão,false,false,false,false
+POR405,2022-10-05,Implantação da República,false,true,Outono,false,false,false,false
+POR009,2022-10-05,Implantação da República,false,true,Outono,false,false,false,false
+POR405,2022-12-01,Restauração da Independência,false,true,Inverno,false,false,false,false
+POR026,2022-12-01,Restauração da Independência,false,true,Inverno,false,false,false,false
+POR434,2022-12-08,Imaculada Conceição,false,true,Inverno,false,false,false,false
+POR039,2022-12-08,Imaculada Conceição,false,true,Inverno,false,false,false,false
+POR424,2023-02-21,Carnaval,false,true,Inverno,false,false,false,false
+POR023,2023-02-21,Carnaval,false,true,Inverno,false,false,false,false
+POR026,2023-02-21,Carnaval,false,true,Inverno,false,false,false,false
+POR065,2023-02-21,Carnaval,false,true,Inverno,false,false,false,false
+POR420,2023-04-07,Sexta-Feira Santa,false,true,Primavera,false,false,false,false
+POR408,2023-04-07,Sexta-Feira Santa,false,true,Primavera,false,false,false,false
+POR423,2023-04-07,Sexta-Feira Santa,false,true,Primavera,false,false,false,false
+POR062,2023-04-07,Sexta-Feira Santa,false,true,Primavera,false,false,false,false
+POR424,2023-04-09,Páscoa,false,true,Primavera,false,true,false,false
+POR038,2023-04-09,Páscoa,false,true,Primavera,false,true,false,false
+POR411,2023-04-09,Páscoa,false,true,Primavera,false,true,false,false
+POR422,2023-04-09,Páscoa,false,true,Primavera,false,true,false,false
+POR417,2023-04-09,Páscoa,false,true,Primavera,false,true,false,false
+POR028,2023-04-09,Páscoa,false,true,Primavera,false,true,false,false
+U0141,2023-04-09,Páscoa,false,true,Primavera,false,true,false,false
+POR411,2023-04-25,Dia da Liberdade,true,true,Primavera,false,false,false,false
+POR062,2023-04-25,Dia da Liberdade,true,true,Primavera,false,false,false,false
+POR435,2023-05-01,Dia do Trabalhador,true,true,Primavera,false,false,false,true
+POR025,2023-05-01,Dia do Trabalhador,true,true,Primavera,false,false,false,true
+POR413,2023-05-01,Dia do Trabalhador,true,true,Primavera,false,false,false,true
+POR019,2023-05-01,Dia do Trabalhador,true,true,Primavera,false,false,false,true
+POR021,2023-05-01,Dia do Trabalhador,true,true,Primavera,false,false,false,true
+POR028,2023-05-01,Dia do Trabalhador,true,true,Primavera,false,false,false,true
+POR017,2023-05-01,Dia do Trabalhador,true,true,Primavera,false,false,false,true
+POR423,2023-06-08,Corpo de Deus,true,true,Verão,false,false,false,false
+POR435,2023-06-10,Dia de Portugal,true,true,Verão,false,false,false,false
+POR429,2023-06-10,Dia de Portugal,true,true,Verão,false,false,false,false
+U0142,2023-06-10,Dia de Portugal,true,true,Verão,false,false,false,false
+POR034,2023-06-24,Feriado Municipal da Figueira da Foz,true,true,Verão,false,false,false,false
+POR422,2023-08-15,Assunção de Maria,true,true,Verão,false,false,false,false
+POR412,2023-08-15,Assunção de Maria,true,true,Verão,false,false,false,false
+POR434,2023-08-15,Assunção de Maria,true,true,Verão,false,false,false,false
+POR019,2023-10-05,Implantação da República,true,true,Outono,false,false,false,false
+POR402,2023-11-01,Dia de Todos os Santos,true,true,Outono,false,false,false,false
+POR062,2023-11-01,Dia de Todos os Santos,true,true,Outono,false,false,false,false
+POR030,2023-11-01,Dia de Todos os Santos,true,true,Outono,false,false,false,false
+POR023,2023-12-01,Restauração da Independência,true,true,Inverno,false,false,false,false
+POR038,2023-12-01,Restauração da Independência,true,true,Inverno,false,false,false,false
+POR422,2023-12-01,Restauração da Independência,true,true,Inverno,false,false,false,false
+POR009,2023-12-01,Restauração da Independência,true,true,Inverno,false,false,false,false
+POR017,2023-12-01,Restauração da Independência,true,true,Inverno,false,false,false,false
+POR433,2023-12-01,Restauração da Independência,true,true,Inverno,false,false,false,false
+POR410,2023-12-01,Restauração da Independência,true,true,Inverno,false,false,false,false
+U0143,2023-12-01,Restauração da Independência,true,true,Inverno,false,false,false,false
+POR406,2023-12-08,Imaculada Conceição,true,true,Inverno,false,false,false,false
+POR424,2023-12-08,Imaculada Conceição,true,true,Inverno,false,false,false,false
+POR025,2023-12-08,Imaculada Conceição,true,true,Inverno,false,false,false,false
+POR421,2023-12-08,Imaculada Conceição,true,true,Inverno,false,false,false,false
+POR414,2023-12-08,Imaculada Conceição,true,true,Inverno,false,false,false,false
+POR404,2023-12-08,Imaculada Conceição,true,true,Inverno,false,false,false,false
+POR021,2023-12-08,Imaculada Conceição,true,true,Inverno,false,false,false,false
+POR036,2023-12-08,Imaculada Conceição,true,true,Inverno,false,false,false,false
+POR405,2023-12-25,Natal,true,false,Inverno,true,false,false,false
+U0141,2023-12-25,Natal,true,false,Inverno,true,false,false,false
+POR429,2024-02-13,Carnaval,false,true,Inverno,false,false,false,false
+POR018,2024-02-13,Carnaval,false,true,Inverno,false,false,false,false
+POR419,2024-02-13,Carnaval,false,true,Inverno,false,false,false,false
+POR021,2024-03-29,Sexta-Feira Santa,false,true,Primavera,false,false,false,false
+POR016,2024-03-29,Sexta-Feira Santa,false,true,Primavera,false,false,false,false
+POR053,2024-03-29,Sexta-Feira Santa,false,true,Primavera,false,false,false,false
+POR419,2024-03-29,Sexta-Feira Santa,false,true,Primavera,false,false,false,false
+POR405,2024-03-31,Páscoa,false,true,Primavera,false,true,false,false
+POR010,2024-03-31,Páscoa,false,true,Primavera,false,true,false,false
+POR033,2024-03-31,Páscoa,false,true,Primavera,false,true,false,false
+POR433,2024-03-31,Páscoa,false,true,Primavera,false,true,false,false
+POR018,2020-01-01,Dia de Ano Novo,true,true,Inverno,false,false,true,false
+POR433,2020-01-01,Dia de Ano Novo,true,true,Inverno,false,false,true,false
+POR438,2020-01-01,Dia de Ano Novo,true,true,Inverno,false,false,true,false
+POR009,2020-12-25,Natal,true,false,Inverno,true,false,false,false
+POR023,2020-12-25,Natal,true,true,Inverno,true,false,false,false
+POR039,2020-12-25,Natal,true,true,Inverno,true,false,false,false
+POR027,2021-01-01,Ano Novo,true,true,Inverno,false,false,true,false
+POR406,2021-01-01,Dia de Ano Novo,true,true,Inverno,false,false,true,false
+POR029,2021-01-01,Dia de Ano Novo,true,true,Inverno,false,false,true,false
+POR419,2021-01-01,Dia de Ano Novo,true,true,Inverno,false,false,true,false
+POR404,2021-01-01,Dia de Ano Novo,true,true,Inverno,false,false,true,false
+POR017,2021-01-01,Dia de Ano Novo,true,true,Inverno,false,false,true,false
+POR008,2021-01-01,Dia de Ano Novo,true,true,Inverno,false,false,true,false
+POR065,2021-01-01,Dia de Ano Novo,true,true,Inverno,false,false,true,false
+POR035,2021-06-08,Corpo de Deus,true,true,Verão,false,false,false,false
+U0141,2021-06-08,Corpo de Deus,true,true,Verão,false,false,false,false
+POR433,2021-06-13,Feriado Municipal de Lisboa,true,true,Verão,false,false,false,false
+POR057,2022-01-01,Dia de Ano Novo,true,true,Inverno,false,false,true,false
+POR025,2022-01-01,passagem de ano,true,true,Inverno,false,false,false,false
+POR039,2022-12-25,Natal,true,true,Inverno,true,false,false,false
+POR063,2023-01-01,Dia de Ano Novo,true,true,Inverno,false,false,true,false
+POR420,2023-01-01,Dia de Ano Novo,true,true,Inverno,false,false,true,false
+POR035,2023-01-01,Dia de Ano Novo,true,true,Inverno,false,false,true,false
+POR016,2023-01-01,Dia de Ano Novo,true,true,Inverno,false,false,true,false
+POR012,2023-01-01,Dia de Ano Novo,true,false,Inverno,false,false,true,false
+POR437,2023-01-01,Dia de Ano Novo,true,true,Inverno,false,false,true,false
+U0143,2023-01-01,Dia de Ano Novo,true,true,Inverno,false,false,true,false
+POR435,2023-06-13,Feriado Municipal de Lisboa,true,true,Verão,false,false,false,false
+POR438,2023-06-13,Feriado Municipal de Lisboa,true,true,Verão,false,false,false,false
+POR434,2023-09-15,Dia de Bocage (municipal),true,true,Outono,false,false,false,false
+POR416,2023-11-19,Feriado Municipal de Odivelas,true,true,Outono,false,false,false,false
+POR407,2023-12-25,Natal,true,true,Inverno,true,false,false,false
+POR026,2023-12-25,Natal,true,true,Inverno,true,false,false,false
+POR454,2023-12-25,Natal,true,true,Inverno,true,false,false,false
+POR423,2024-01-01,Ano Novo,true,true,Inverno,false,false,true,false
+POR432,2024-01-01,Ano Novo,true,true,Inverno,false,false,true,false
+POR425,2024-01-01,Ano Novo,true,true,Inverno,false,false,true,false
+POR057,2024-01-01,Dia de Ano Novo,true,true,Inverno,false,false,true,false
+POR408,2024-01-01,Dia de Ano Novo,true,true,Inverno,false,false,true,false
+POR010,2024-01-01,Dia de Ano Novo,true,true,Inverno,false,false,true,false
+POR062,2024-01-01,Ano Novo,true,true,Inverno,false,false,true,false
+POR035,2024-04-25,Dia da Liberdade,true,true,Primavera,false,false,false,false
+POR035,2024-06-08,Corpo de Deus,true,true,Verão,false,false,false,false
+POR436,2024-12-25,Natal,true,true,Inverno,true,false,false,false
+POR034,2024-12-25,Natal,true,true,Inverno,true,false,false,false
+POR016,2024-12-25,Natal,true,true,Inverno,true,false,false,false
+POR019,2021-06-03,Corpo de Deus,false,true,Verão,false,false,false,false
+POR032,2022-03-01,Carnaval,false,true,Primavera,false,false,false,false
+POR008,2022-03-01,Carnaval,false,true,Primavera,false,false,false,false
+POR032,2022-04-15,Sexta-feira Santa,false,true,Primavera,false,false,false,false
+POR021,2022-04-15,Sexta-feira Santa,false,true,Primavera,false,false,false,false
+POR028,2022-04-15,Sexta-feira Santa,false,true,Primavera,false,false,false,false
+POR030,2022-04-15,Sexta-feira Santa,false,true,Primavera,false,false,false,false
+POR016,2022-04-25,Dia da Liberdade,false,true,Primavera,false,false,false,false
+POR062,2022-05-01,1º MAIO - FERIADO ABERTO,false,true,Primavera,false,false,false,false
+POR026,2022-05-01,1º MAIO - FERIADO ABERTO,false,true,Primavera,false,false,false,false
+POR054,2022-06-10,Dia de Portugal,false,true,Verão,false,false,false,false
+POR010,2022-06-16,Corpo de Deus,false,true,Verão,false,false,false,false
+POR032,2022-06-24,Municipal do Porto (24 Jun),false,true,Verão,false,false,false,false
+POR405,2022-08-15,Assunção de Maria,false,true,Verão,false,false,false,false
+POR054,2022-08-15,Assunção de Maria,false,true,Verão,false,false,false,false
+POR032,2022-08-15,Assunção de Maria,false,true,Verão,false,false,false,false
+POR412,2022-10-05,Implantação da República,false,true,Outono,false,false,false,false
+POR017,2022-10-05,Implantação da República,false,true,Outono,false,false,false,false
+POR032,2022-10-05,Implantação da República,false,true,Outono,false,false,false,false
+POR062,2022-11-01,Todos os Santos,false,true,Outono,false,false,false,false
+POR434,2022-11-01,Todos os Santos,false,true,Outono,false,false,false,false
+POR425,2022-11-01,Todos os Santos,false,true,Outono,false,false,false,false
+POR028,2022-11-01,Todos os Santos,false,true,Outono,false,false,false,false
+POR030,2022-11-01,Todos os Santos,false,true,Outono,false,false,false,false
+POR013,2023-02-21,Carnaval,false,true,Inverno,false,false,false,false
+POR021,2023-02-21,Carnaval,false,true,Inverno,false,false,false,false
+POR062,2023-02-21,Carnaval,false,true,Inverno,false,false,false,false
+POR403,2023-02-21,Carnaval,false,true,Inverno,false,false,false,false
+POR435,2023-04-07,Sexta-Feira Santa,false,true,Primavera,false,false,false,false
+POR023,2023-04-07,Sexta-Feira Santa,false,true,Primavera,false,false,false,false
+POR421,2023-04-07,Sexta-Feira Santa,false,true,Primavera,false,false,false,false
+POR030,2023-04-07,Sexta-Feira Santa,false,true,Primavera,false,false,false,false
+POR065,2023-04-07,Sexta-Feira Santa,false,true,Primavera,false,false,false,false
+POR012,2023-04-07,Sexta-Feira Santa,false,true,Primavera,false,false,false,false
+U0141,2023-04-07,Sexta-Feira Santa,false,true,Primavera,false,false,false,false
+POR034,2023-04-09,Páscoa,false,true,Primavera,false,true,false,false
+POR438,2023-04-09,Páscoa,false,true,Primavera,false,true,false,false
+U0143,2023-04-09,Páscoa,false,true,Primavera,false,true,false,false
+POR430,2023-04-25,Dia da Liberdade,true,true,Primavera,false,false,false,false
+POR412,2023-04-25,Dia da Liberdade,true,true,Primavera,false,false,false,false
+POR010,2023-04-25,Dia da Liberdade,true,true,Primavera,false,false,false,false
+POR438,2023-04-25,Dia da Liberdade,true,true,Primavera,false,false,false,false
+POR023,2023-05-01,Dia do Trabalhador,true,true,Primavera,false,false,false,true
+POR010,2023-05-01,Dia do Trabalhador,true,true,Primavera,false,false,false,true
+POR039,2023-05-01,Dia do Trabalhador,true,true,Primavera,false,false,false,true
+U0142,2023-05-01,Dia do Trabalhador,true,true,Primavera,false,false,false,true
+POR427,2023-06-08,Corpo de Deus,true,true,Verão,false,false,false,false
+POR010,2023-06-08,Corpo de Deus,true,true,Verão,false,false,false,false
+POR054,2023-06-08,Corpo de Deus,true,true,Verão,false,false,false,false
+POR407,2023-06-08,Corpo de Deus,true,true,Verão,false,false,false,false
+POR414,2023-06-10,Dia de Portugal,true,true,Verão,false,false,false,false
+POR403,2023-06-10,Dia de Portugal,true,true,Verão,false,false,false,false
+POR423,2023-06-24,Feriado Municipal de Almada,true,true,Verão,false,false,false,false
+POR427,2023-08-15,Assunção de Maria,true,true,Verão,false,false,false,false
+POR018,2023-08-15,Assunção de Maria,true,true,Verão,false,false,false,false
+POR437,2023-08-15,Assunção de Maria,true,true,Verão,false,false,false,false
+POR454,2023-08-15,Assunção de Maria,true,true,Verão,false,false,false,false
+POR058,2023-09-07,Feriado Municipal de Faro,true,true,Outono,false,false,false,false
+POR010,2023-09-21,Feriado Municipal de Viseu,true,true,Outono,false,false,false,false
+POR413,2023-10-05,Implantação da República,true,true,Outono,false,false,false,false
+POR436,2023-10-05,Implantação da República,true,true,Outono,false,false,false,false
+POR425,2023-10-05,Implantação da República,true,true,Outono,false,false,false,false
+POR062,2023-10-05,Implantação da República,true,true,Outono,false,false,false,false
+POR026,2023-10-05,Implantação da República,true,true,Outono,false,false,false,false
+POR446,2023-10-05,Implantação da República,true,true,Outono,false,false,false,false
+POR052,2023-11-01,Dia de Todos os Santos,true,true,Outono,false,false,false,false
+POR430,2023-11-01,Dia de Todos os Santos,true,true,Outono,false,false,false,false
+POR035,2023-11-01,Dia de Todos os Santos,true,true,Outono,false,false,false,false
+POR031,2023-11-01,Dia de Todos os Santos,true,true,Outono,false,false,false,false
+POR403,2023-11-01,Dia de Todos os Santos,true,true,Outono,false,false,false,false
+POR419,2023-12-01,Restauração da Independência,true,true,Inverno,false,false,false,false
+POR413,2023-12-01,Restauração da Independência,true,true,Inverno,false,false,false,false
+POR454,2023-12-01,Restauração da Independência,true,true,Inverno,false,false,false,false
+POR018,2023-12-08,Imaculada Conceição,true,true,Inverno,false,false,false,false
+POR017,2023-12-08,Imaculada Conceição,true,true,Inverno,false,false,false,false
+POR026,2023-12-08,Imaculada Conceição,true,true,Inverno,false,false,false,false
+POR010,2023-12-25,Natal,true,false,Inverno,true,false,false,false
+POR053,2024-02-13,Carnaval,false,true,Inverno,false,false,false,false
+POR424,2024-02-13,Carnaval,false,true,Inverno,false,false,false,false
+POR025,2024-02-13,Carnaval,false,true,Inverno,false,false,false,false
+POR417,2024-02-13,Carnaval,false,true,Inverno,false,false,false,false
+POR446,2024-02-13,Carnaval,false,true,Inverno,false,false,false,false
+POR036,2024-02-13,Carnaval,false,true,Inverno,false,false,false,false
+POR019,2024-03-29,Sexta-Feira Santa,false,true,Primavera,false,false,false,false
+POR023,2024-03-29,Sexta-Feira Santa,false,true,Primavera,false,false,false,false
+POR416,2024-03-29,Sexta-Feira Santa,false,true,Primavera,false,false,false,false
+POR437,2024-03-29,Sexta-Feira Santa,false,true,Primavera,false,false,false,false
+POR057,2024-03-29,Sexta-Feira Santa,false,true,Primavera,false,false,false,false
+POR416,2024-03-31,Páscoa,false,true,Primavera,false,true,false,false
+POR012,2024-03-31,Páscoa,false,true,Primavera,false,true,false,false
+POR435,2020-01-01,Dia de Ano Novo,true,true,Inverno,false,false,true,false
+POR409,2020-01-01,Dia de Ano Novo,true,true,Inverno,false,false,true,false
+POR421,2020-01-01,Dia de Ano Novo,true,true,Inverno,false,false,true,false
+POR009,2020-01-01,Dia de Ano Novo,true,true,Inverno,false,false,true,false
+POR030,2020-01-01,Dia de Ano Novo,true,true,Inverno,false,false,true,false
+U0142,2020-01-01,Dia de Ano Novo,true,true,Inverno,false,false,true,false
+POR025,2020-06-07,Feriado Municipal de Oeiras,true,true,Verão,false,false,false,false
+POR035,2020-06-08,Corpo de Deus,true,true,Verão,false,false,false,false
+POR435,2020-06-13,Feriado Municipal de Lisboa,true,true,Verão,false,false,false,false
+U0143,2020-08-13,Feriado municipal,true,true,Verão,false,false,false,false
+POR013,2020-12-25,Natal,true,true,Inverno,true,false,false,false
+POR407,2020-12-25,Natal,true,true,Inverno,true,false,false,false
+POR434,2021-01-01,Ano Novo,true,true,Inverno,false,false,true,false
+POR058,2021-01-01,Dia de Ano Novo,true,true,Inverno,false,false,true,false
+POR417,2021-01-01,Dia de Ano Novo,true,true,Inverno,false,false,true,false
+POR036,2021-01-01,Dia de Ano Novo,true,true,Inverno,false,false,true,false
+POR063,2021-09-08,Feriado Municipal de Lagoa,true,true,Outono,false,false,false,false
+POR031,2021-10-05,Implantação da República,true,true,Outono,false,false,false,false
+POR034,2021-10-05,Implantação da República,true,true,Outono,false,false,false,false
+POR052,2021-12-25,Natal,true,true,Inverno,true,false,false,false
+POR038,2022-01-01,Dia de Ano Novo,true,true,Inverno,false,false,true,false
+POR404,2022-01-01,Dia de Ano Novo,true,true,Inverno,false,false,true,false
+POR035,2022-01-01,Dia de Ano Novo,true,true,Inverno,false,false,true,false
+POR410,2022-01-01,Dia de Ano Novo,true,true,Inverno,false,false,true,false
+POR031,2022-04-25,Dia da Liberdade,true,true,Primavera,false,false,false,false
+POR032,2022-05-12,Feriado Cidade Aveiro,true,true,Primavera,false,false,false,false
+POR412,2022-12-25,Natal,true,false,Inverno,true,false,false,false
+POR406,2022-12-25,Natal,true,true,Inverno,true,false,false,false
+POR435,2022-12-25,Natal,true,true,Inverno,true,false,false,false
+POR053,2022-12-25,Natal,true,true,Inverno,true,false,false,false
+POR432,2023-01-01,Ano Novo,true,true,Inverno,false,false,true,false
+POR409,2023-01-01,Dia de Ano Novo,true,true,Inverno,false,false,true,false
+POR036,2023-01-01,Dia de Ano Novo,true,true,Inverno,false,false,true,false
+U0142,2023-01-01,Dia de Ano Novo,true,true,Inverno,false,false,true,false
+POR454,2023-01-01,Dia de Ano Novo,true,true,Inverno,false,false,true,false
+POR039,2023-04-25,Dia da Liberdade,true,true,Primavera,false,false,false,false
+POR039,2023-10-05,Implantação da República,true,true,Outono,false,false,false,false
+POR034,2023-12-25,Natal,true,true,Inverno,true,false,false,false
+POR012,2023-12-25,Natal,true,false,Inverno,true,false,false,false
+POR027,2024-01-01,Ano Novo,true,true,Inverno,false,false,true,false
+POR419,2024-01-01,Dia de Ano Novo,true,true,Inverno,false,false,true,false
+POR429,2024-01-01,Dia de Ano Novo,true,true,Inverno,false,false,true,false
+POR404,2024-01-01,Dia de Ano Novo,true,true,Inverno,false,false,true,false
+POR039,2024-01-01,Dia de Ano Novo,true,true,Inverno,false,false,true,false
+POR013,2024-05-01,Dia do Trabalhador,true,true,Primavera,false,false,false,true
+U0141,2024-06-10,Dia de Portugal,true,true,Verão,false,false,false,false
+POR446,2024-06-24,Feriado Municipal de Vila Nova de Gaia ,true,true,Verão,false,false,false,false
+POR406,2024-12-25,Natal,true,true,Inverno,true,false,false,false
+POR019,2024-12-25,Natal,true,true,Inverno,true,false,false,false
+POR417,2021-06-10,Dia de Portugal,false,true,Verão,false,false,false,false
+POR054,2022-01-01,Dia de Ano Novo,false,false,Inverno,false,false,true,false
+POR034,2022-04-15,Sexta-feira Santa,false,true,Primavera,false,false,false,false
+POR405,2022-04-17,Páscoa,false,true,Primavera,false,true,false,false
+POR036,2022-04-17,Páscoa,false,true,Primavera,false,true,false,false
+POR008,2022-05-01,1º MAIO - FERIADO ABERTO,false,true,Primavera,false,false,false,false
+POR027,2022-05-01,1º MAIO - FERIADO ABERTO,false,true,Primavera,false,false,false,false
+POR434,2022-05-01,1º MAIO - FERIADO ABERTO,false,true,Primavera,false,false,false,false
+POR065,2022-06-10,Dia de Portugal,false,true,Verão,false,false,false,false
+POR012,2022-06-10,Dia de Portugal,false,true,Verão,false,false,false,false
+POR423,2022-06-10,Dia de Portugal,false,true,Verão,false,false,false,false
+POR412,2022-06-10,Dia de Portugal,false,true,Verão,false,false,false,false
+POR010,2022-06-10,Dia de Portugal,false,true,Verão,false,false,false,false
+POR423,2022-06-24,Municipal do Porto (24 Jun),false,true,Verão,false,false,false,false
+POR412,2022-06-24,Municipal do Porto (24 Jun),false,true,Verão,false,false,false,false
+POR417,2022-08-15,Assunção de Maria,false,true,Verão,false,false,false,false
+POR028,2022-08-15,Assunção de Maria,false,true,Verão,false,false,false,false
+POR027,2022-09-15,Municipal de Setubal (15/09),false,true,Outono,false,false,false,false
+POR034,2022-10-05,Implantação da República,false,true,Outono,false,false,false,false
+POR019,2022-10-05,Implantação da República,false,true,Outono,false,false,false,false
+POR423,2022-10-05,Implantação da República,false,true,Outono,false,false,false,false
+POR026,2022-10-05,Implantação da República,false,true,Outono,false,false,false,false
+POR432,2022-11-01,Todos os Santos,false,true,Outono,false,false,false,false
+POR432,2022-12-08,Imaculada Conceição,false,true,Inverno,false,false,false,false
+POR013,2023-01-01,Ano Novo,false,true,Inverno,false,false,true,false
+POR057,2023-02-21,Carnaval,false,true,Inverno,false,false,false,false
+POR414,2023-02-21,Carnaval,false,true,Inverno,false,false,false,false
+POR417,2023-02-21,Carnaval,false,true,Inverno,false,false,false,false
+POR423,2023-02-21,Carnaval,false,true,Inverno,false,false,false,false
+POR434,2023-02-21,Carnaval,false,true,Inverno,false,false,false,false
+POR034,2023-02-21,Carnaval,false,true,Inverno,false,false,false,false
+POR057,2023-04-07,Sexta-Feira Santa,false,true,Primavera,false,false,false,false
+POR053,2023-04-07,Sexta-Feira Santa,false,true,Primavera,false,false,false,false
+POR413,2023-04-07,Sexta-Feira Santa,false,true,Primavera,false,false,false,false
+POR407,2023-04-07,Sexta-Feira Santa,false,true,Primavera,false,false,false,false
+POR435,2023-04-09,Páscoa,false,true,Primavera,false,true,false,false
+POR416,2023-04-09,Páscoa,false,true,Primavera,false,true,false,false
+POR427,2023-04-09,Páscoa,false,true,Primavera,false,true,false,false
+POR009,2023-04-09,Páscoa,false,true,Primavera,false,true,false,false
+POR032,2023-04-09,Páscoa,false,true,Primavera,false,true,false,false
+POR407,2023-04-09,Páscoa,false,true,Primavera,false,true,false,false
+POR434,2023-04-25,Dia da Liberdade,true,true,Primavera,false,false,false,false
+POR405,2023-04-25,Dia da Liberdade,true,true,Primavera,false,false,false,false
+POR028,2023-04-25,Dia da Liberdade,true,true,Primavera,false,false,false,false
+POR433,2023-04-25,Dia da Liberdade,true,true,Primavera,false,false,false,false
+POR412,2023-05-01,Dia do Trabalhador,true,true,Primavera,false,false,false,true
+POR026,2023-05-01,Dia do Trabalhador,true,true,Primavera,false,false,false,true
+POR035,2023-05-01,Dia do Trabalhador,true,true,Primavera,false,false,false,true
+POR438,2023-05-01,Dia do Trabalhador,true,true,Primavera,false,false,false,true
+POR032,2023-05-12,Feriado Municipal de Aveiro,true,true,Primavera,false,false,false,false
+POR063,2023-06-08,Corpo de Deus,true,true,Verão,false,false,false,false
+POR053,2023-06-08,Corpo de Deus,true,true,Verão,false,false,false,false
+POR413,2023-06-08,Corpo de Deus,true,true,Verão,false,false,false,false
+POR429,2023-06-08,Corpo de Deus,true,true,Verão,false,false,false,false
+POR027,2023-06-08,Corpo de Deus,true,true,Verão,false,false,false,false
+POR412,2023-06-08,Corpo de Deus,true,true,Verão,false,false,false,false
+POR417,2023-06-10,Dia de Portugal,true,true,Verão,false,false,false,false
+POR028,2023-06-10,Dia de Portugal,true,true,Verão,false,false,false,false
+POR437,2023-06-10,Dia de Portugal,true,true,Verão,false,false,false,false
+POR413,2023-08-15,Assunção de Maria,true,true,Verão,false,false,false,false
+POR027,2023-08-15,Assunção de Maria,true,true,Verão,false,false,false,false
+POR425,2023-08-15,Assunção de Maria,true,true,Verão,false,false,false,false
+U0143,2023-08-15,Assunção de Maria,true,true,Verão,false,false,false,false
+POR057,2023-10-05,Implantação da República,true,true,Outono,false,false,false,false
+POR412,2023-10-05,Implantação da República,true,true,Outono,false,false,false,false
+POR021,2023-10-05,Implantação da República,true,true,Outono,false,false,false,false
+POR010,2023-10-05,Implantação da República,true,true,Outono,false,false,false,false
+POR025,2023-11-01,Dia de Todos os Santos,true,true,Outono,false,false,false,false
+POR018,2023-11-01,Dia de Todos os Santos,true,true,Outono,false,false,false,false
+POR419,2023-11-01,Dia de Todos os Santos,true,true,Outono,false,false,false,false
+POR429,2023-11-01,Dia de Todos os Santos,true,true,Outono,false,false,false,false
+POR010,2023-11-01,Dia de Todos os Santos,true,true,Outono,false,false,false,false
+POR433,2023-11-01,Dia de Todos os Santos,true,true,Outono,false,false,false,false
+POR039,2023-11-01,Dia de Todos os Santos,true,true,Outono,false,false,false,false
+U0141,2023-11-01,Dia de Todos os Santos,true,true,Outono,false,false,false,false
+POR454,2023-11-01,Dia de Todos os Santos,true,true,Outono,false,false,false,false
+POR027,2023-12-01,Restauração da Independência,true,true,Inverno,false,false,false,false
+POR054,2023-12-01,Restauração da Independência,true,true,Inverno,false,false,false,false
+POR034,2023-12-01,Restauração da Independência,true,true,Inverno,false,false,false,false
+POR416,2023-12-08,Imaculada Conceição,true,true,Inverno,false,false,false,false
+POR052,2023-12-08,Imaculada Conceição,true,true,Inverno,false,false,false,false
+POR432,2023-12-08,Imaculada Conceição,true,true,Inverno,false,false,false,false
+POR035,2023-12-08,Imaculada Conceição,true,true,Inverno,false,false,false,false
+POR008,2023-12-08,Imaculada Conceição,true,true,Inverno,false,false,false,false
+POR026,2024-02-13,Carnaval,false,true,Inverno,false,false,false,false
+POR035,2024-02-13,Carnaval,false,true,Inverno,false,false,false,false
+POR008,2024-02-13,Carnaval,false,true,Inverno,false,false,false,false
+POR435,2024-02-13,Carnaval,false,true,Inverno,false,false,false,false
+POR038,2024-02-13,Carnaval,false,true,Inverno,false,false,false,false
+POR454,2024-02-13,Carnaval,false,true,Inverno,false,false,false,false
+POR434,2024-02-13,Carnaval,false,true,Inverno,false,false,false,false
+POR039,2024-02-13,Carnaval,false,true,Inverno,false,false,false,false
+POR032,2024-02-13,Carnaval,false,true,Inverno,false,false,false,false
+POR034,2024-02-13,Carnaval,false,true,Inverno,false,false,false,false
+POR010,2024-03-29,Sexta-Feira Santa,false,true,Primavera,false,false,false,false
+POR008,2024-03-29,Sexta-Feira Santa,false,true,Primavera,false,false,false,false
+POR029,2024-03-29,Sexta-Feira Santa,false,true,Primavera,false,false,false,false
+POR063,2024-03-29,Sexta-Feira Santa,false,true,Primavera,false,false,false,false
+POR408,2024-03-29,Sexta-Feira Santa,false,true,Primavera,false,false,false,false
+POR423,2024-03-31,Páscoa,false,true,Primavera,false,true,false,false
+POR036,2024-03-31,Páscoa,false,true,Primavera,false,true,false,false
+POR013,2024-03-31,Páscoa,false,true,Primavera,false,true,false,false
+POR435,2024-03-31,Páscoa,false,true,Primavera,false,true,false,false
+POR013,2020-01-01,Dia de Ano Novo,true,true,Inverno,false,false,true,false
+POR025,2020-01-01,passagem de ano,true,true,Inverno,false,false,false,false
+POR032,2020-01-01,Dia de Ano Novo,true,true,Inverno,false,false,true,false
+POR065,2020-01-01,Dia de Ano Novo,true,true,Inverno,false,false,true,false
+POR016,2020-01-01,Dia de Ano Novo,true,true,Inverno,false,false,true,false
+POR454,2020-01-01,Dia de Ano Novo,true,true,Inverno,false,false,true,false
+POR039,2020-06-24,Feriado Municipal,true,true,Verão,false,false,false,false
+POR420,2020-07-26,Feriado Municipal de Loures,true,true,Verão,false,false,false,false
+POR031,2020-12-01,Restauração da Independência,true,true,Inverno,false,false,false,false
+POR406,2020-12-25,Natal,true,true,Inverno,true,false,false,false
+POR412,2021-01-01,Ano Novo,true,true,Inverno,false,false,true,false
+POR054,2021-01-01,Dia de Ano Novo,true,true,Inverno,false,false,true,false
+POR032,2021-01-01,Dia de Ano Novo,true,true,Inverno,false,false,true,false
+POR438,2021-01-01,Dia de Ano Novo,true,true,Inverno,false,false,true,false
+POR017,2021-12-25,Natal,true,true,Inverno,true,false,false,false
+POR008,2021-12-25,Natal,true,true,Inverno,true,false,false,false
+POR423,2022-01-01,Ano Novo,true,true,Inverno,false,false,true,false
+POR432,2022-01-01,Ano Novo,true,true,Inverno,false,false,true,false
+POR021,2022-01-01,Ano Novo,true,false,Inverno,false,false,true,false
+POR033,2022-01-01,Dia de Ano Novo,true,false,Inverno,false,false,true,false
+POR438,2022-01-01,Dia de Ano Novo,true,true,Inverno,false,false,true,false
+POR062,2022-01-01,Ano Novo,true,true,Inverno,false,false,true,false
+U0141,2022-06-10,Dia de Portugal,true,true,Verão,false,false,false,false
+POR029,2022-12-08,Imaculada Conceição,true,true,Inverno,false,false,false,false
+POR412,2023-01-01,Ano Novo,true,true,Inverno,false,false,true,false
+POR435,2023-01-01,Dia de Ano Novo,true,true,Inverno,false,false,true,false
+POR424,2023-01-01,Dia de Ano Novo,true,true,Inverno,false,false,true,false
+POR062,2023-01-01,Ano Novo,true,true,Inverno,false,false,true,false
+POR433,2023-06-13,Feriado Municipal de Lisboa,true,true,Verão,false,false,false,false
+POR446,2023-06-24,Feriado Municipal de Vila Nova de Gaia ,true,true,Verão,false,false,false,false
+POR412,2023-12-25,Natal,true,false,Inverno,true,false,false,false
+POR018,2023-12-25,Natal,true,true,Inverno,true,false,false,false
+POR035,2023-12-25,Natal,true,true,Inverno,true,false,false,false
+POR406,2024-01-01,Dia de Ano Novo,true,true,Inverno,false,false,true,false
+POR008,2024-01-01,Dia de Ano Novo,true,true,Inverno,false,false,true,false
+POR438,2024-06-13,Feriado Municipal de Lisboa,true,true,Verão,false,false,false,false
+U0143,2024-08-13,Feriado municipal,true,true,Verão,false,false,false,false
+POR427,2024-12-25,Natal,true,true,Inverno,true,false,false,false
+POR407,2024-12-25,Natal,true,true,Inverno,true,false,false,false
+POR019,2021-10-05,Implantação da República,false,true,Outono,false,false,false,false
+POR009,2022-01-01,Dia de Ano Novo,false,false,Inverno,false,false,true,false
+POR016,2022-01-01,Dia de Ano Novo,false,false,Inverno,false,false,true,false
+POR434,2022-03-01,Carnaval,false,true,Primavera,false,false,false,false
+POR432,2022-03-01,Carnaval,false,true,Primavera,false,false,false,false
+POR034,2022-03-01,Carnaval,false,true,Primavera,false,false,false,false
+POR425,2022-04-15,Sexta-feira Santa,false,true,Primavera,false,false,false,false
+POR039,2022-04-17,Páscoa,false,true,Primavera,false,true,false,false
+POR012,2022-04-25,Dia da Liberdade,false,true,Primavera,false,false,false,false
+POR412,2022-05-01,1º MAIO - FERIADO ABERTO,false,true,Primavera,false,false,false,false
+POR432,2022-06-10,Dia de Portugal,false,true,Verão,false,false,false,false
+POR028,2022-06-10,Dia de Portugal,false,true,Verão,false,false,false,false
+POR032,2022-06-16,Corpo de Deus,false,true,Verão,false,false,false,false
+POR417,2022-06-16,Corpo de Deus,false,true,Verão,false,false,false,false
+POR062,2022-06-16,Corpo de Deus,false,true,Verão,false,false,false,false
+POR016,2022-08-15,Assunção de Maria,false,true,Verão,false,false,false,false
+POR026,2022-08-15,Assunção de Maria,false,true,Verão,false,false,false,false
+POR434,2022-09-15,Municipal de Setubal (15/09),false,true,Outono,false,false,false,false
+POR012,2022-11-01,Todos os Santos,false,true,Outono,false,false,false,false
+POR009,2022-11-01,Todos os Santos,false,true,Outono,false,false,false,false
+POR417,2022-12-01,Restauração da Independência,false,true,Inverno,false,false,false,false
+POR432,2022-12-01,Restauração da Independência,false,true,Inverno,false,false,false,false
+POR425,2022-12-01,Restauração da Independência,false,true,Inverno,false,false,false,false
+POR012,2022-12-08,Imaculada Conceição,false,true,Inverno,false,false,false,false
+POR417,2022-12-25,Dia de natal,false,false,Inverno,true,false,false,false
+POR010,2022-12-25,Dia de natal,false,false,Inverno,true,false,false,false
+POR054,2022-12-25,Dia de natal,false,false,Inverno,true,false,false,false
+POR402,2023-02-21,Carnaval,false,true,Inverno,false,false,false,false
+POR436,2023-02-21,Carnaval,false,true,Inverno,false,false,false,false
+POR429,2023-02-21,Carnaval,false,true,Inverno,false,false,false,false
+POR419,2023-04-07,Sexta-Feira Santa,false,true,Primavera,false,false,false,false
+POR430,2023-04-07,Sexta-Feira Santa,false,true,Primavera,false,false,false,false
+POR010,2023-04-07,Sexta-Feira Santa,false,true,Primavera,false,false,false,false
+POR028,2023-04-07,Sexta-Feira Santa,false,true,Primavera,false,false,false,false
+POR446,2023-04-07,Sexta-Feira Santa,false,true,Primavera,false,false,false,false
+POR408,2023-04-09,Páscoa,false,true,Primavera,false,true,false,false
+POR404,2023-04-09,Páscoa,false,true,Primavera,false,true,false,false
+POR434,2023-04-09,Páscoa,false,true,Primavera,false,true,false,false
+POR008,2023-04-09,Páscoa,false,true,Primavera,false,true,false,false
+U0142,2023-04-09,Páscoa,false,true,Primavera,false,true,false,false
+POR435,2023-04-25,Dia da Liberdade,true,true,Primavera,false,false,false,false
+POR018,2023-04-25,Dia da Liberdade,true,true,Primavera,false,false,false,false
+POR052,2023-05-01,Dia do Trabalhador,true,true,Primavera,false,false,false,true
+POR021,2023-06-08,Corpo de Deus,true,true,Verão,false,false,false,false
+POR034,2023-06-08,Corpo de Deus,true,true,Verão,false,false,false,false
+POR008,2023-06-08,Corpo de Deus,true,true,Verão,false,false,false,false
+POR039,2023-06-08,Corpo de Deus,false,true,Verão,false,false,false,false
+POR031,2023-06-08,Corpo de Deus,false,true,Verão,false,false,false,false
+U0143,2023-06-08,Corpo de Deus,true,true,Verão,false,false,false,false
+POR413,2023-06-10,Dia de Portugal,true,true,Verão,false,false,false,false
+POR425,2023-06-10,Dia de Portugal,true,true,Verão,false,false,false,false
+POR434,2023-06-10,Dia de Portugal,true,true,Verão,false,false,false,false
+POR036,2023-06-10,Dia de Portugal,true,true,Verão,false,false,false,false
+POR407,2023-06-10,Dia de Portugal,true,true,Verão,false,false,false,false
+POR013,2023-08-15,Assunção de Maria,true,true,Verão,false,false,false,false
+POR420,2023-08-15,Assunção de Maria,true,true,Verão,false,false,false,false
+POR404,2023-08-15,Assunção de Maria,true,true,Verão,false,false,false,false
+POR032,2023-08-15,Assunção de Maria,true,true,Verão,false,false,false,false
+POR036,2023-08-15,Assunção de Maria,true,true,Verão,false,false,false,false
+POR035,2023-08-15,Assunção de Maria,true,true,Verão,false,false,false,false
+POR012,2023-08-15,Assunção de Maria,true,true,Verão,false,false,false,false
+POR410,2023-08-15,Assunção de Maria,true,true,Verão,false,false,false,false
+POR033,2023-09-07,Feriado Municipal de Faro,true,true,Outono,false,false,false,false
+POR033,2023-10-05,Implantação da República,true,true,Outono,false,false,false,false
+POR036,2023-10-05,Implantação da República,true,true,Outono,false,false,false,false
+POR435,2023-11-01,Dia de Todos os Santos,true,true,Outono,false,false,false,false
+POR033,2023-11-01,Dia de Todos os Santos,true,true,Outono,false,false,false,false
+POR023,2023-11-01,Dia de Todos os Santos,true,true,Outono,false,false,false,false
+POR404,2023-11-01,Dia de Todos os Santos,true,true,Outono,false,false,false,false
+POR054,2023-11-27,Feriado Municipal da Guarda,true,true,Outono,false,false,false,false
+POR033,2023-12-01,Restauração da Independência,true,true,Inverno,false,false,false,false
+POR409,2023-12-01,Restauração da Independência,true,true,Inverno,false,false,false,false
+POR411,2023-12-01,Restauração da Independência,true,true,Inverno,false,false,false,false
+POR404,2023-12-01,Restauração da Independência,true,true,Inverno,false,false,false,false
+POR019,2023-12-01,Restauração da Independência,true,true,Inverno,false,false,false,false
+POR412,2023-12-01,Restauração da Independência,true,true,Inverno,false,false,false,false
+U0142,2023-12-01,Restauração da Independência,true,true,Inverno,false,false,false,false
+POR402,2023-12-08,Imaculada Conceição,true,true,Inverno,false,false,false,false
+POR010,2023-12-08,Imaculada Conceição,true,true,Inverno,false,false,false,false
+POR410,2023-12-08,Imaculada Conceição,true,true,Inverno,false,false,false,false
+POR446,2023-12-08,Imaculada Conceição,true,true,Inverno,false,false,false,false
+POR408,2023-12-25,Natal,true,false,Inverno,true,false,false,false
+POR404,2023-12-25,Natal,true,false,Inverno,true,false,false,false
+POR033,2024-02-13,Carnaval,false,true,Inverno,false,false,false,false
+POR413,2024-02-13,Carnaval,false,true,Inverno,false,false,false,false
+POR012,2024-02-13,Carnaval,false,true,Inverno,false,false,false,false
+POR410,2024-03-29,Sexta-Feira Santa,false,true,Primavera,false,false,false,false
+POR432,2024-03-31,Páscoa,false,true,Primavera,false,true,false,false
+POR009,2024-03-31,Páscoa,false,true,Primavera,false,true,false,false
+POR008,2024-03-31,Páscoa,false,true,Primavera,false,true,false,false
+POR023,2024-03-31,Páscoa,false,true,Primavera,false,true,false,false
+POR421,2024-03-31,Páscoa,false,true,Primavera,false,true,false,false
+POR057,2024-03-31,Páscoa,false,true,Primavera,false,true,false,false
+POR423,2020-01-01,Ano Novo,true,true,Inverno,false,false,true,false
+POR413,2020-01-01,Dia de Ano Novo,true,true,Inverno,false,false,true,false
+POR436,2020-06-13,Feriado Municipal de Lisboa,true,true,Verão,false,false,false,false
+POR402,2020-12-25,Natal,true,true,Inverno,true,false,false,false
+POR063,2020-12-25,Natal,true,false,Inverno,true,false,false,false
+POR018,2020-12-25,Natal,true,true,Inverno,true,false,false,false
+POR402,2021-01-01,Dia de Ano Novo,true,true,Inverno,false,false,true,false
+POR414,2021-01-01,Dia de Ano Novo,true,true,Inverno,false,false,true,false
+POR454,2021-01-01,Dia de Ano Novo,true,true,Inverno,false,false,true,false
+POR013,2021-05-01,Dia do Trabalhador,true,true,Primavera,false,false,false,true
+POR446,2021-06-24,Feriado Municipal de Vila Nova de Gaia ,true,true,Verão,false,false,false,false
+POR062,2021-12-25,Dia de natal,true,true,Inverno,true,false,false,false
+POR009,2021-12-25,Natal,true,false,Inverno,true,false,false,false
+POR030,2021-12-25,Natal,true,true,Inverno,true,false,false,false
+POR036,2021-12-25,Natal,true,true,Inverno,true,false,false,false
+POR446,2021-12-25,Natal,true,true,Inverno,true,false,false,false
+POR053,2022-01-01,Dia de Ano Novo,true,true,Inverno,false,false,true,false
+POR437,2022-01-01,Dia de Ano Novo,true,true,Inverno,false,false,true,false
+POR025,2022-06-07,Feriado Municipal de Oeiras,true,true,Verão,false,false,false,false
+POR035,2022-06-08,Corpo de Deus,true,true,Verão,false,false,false,false
+POR446,2022-06-24,Feriado Municipal de Vila Nova de Gaia ,true,true,Verão,false,false,false,false
+POR031,2023-01-01,Dia de Ano Novo,true,true,Inverno,false,false,true,false
+POR433,2023-01-01,Dia de Ano Novo,true,true,Inverno,false,false,true,false
+U0141,2023-01-01,Dia de Ano Novo,true,true,Inverno,false,false,true,false
+POR029,2023-12-08,Imaculada Conceição,true,true,Inverno,false,false,false,false
+POR008,2023-12-25,Natal,true,true,Inverno,true,false,false,false
+POR032,2024-01-01,Dia de Ano Novo,true,true,Inverno,false,false,true,false
+POR031,2024-10-05,Implantação da República,true,true,Outono,false,false,false,false
+POR035,2024-12-01,Restauração da Independência,true,true,Inverno,false,false,false,false
+POR052,2024-12-25,Natal,true,true,Inverno,true,false,false,false
+POR012,2021-06-10,Dia de Portugal,false,true,Verão,false,false,false,false
+POR019,2021-12-01,Restauração da Independência,false,true,Inverno,false,false,false,false
+POR032,2022-01-01,Dia de Ano Novo,false,true,Inverno,false,false,true,false
+POR425,2022-03-01,Carnaval,false,true,Primavera,false,false,false,false
+POR036,2022-04-15,Sexta-feira Santa,false,true,Primavera,false,false,false,false
+POR032,2022-04-25,Dia da Liberdade,false,true,Primavera,false,false,false,false
+POR423,2022-04-25,Dia da Liberdade,false,true,Primavera,false,false,false,false
+POR412,2022-04-25,Dia da Liberdade,false,true,Primavera,false,false,false,false
+POR017,2022-05-01,1º MAIO - FERIADO ABERTO,false,true,Primavera,false,false,false,false
+POR065,2022-06-16,Corpo de Deus,false,true,Verão,false,false,false,false
+POR016,2022-06-16,Corpo de Deus,false,true,Verão,false,false,false,false
+POR417,2022-11-01,Todos os Santos,false,true,Outono,false,false,false,false
+POR016,2022-11-01,Todos os Santos,false,true,Outono,false,false,false,false
+POR017,2022-11-01,Todos os Santos,false,true,Outono,false,false,false,false
+POR028,2022-12-01,Restauração da Independência,false,true,Inverno,false,false,false,false
+POR054,2022-12-01,Restauração da Independência,false,true,Inverno,false,false,false,false
+POR008,2022-12-08,Imaculada Conceição,false,true,Inverno,false,false,false,false
+POR036,2022-12-25,Dia de natal,false,false,Inverno,true,false,false,false
+POR058,2023-02-21,Carnaval,false,true,Inverno,false,false,false,false
+POR019,2023-02-21,Carnaval,false,true,Inverno,false,false,false,false
+POR454,2023-02-21,Carnaval,false,true,Inverno,false,false,false,false
+POR013,2023-04-07,Sexta-Feira Santa,false,true,Primavera,false,false,false,false
+POR029,2023-04-07,Sexta-Feira Santa,false,true,Primavera,false,false,false,false
+POR009,2023-04-07,Sexta-Feira Santa,false,true,Primavera,false,false,false,false
+POR032,2023-04-07,Sexta-Feira Santa,false,true,Primavera,false,false,false,false
+POR034,2023-04-07,Sexta-Feira Santa,false,true,Primavera,false,false,false,false
+POR036,2023-04-07,Sexta-Feira Santa,false,true,Primavera,false,false,false,false
+POR437,2023-04-07,Sexta-Feira Santa,false,true,Primavera,false,false,false,false
+POR406,2023-04-09,Páscoa,false,true,Primavera,false,true,false,false
+POR025,2023-04-09,Páscoa,false,true,Primavera,false,true,false,false
+POR027,2023-04-09,Páscoa,false,true,Primavera,false,true,false,false
+POR432,2023-04-09,Páscoa,false,true,Primavera,false,true,false,false
+POR010,2023-04-09,Páscoa,false,true,Primavera,false,true,false,false
+POR054,2023-04-09,Páscoa,false,true,Primavera,false,true,false,false
+POR053,2023-04-25,Dia da Liberdade,true,true,Primavera,false,false,false,false
+POR023,2023-04-25,Dia da Liberdade,true,true,Primavera,false,false,false,false
+POR036,2023-04-25,Dia da Liberdade,true,true,Primavera,false,false,false,false
+POR423,2023-05-01,Dia do Trabalhador,true,true,Primavera,false,false,false,true
+POR433,2023-05-01,Dia do Trabalhador,true,true,Primavera,false,false,false,true
+U0143,2023-05-01,Dia do Trabalhador,true,true,Primavera,false,false,false,true
+POR445,2023-05-01,Dia do Trabalhador,true,true,Primavera,false,false,false,true
+POR420,2023-06-08,Corpo de Deus,true,true,Verão,false,false,false,false
+POR436,2023-06-08,Corpo de Deus,true,true,Verão,false,false,false,false
+POR032,2023-06-08,Corpo de Deus,true,true,Verão,false,false,false,false
+POR030,2023-06-08,Corpo de Deus,true,true,Verão,false,false,false,false
+POR016,2023-06-08,Corpo de Deus,true,true,Verão,false,false,false,false
+POR424,2023-06-10,Dia de Portugal,true,true,Verão,false,false,false,false
+POR057,2023-06-10,Dia de Portugal,true,true,Verão,false,false,false,false
+POR009,2023-06-10,Dia de Portugal,true,true,Verão,false,false,false,false
+POR039,2023-06-10,Dia de Portugal,true,true,Verão,false,false,false,false
+POR054,2023-08-15,Assunção de Maria,true,true,Verão,false,false,false,false
+POR030,2023-08-15,Assunção de Maria,true,true,Verão,false,false,false,false
+POR433,2023-08-15,Assunção de Maria,true,true,Verão,false,false,false,false
+U0141,2023-08-15,Assunção de Maria,true,true,Verão,false,false,false,false
+POR406,2023-10-05,Implantação da República,true,true,Outono,false,false,false,false
+POR416,2023-10-05,Implantação da República,true,true,Outono,false,false,false,false
+POR419,2023-10-05,Implantação da República,true,true,Outono,false,false,false,false
+POR404,2023-10-05,Implantação da República,true,true,Outono,false,false,false,false
+POR433,2023-10-05,Implantação da República,true,true,Outono,false,false,false,false
+U0142,2023-10-05,Implantação da República,true,true,Outono,false,false,false,false
+U0141,2023-10-05,Implantação da República,true,true,Outono,false,false,false,false
+POR038,2023-11-01,Dia de Todos os Santos,true,true,Outono,false,false,false,false
+POR417,2023-11-01,Dia de Todos os Santos,true,true,Outono,false,false,false,false
+POR412,2023-11-01,Dia de Todos os Santos,true,true,Outono,false,false,false,false
+POR034,2023-11-01,Dia de Todos os Santos,true,true,Outono,false,false,false,false
+POR446,2023-11-01,Dia de Todos os Santos,true,true,Outono,false,false,false,false
+POR058,2023-12-01,Restauração da Independência,true,true,Inverno,false,false,false,false
+POR417,2023-12-01,Restauração da Independência,true,true,Inverno,false,false,false,false
+POR038,2023-12-08,Imaculada Conceição,true,true,Inverno,false,false,false,false
+POR409,2023-12-25,Natal,true,false,Inverno,true,false,false,false
+POR422,2023-12-25,Natal,true,false,Inverno,true,false,false,false
+POR433,2023-12-25,Natal,true,false,Inverno,true,false,false,false
+POR009,2023-12-25,Natal 2023,false,true,Inverno,true,false,false,false
+POR036,2024-01-01,Dia Ano Novo,false,true,Inverno,false,false,true,false
+POR028,2024-01-01,Dia de Ano Novo,false,true,Inverno,false,false,true,false
+POR408,2024-02-13,Carnaval,false,true,Inverno,false,false,false,false
+POR058,2024-02-13,Carnaval,false,true,Inverno,false,false,false,false
+POR445,2024-02-13,Carnaval,false,true,Inverno,false,false,false,false
+POR054,2024-02-13,Carnaval,false,true,Inverno,false,false,false,false
+POR032,2024-03-29,Sexta-Feira Santa,false,true,Primavera,false,false,false,false
+POR433,2024-03-29,Sexta-Feira Santa,false,true,Primavera,false,false,false,false
+POR429,2024-03-29,Sexta-Feira Santa,false,true,Primavera,false,false,false,false
+POR424,2024-03-29,Sexta-Feira Santa,false,true,Primavera,false,false,false,false
+POR018,2024-03-29,Sexta-Feira Santa,false,true,Primavera,false,false,false,false
+POR427,2024-03-29,Sexta-Feira Santa,false,true,Primavera,false,false,false,false
+POR028,2024-03-31,Páscoa,false,true,Primavera,false,true,false,false
+POR062,2024-03-31,Páscoa,false,true,Primavera,false,true,false,false
+POR404,2024-03-31,Páscoa,false,true,Primavera,false,true,false,false
+POR420,2024-03-31,Páscoa,false,true,Primavera,false,true,false,false
+POR018,2024-03-31,Páscoa,false,true,Primavera,false,true,false,false
+POR437,2024-03-31,Páscoa,false,true,Primavera,false,true,false,false
+POR438,2024-03-31,Páscoa,false,true,Primavera,false,true,false,false
+POR036,2020-01-01,Dia de Ano Novo,true,true,Inverno,false,false,true,false
+POR012,2020-01-01,Dia de Ano Novo,true,false,Inverno,false,false,true,false
+POR062,2020-01-01,Ano Novo,true,true,Inverno,false,false,true,false
+POR032,2020-05-12,Feriado Cidade Aveiro,true,true,Primavera,false,false,false,false
+POR031,2020-08-15,Assunção de Maria,true,true,Verão,false,false,false,false
+POR063,2020-09-08,Feriado Municipal de Lagoa,true,true,Outono,false,false,false,false
+POR412,2020-12-25,Natal,true,false,Inverno,true,false,false,false
+POR021,2020-12-25,Dia de natal,true,false,Inverno,true,false,false,false
+POR053,2020-12-25,Natal,true,true,Inverno,true,false,false,false
+POR030,2020-12-25,Natal,true,true,Inverno,true,false,false,false
+POR026,2020-12-25,Natal,true,true,Inverno,true,false,false,false
+POR016,2020-12-25,Natal,true,true,Inverno,true,false,false,false
+POR416,2021-01-01,Dia de Ano Novo,true,true,Inverno,false,false,true,false
+POR023,2021-01-01,Dia de Ano Novo,true,false,Inverno,false,false,true,false
+POR010,2021-01-01,Dia de Ano Novo,true,true,Inverno,false,false,true,false
+POR446,2021-01-01,Ano Novo,true,true,Inverno,false,false,true,false
+POR031,2021-04-25,Dia da Liberdade,true,true,Primavera,false,false,false,false
+U0141,2021-05-01,Dia do Trabalhador,true,true,Primavera,false,false,false,true
+POR025,2021-06-07,Feriado Municipal de Oeiras,true,true,Verão,false,false,false,false
+POR427,2021-12-25,Natal,true,true,Inverno,true,false,false,false
+POR033,2021-12-25,Natal,true,false,Inverno,true,false,false,false
+POR406,2022-01-01,Dia de Ano Novo,true,true,Inverno,false,false,true,false
+POR402,2022-01-01,Dia de Ano Novo,true,true,Inverno,false,false,true,false
+POR435,2022-01-01,Dia de Ano Novo,true,true,Inverno,false,false,true,false
+POR013,2022-01-01,Dia de Ano Novo,true,true,Inverno,false,false,true,false
+POR414,2022-01-01,Dia de Ano Novo,true,true,Inverno,false,false,true,false
+POR018,2022-06-07,Feriado Municipal de Oeiras,true,true,Verão,false,false,false,false
+POR435,2022-06-13,Feriado Municipal de Lisboa,true,true,Verão,false,false,false,false
+POR062,2022-12-25,Dia de natal,true,true,Inverno,true,false,false,false
+POR013,2022-12-25,Natal,true,true,Inverno,true,false,false,false
+POR025,2022-12-25,Natal,true,true,Inverno,true,false,false,false
+POR404,2023-01-01,Dia de Ano Novo,true,true,Inverno,false,false,true,false
+POR010,2023-01-01,Dia de Ano Novo,true,true,Inverno,false,false,true,false
+POR054,2023-01-01,Dia de Ano Novo,true,true,Inverno,false,false,true,false
+POR026,2023-04-25,Dia da Liberdade,true,true,Primavera,false,false,false,false
+POR420,2023-07-26,Feriado Municipal de Loures,true,true,Verão,false,false,false,false
+POR416,2024-01-01,Dia de Ano Novo,true,true,Inverno,false,false,true,false
+POR013,2024-01-01,Dia de Ano Novo,true,true,Inverno,false,false,true,false
+POR016,2024-01-01,Dia de Ano Novo,true,true,Inverno,false,false,true,false
+POR433,2024-01-01,Dia de Ano Novo,true,true,Inverno,false,false,true,false
+POR018,2024-06-07,Feriado Municipal de Oeiras,true,true,Verão,false,false,false,false
+POR062,2024-12-25,Dia de natal,true,true,Inverno,true,false,false,false
+POR027,2024-12-25,Natal,true,true,Inverno,true,false,false,false
+POR023,2024-12-25,Natal,true,true,Inverno,true,false,false,false
+POR012,2021-12-01,Restauração da Independência,false,true,Inverno,false,false,false,false
+POR027,2021-12-01,Restauração da Independência,false,true,Inverno,false,false,false,false
+POR019,2021-12-08,Imaculada Conceição,false,true,Inverno,false,false,false,false
+POR017,2022-03-01,Carnaval,false,true,Primavera,false,false,false,false
+POR021,2022-04-17,Páscoa,false,true,Primavera,false,true,false,false
+POR031,2022-04-17,Páscoa,false,true,Primavera,false,true,false,false
+POR008,2022-04-25,Dia da Liberdade,false,true,Primavera,false,false,false,false
+POR405,2022-04-25,Dia da Liberdade,false,true,Primavera,false,false,false,false
+POR019,2022-05-01,1º MAIO - FERIADO ABERTO,false,true,Primavera,false,false,false,false
+POR065,2022-05-01,1º MAIO - FERIADO ABERTO,false,true,Primavera,false,false,false,false
+POR411,2022-06-13,Feriado Municipal de Lisboa,true,true,Verão,false,false,false,false
+POR427,2022-06-13,Feriado Municipal de Lisboa,true,true,Verão,false,false,false,false
+POR034,2022-06-16,Corpo de Deus,false,true,Verão,false,false,false,false
+POR008,2022-06-16,Corpo de Deus,false,true,Verão,false,false,false,false
+POR028,2022-06-16,Corpo de Deus,false,true,Verão,false,false,false,false
+POR054,2022-06-16,Corpo de Deus,false,true,Verão,false,false,false,false
+POR017,2022-06-16,Corpo de Deus,false,true,Verão,false,false,false,false
+POR039,2022-06-24,Municipal do Porto (24 Jun),false,true,Verão,false,false,false,false
+POR028,2022-10-05,Implantação da República,false,true,Outono,false,false,false,false
+POR010,2022-10-05,Implantação da República,false,true,Outono,false,false,false,false
+POR019,2022-11-01,Todos os Santos,false,true,Outono,false,false,false,false
+POR412,2022-11-01,Todos os Santos,false,true,Outono,false,false,false,false
+POR062,2022-12-01,Restauração da Independência,false,true,Inverno,false,false,false,false
+POR412,2022-12-08,Imaculada Conceição,false,true,Inverno,false,false,false,false
+POR425,2022-12-08,Imaculada Conceição,false,true,Inverno,false,false,false,false
+POR031,2022-12-08,Imaculada Conceição,false,true,Inverno,false,false,false,false
+POR017,2022-12-08,Imaculada Conceição,false,true,Inverno,false,false,false,false
+POR016,2022-12-25,Dia de natal,false,false,Inverno,true,false,false,false
+POR409,2023-02-21,Carnaval,false,true,Inverno,false,false,false,false
+POR432,2023-02-21,Carnaval,false,true,Inverno,false,false,false,false
+POR405,2023-02-21,Carnaval,false,true,Inverno,false,false,false,false
+POR028,2023-02-21,Carnaval,false,true,Inverno,false,false,false,false
+POR039,2023-02-21,Carnaval,false,true,Inverno,false,false,false,false
+POR445,2023-02-21,Carnaval,false,true,Inverno,false,false,false,false
+POR027,2023-04-07,Sexta-Feira Santa,false,true,Primavera,false,false,false,false
+POR402,2023-04-09,Páscoa,false,true,Primavera,false,true,false,false
+POR419,2023-04-09,Páscoa,false,true,Primavera,false,true,false,false
+POR062,2023-04-09,Páscoa,false,true,Primavera,false,true,false,false
+POR409,2023-04-25,Dia da Liberdade,true,true,Primavera,false,false,false,false
+POR422,2023-04-25,Dia da Liberdade,true,true,Primavera,false,false,false,false
+POR420,2023-04-25,Dia da Liberdade,true,true,Primavera,false,false,false,false
+POR414,2023-04-25,Dia da Liberdade,true,true,Primavera,false,false,false,false
+POR021,2023-04-25,Dia da Liberdade,true,true,Primavera,false,false,false,false
+POR029,2023-04-25,Dia da Liberdade,true,true,Primavera,false,false,false,false
+U0142,2023-04-25,Dia da Liberdade,true,true,Primavera,false,false,false,false
+POR446,2023-04-25,Dia da Liberdade,true,true,Primavera,false,false,false,false
+POR414,2023-05-01,Dia do Trabalhador,true,true,Primavera,false,false,false,true
+POR027,2023-05-01,Dia do Trabalhador,true,true,Primavera,false,false,false,true
+POR016,2023-05-01,Dia do Trabalhador,true,true,Primavera,false,false,false,true
+POR407,2023-05-01,Dia do Trabalhador,true,true,Primavera,false,false,false,true
+POR029,2023-05-18,Feriado Municipal de Vila Franca de Xira,false,true,Primavera,false,false,false,false
+POR416,2023-06-08,Corpo de Deus,true,true,Verão,false,false,false,false
+POR033,2023-06-08,Corpo de Deus,true,true,Verão,false,false,false,false
+POR422,2023-06-08,Corpo de Deus,true,true,Verão,false,false,false,false
+POR405,2023-06-08,Corpo de Deus,true,true,Verão,false,false,false,false
+POR065,2023-06-08,Corpo de Deus,true,true,Verão,false,false,false,false
+POR437,2023-06-08,Corpo de Deus,true,true,Verão,false,false,false,false
+U0142,2023-06-08,Corpo de Deus,true,true,Verão,false,false,false,false
+POR402,2023-06-10,Dia de Portugal,true,true,Verão,false,false,false,false
+POR025,2023-06-10,Dia de Portugal,true,true,Verão,false,false,false,false
+POR029,2023-06-10,Dia de Portugal,true,true,Verão,false,false,false,false
+POR019,2023-06-10,Dia de Portugal,true,true,Verão,false,false,false,false
+POR030,2023-06-10,Dia de Portugal,true,true,Verão,false,false,false,false
+POR031,2023-06-10,Dia de Portugal,true,true,Verão,false,false,false,false
+POR065,2023-06-24,Feriado Municipal de Vila Nova de Gaia,true,true,Verão,false,false,false,false
+POR416,2023-08-15,Assunção de Maria,true,true,Verão,false,false,false,false
+POR419,2023-08-15,Assunção de Maria,true,true,Verão,false,false,false,false
+POR405,2023-08-15,Assunção de Maria,true,true,Verão,false,false,false,false
+POR407,2023-08-15,Assunção de Maria,true,true,Verão,false,false,false,false
+POR009,2023-10-05,Implantação da República,true,true,Outono,false,false,false,false
+POR034,2023-10-05,Implantação da República,true,true,Outono,false,false,false,false
+POR030,2023-10-05,Implantação da República,true,true,Outono,false,false,false,false
+POR065,2023-10-05,Implantação da República,true,true,Outono,false,false,false,false
+POR413,2023-11-01,Dia de Todos os Santos,true,true,Outono,false,false,false,false
+POR411,2023-11-01,Dia de Todos os Santos,true,true,Outono,false,false,false,false
+POR420,2023-11-01,Dia de Todos os Santos,true,true,Outono,false,false,false,false
+POR423,2023-11-01,Dia de Todos os Santos,true,true,Outono,false,false,false,false
+POR009,2023-11-01,Dia de Todos os Santos,true,true,Outono,false,false,false,false
+U0143,2023-11-01,Dia de Todos os Santos,true,true,Outono,false,false,false,false
+POR053,2023-12-01,Restauração da Independência,true,true,Inverno,false,false,false,false
+POR027,2023-12-08,Imaculada Conceição,true,true,Inverno,false,false,false,false
+POR423,2023-12-08,Imaculada Conceição,true,true,Inverno,false,false,false,false
+POR062,2023-12-08,Imaculada Conceição,true,true,Inverno,false,false,false,false
+POR437,2023-12-08,Imaculada Conceição,true,true,Inverno,false,false,false,false
+POR423,2023-12-25,Natal,true,false,Inverno,true,false,false,false
+POR432,2023-12-25,Natal,true,false,Inverno,true,false,false,false
+POR445,2023-12-25,Natal,true,false,Inverno,true,false,false,false
+POR404,2024-02-13,Carnaval,false,true,Inverno,false,false,false,false
+POR432,2024-02-13,Carnaval,false,true,Inverno,false,false,false,false
+POR062,2024-02-13,Carnaval,false,true,Inverno,false,false,false,false
+POR417,2024-03-29,Sexta-Feira Santa,false,true,Primavera,false,false,false,false
+POR414,2024-03-29,Sexta-Feira Santa,false,true,Primavera,false,false,false,false
+POR038,2024-03-29,Sexta-Feira Santa,false,true,Primavera,false,false,false,false
+POR019,2024-03-31,Páscoa,false,true,Primavera,false,true,false,false
+POR429,2024-03-31,Páscoa,false,true,Primavera,false,true,false,false
+POR063,2024-03-31,Páscoa,false,true,Primavera,false,true,false,false
+POR402,2020-01-01,Dia de Ano Novo,true,true,Inverno,false,false,true,false
+POR038,2020-01-01,Dia de Ano Novo,true,true,Inverno,false,false,true,false
+POR019,2020-01-01,Dia de Ano Novo,true,true,Inverno,false,false,true,false
+POR417,2020-01-01,Dia de Ano Novo,true,true,Inverno,false,false,true,false
+POR017,2020-01-01,Dia de Ano Novo,true,true,Inverno,false,false,true,false
+POR437,2020-01-01,Dia de Ano Novo,true,true,Inverno,false,false,true,false
+POR018,2020-06-07,Feriado Municipal de Oeiras,true,true,Verão,false,false,false,false
+POR029,2020-12-08,Imaculada Conceição,true,true,Inverno,false,false,false,false
+POR427,2020-12-25,Natal,true,true,Inverno,true,false,false,false
+POR052,2020-12-25,Natal,true,true,Inverno,true,false,false,false
+POR436,2020-12-25,Natal,true,true,Inverno,true,false,false,false
+POR446,2020-12-25,Natal,true,true,Inverno,true,false,false,false
+POR421,2021-01-01,Dia de Ano Novo,true,true,Inverno,false,false,true,false
+POR019,2021-01-01,Dia de Ano Novo,true,true,Inverno,false,false,true,false
+POR062,2021-01-01,Ano Novo,true,true,Inverno,false,false,true,false
+POR416,2021-11-19,Feriado Municipal de Odivelas,true,true,Outono,false,false,false,false
+POR035,2021-12-25,Natal,true,true,Inverno,true,false,false,false
+POR039,2021-12-25,Natal,true,true,Inverno,true,false,false,false
+POR454,2021-12-25,Natal,true,true,Inverno,true,false,false,false
+POR018,2022-01-01,Dia de Ano Novo,true,true,Inverno,false,false,true,false
+POR429,2022-01-01,Dia de Ano Novo,true,true,Inverno,false,false,true,false
+POR420,2022-07-26,Feriado Municipal de Loures,true,true,Verão,false,false,false,false
+POR031,2022-12-01,Restauração da Independência,true,true,Inverno,false,false,false,false
+POR436,2022-12-25,Natal,true,true,Inverno,true,false,false,false
+POR434,2023-01-01,Ano Novo,true,true,Inverno,false,false,true,false
+POR425,2023-01-01,Ano Novo,true,true,Inverno,false,false,true,false
+POR427,2023-01-01,Dia de Ano Novo,true,true,Inverno,false,false,true,false
+POR039,2023-01-01,Dia de Ano Novo,true,true,Inverno,false,false,true,false
+U0143,2023-08-13,Feriado municipal,true,true,Verão,false,false,false,false
+POR062,2023-12-25,Dia de natal,true,true,Inverno,true,false,false,false
+POR039,2023-12-25,Natal,true,true,Inverno,true,false,false,false
+POR446,2023-12-25,Natal,true,true,Inverno,true,false,false,false
+POR412,2024-01-01,Ano Novo,true,true,Inverno,false,false,true,false
+POR402,2024-01-01,Dia de Ano Novo,true,true,Inverno,false,false,true,false
+POR420,2024-01-01,Dia de Ano Novo,true,true,Inverno,false,false,true,false
+POR009,2024-01-01,Dia de Ano Novo,true,true,Inverno,false,false,true,false
+POR017,2024-01-01,Dia de Ano Novo,true,true,Inverno,false,false,true,false
+POR437,2024-01-01,Dia de Ano Novo,true,true,Inverno,false,false,true,false
+POR405,2024-05-01,1º MAIO - FERIADO ABERTO,true,true,Primavera,false,false,false,false
+POR437,2024-06-13,Feriado Municipal de Lisboa,true,true,Verão,false,false,false,false
+POR057,2024-12-25,Natal,true,true,Inverno,true,false,false,false
+POR026,2024-12-25,Natal,true,true,Inverno,true,false,false,false
+POR012,2021-06-24,Municipal do Porto (24 Jun),false,true,Verão,false,false,false,false
+POR417,2021-06-24,Municipal do Porto (24 Jun),false,true,Verão,false,false,false,false
+POR417,2021-10-05,Implantação da República,false,true,Outono,false,false,false,false
+POR012,2021-11-01,Todos os Santos,false,true,Outono,false,false,false,false
+POR012,2021-12-25,Dia de natal,false,false,Inverno,true,false,false,false
+POR012,2022-01-01,Dia de Ano Novo,false,false,Inverno,false,false,true,false
+POR065,2022-03-01,Carnaval,false,true,Primavera,false,false,false,false
+POR434,2022-04-15,Sexta-feira Santa,false,true,Primavera,false,false,false,false
+POR012,2022-04-17,Páscoa,false,true,Primavera,false,true,false,false
+POR432,2022-04-25,Dia da Liberdade,false,true,Primavera,false,false,false,false
+POR425,2022-04-25,Dia da Liberdade,false,true,Primavera,false,false,false,false
+POR062,2022-04-25,Dia da Liberdade,false,true,Primavera,false,false,false,false
+POR021,2022-05-01,1º MAIO - FERIADO ABERTO,false,true,Primavera,false,false,false,false
+POR036,2022-05-01,1º MAIO - FERIADO ABERTO,false,true,Primavera,false,false,false,false
+POR062,2022-06-10,Dia de Portugal,false,true,Verão,false,false,false,false
+POR026,2022-06-10,Dia de Portugal,false,true,Verão,false,false,false,false
+POR031,2022-06-16,Corpo de Deus,false,true,Verão,false,false,false,false
+POR054,2022-11-01,Todos os Santos,false,true,Outono,false,false,false,false
+POR008,2022-12-01,Restauração da Independência,false,true,Inverno,false,false,false,false
+POR017,2022-12-01,Restauração da Independência,false,true,Inverno,false,false,false,false
+POR027,2022-12-08,Imaculada Conceição,false,true,Inverno,false,false,false,false
+POR026,2022-12-08,Imaculada Conceição,false,true,Inverno,false,false,false,false
+POR008,2022-12-25,Dia de natal,false,false,Inverno,true,false,false,false
+POR038,2023-02-21,Carnaval,false,true,Inverno,false,false,false,false
+POR422,2023-02-21,Carnaval,false,true,Inverno,false,false,false,false
+POR027,2023-02-21,Carnaval,false,true,Inverno,false,false,false,false
+U0143,2023-02-21,Carnaval,false,true,Inverno,false,false,false,false
+POR416,2023-04-07,Sexta-Feira Santa,false,true,Primavera,false,false,false,false
+POR052,2023-04-07,Sexta-Feira Santa,false,true,Primavera,false,false,false,false
+POR018,2023-04-07,Sexta-Feira Santa,false,true,Primavera,false,false,false,false
+POR412,2023-04-07,Sexta-Feira Santa,false,true,Primavera,false,false,false,false
+POR035,2023-04-07,Sexta-Feira Santa,false,true,Primavera,false,false,false,false
+POR445,2023-04-07,Sexta-Feira Santa,false,true,Primavera,false,false,false,false
+POR425,2023-04-09,Páscoa,false,true,Primavera,false,true,false,false
+POR432,2023-04-25,Dia da Liberdade,true,true,Primavera,false,false,false,false
+POR403,2023-04-25,Dia da Liberdade,true,true,Primavera,false,false,false,false
+POR424,2023-05-01,Dia do Trabalhador,true,true,Primavera,false,false,false,true
+POR057,2023-05-01,Dia do Trabalhador,true,true,Primavera,false,false,false,true
+POR404,2023-05-01,Dia do Trabalhador,true,true,Primavera,false,false,false,true
+POR427,2023-05-01,Dia do Trabalhador,true,true,Primavera,false,false,false,true
+POR034,2023-05-01,Dia do Trabalhador,true,true,Primavera,false,false,false,true
+POR419,2023-06-08,Corpo de Deus,true,true,Verão,false,false,false,false
+POR404,2023-06-08,Corpo de Deus,true,true,Verão,false,false,false,false
+POR434,2023-06-08,Corpo de Deus,true,true,Verão,false,false,false,false
+POR028,2023-06-08,Corpo de Deus,true,true,Verão,false,false,false,false
+POR052,2023-06-10,Dia de Portugal,true,true,Verão,false,false,false,false
+POR053,2023-06-16,Feriado Municipal de Olhão,true,true,Verão,false,false,false,false
+POR017,2023-06-24,Feriado Municipal de Guimarães,true,true,Verão,false,false,false,false
+POR424,2023-08-15,Assunção de Maria,true,true,Verão,false,false,false,false
+POR033,2023-08-15,Assunção de Maria,true,true,Verão,false,false,false,false
+POR038,2023-08-15,Assunção de Maria,true,true,Verão,false,false,false,false
+POR414,2023-08-15,Assunção de Maria,true,true,Verão,false,false,false,false
+POR058,2023-10-05,Implantação da República,true,true,Outono,false,false,false,false
+POR422,2023-10-05,Implantação da República,true,true,Outono,false,false,false,false
+POR414,2023-10-05,Implantação da República,true,true,Outono,false,false,false,false
+POR405,2023-10-05,Implantação da República,true,true,Outono,false,false,false,false
+POR427,2023-11-01,Dia de Todos os Santos,true,true,Outono,false,false,false,false
+POR436,2023-11-01,Dia de Todos os Santos,true,true,Outono,false,false,false,false
+POR438,2023-11-01,Dia de Todos os Santos,true,true,Outono,false,false,false,false
+POR017,2023-11-01,Dia de Todos os Santos,true,true,Outono,false,false,false,false
+POR057,2023-12-01,Restauração da Independência,true,true,Inverno,false,false,false,false
+POR013,2023-12-01,Restauração da Independência,true,true,Inverno,false,false,false,false
+POR405,2023-12-01,Restauração da Independência,true,true,Inverno,false,false,false,false
+POR063,2023-12-08,Imaculada Conceição,true,true,Inverno,false,false,false,false
+POR420,2023-12-08,Imaculada Conceição,true,true,Inverno,false,false,false,false
+POR436,2023-12-08,Imaculada Conceição,true,true,Inverno,false,false,false,false
+POR408,2023-12-08,Imaculada Conceição,true,true,Inverno,false,false,false,false
+POR054,2023-12-08,Imaculada Conceição,true,true,Inverno,false,false,false,false
+POR012,2023-12-08,Imaculada Conceição,true,true,Inverno,false,false,false,false
+POR023,2023-12-11,Feriado Municipal de Portimão,true,true,Inverno,false,false,false,false
+POR438,2023-12-25,Natal,true,false,Inverno,true,false,false,false
+POR021,2023-12-25,Natal,true,false,Inverno,true,false,false,false
+POR416,2024-02-13,Carnaval,false,true,Inverno,false,false,false,false
+POR028,2024-02-13,Carnaval,false,true,Inverno,false,false,false,false
+POR434,2024-03-29,Sexta-Feira Santa,false,true,Primavera,false,false,false,false
+POR062,2024-03-29,Sexta-Feira Santa,false,true,Primavera,false,false,false,false
+POR411,2024-03-29,Sexta-Feira Santa,false,true,Primavera,false,false,false,false
+POR407,2024-03-29,Sexta-Feira Santa,false,true,Primavera,false,false,false,false
+POR410,2024-03-31,Páscoa,false,true,Primavera,false,true,false,false
+POR021,2024-03-31,Páscoa,false,true,Primavera,false,true,false,false
+POR032,2024-03-31,Páscoa,false,true,Primavera,false,true,false,false
+POR029,2024-03-31,Páscoa,false,true,Primavera,false,true,false,false
+POR425,2020-01-01,Ano Novo,true,true,Inverno,false,false,true,false
+POR406,2020-01-01,Dia de Ano Novo,true,true,Inverno,false,false,true,false
+POR057,2020-01-01,Dia de Ano Novo,true,true,Inverno,false,false,true,false
+POR420,2020-01-01,Dia de Ano Novo,true,true,Inverno,false,false,true,false
+POR410,2020-01-01,Dia de Ano Novo,true,true,Inverno,false,false,true,false
+POR039,2020-10-05,Implantação da República,true,true,Outono,false,false,false,false
+POR010,2020-11-01,Feriado Dia de todos os Santos,true,true,Outono,false,false,false,false
+POR039,2020-12-01,Restauração da Independência,true,true,Inverno,false,false,false,false
+POR434,2020-12-25,Natal,true,false,Inverno,true,false,false,false
+POR033,2020-12-25,Natal,true,false,Inverno,true,false,false,false
+POR038,2020-12-25,Natal,true,true,Inverno,true,false,false,false
+POR029,2020-12-25,Natal,true,true,Inverno,true,false,false,false
+POR034,2021-01-01,Dia de Ano Novo,true,true,Inverno,false,false,true,false
+POR018,2021-01-01,Dia de Ano Novo,true,true,Inverno,false,false,true,false
+POR013,2021-01-01,Dia de Ano Novo,true,true,Inverno,false,false,true,false
+POR420,2021-01-01,Dia de Ano Novo,true,true,Inverno,false,false,true,false
+POR408,2021-01-01,Dia de Ano Novo,true,true,Inverno,false,false,true,false
+POR030,2021-01-01,Dia de Ano Novo,true,true,Inverno,false,false,true,false
+POR016,2021-01-01,Dia de Ano Novo,true,true,Inverno,false,false,true,false
+POR433,2021-01-01,Dia de Ano Novo,true,true,Inverno,false,false,true,false
+POR437,2021-01-01,Dia de Ano Novo,true,true,Inverno,false,false,true,false
+POR445,2021-01-01,Dia de Ano Novo,true,true,Inverno,false,false,true,false
+POR437,2021-06-13,Feriado Municipal de Lisboa,true,true,Verão,false,false,false,false
+POR434,2021-09-15,Dia de Bocage (municipal),true,true,Outono,false,false,false,false
+POR010,2021-09-21,Feriado Cidade Viseu,true,true,Outono,false,false,false,false
+POR031,2021-12-01,Restauração da Independência,true,true,Inverno,false,false,false,false
+POR018,2021-12-25,Natal,true,true,Inverno,true,false,false,false
+POR016,2021-12-25,Natal,true,true,Inverno,true,false,false,false
+POR425,2022-01-01,Ano Novo,true,true,Inverno,false,false,true,false
+POR039,2022-10-05,Implantação da República,true,true,Outono,false,false,false,false
+POR027,2022-12-25,Natal,true,true,Inverno,true,false,false,false
+POR407,2022-12-25,Natal,true,true,Inverno,true,false,false,false
+POR402,2023-01-01,Dia de Ano Novo,true,true,Inverno,false,false,true,false
+POR419,2023-01-01,Dia de Ano Novo,true,true,Inverno,false,false,true,false
+POR421,2023-01-01,Dia de Ano Novo,true,true,Inverno,false,false,true,false
+POR030,2023-01-01,Dia de Ano Novo,true,true,Inverno,false,false,true,false
+POR031,2023-12-01,Restauração da Independência,true,true,Inverno,false,false,false,false
+POR038,2023-12-25,Natal,true,true,Inverno,true,false,false,false
+POR017,2023-12-25,Natal,true,true,Inverno,true,false,false,false
+POR411,2024-01-01,Dia de Ano Novo,true,true,Inverno,false,false,true,false
+U0143,2024-01-01,Dia de Ano Novo,true,true,Inverno,false,false,true,false
+U0142,2024-01-01,Dia de Ano Novo,true,true,Inverno,false,false,true,false
+POR032,2024-05-12,Feriado Cidade Aveiro,true,true,Primavera,false,false,false,false
+POR025,2024-06-07,Feriado Municipal de Oeiras,true,true,Verão,false,false,false,false
+POR010,2024-09-21,Feriado Cidade Viseu,true,true,Outono,false,false,false,false
+POR039,2024-12-01,Restauração da Independência,true,true,Inverno,false,false,false,false
+POR412,2024-12-25,Natal,true,false,Inverno,true,false,false,false
+POR402,2024-12-25,Natal,true,true,Inverno,true,false,false,false
+POR035,2024-12-25,Natal,true,true,Inverno,true,false,false,false
+POR039,2024-12-25,Natal,true,true,Inverno,true,false,false,false
+POR417,2021-06-03,Corpo de Deus,false,true,Verão,false,false,false,false
+POR417,2021-08-15,Assunção de Maria,false,true,Verão,false,false,false,false
+POR417,2021-12-08,Imaculada Conceição,false,true,Inverno,false,false,false,false
+POR021,2021-12-08,Imaculada Conceição,false,true,Inverno,false,false,false,false
+POR030,2022-03-01,Carnaval,false,true,Primavera,false,false,false,false
+POR065,2022-04-15,Sexta-feira Santa,false,true,Primavera,false,false,false,false
+POR423,2022-04-15,Sexta-feira Santa,false,true,Primavera,false,false,false,false
+POR008,2022-04-17,Páscoa,false,true,Primavera,false,true,false,false
+POR417,2022-04-17,Páscoa,false,true,Primavera,false,true,false,false
+POR030,2022-04-17,Páscoa,false,true,Primavera,false,true,false,false
+POR019,2022-04-25,Dia da Liberdade,false,true,Primavera,false,false,false,false
+POR010,2022-04-25,Dia da Liberdade,false,true,Primavera,false,false,false,false
+POR054,2022-05-01,1º MAIO - FERIADO ABERTO,false,true,Primavera,false,false,false,false
+POR010,2022-05-01,1º MAIO - FERIADO ABERTO,false,true,Primavera,false,false,false,false
+POR016,2022-05-01,1º MAIO - FERIADO ABERTO,false,true,Primavera,false,false,false,false
+POR425,2022-06-10,Dia de Portugal,false,true,Verão,false,false,false,false
+POR409,2022-06-13,Feriado Municipal de Lisboa,true,true,Verão,false,false,false,false
+POR414,2022-06-13,Feriado Municipal de Lisboa,true,true,Verão,false,false,false,false
+POR408,2022-06-13,Feriado Municipal de Lisboa,true,true,Verão,false,false,false,false
+POR410,2022-06-13,Feriado Municipal de Lisboa,true,true,Verão,false,false,false,false
+POR021,2022-06-16,Corpo de Deus,false,true,Verão,false,false,false,false
+POR434,2022-06-16,Corpo de Deus,false,true,Verão,false,false,false,false
+POR026,2022-06-16,Corpo de Deus,false,true,Verão,false,false,false,false
+POR425,2022-06-24,Municipal do Porto (24 Jun),false,true,Verão,false,false,false,false
+POR031,2022-06-24,Municipal do Porto (24 Jun),false,true,Verão,false,false,false,false
+POR432,2022-10-05,Implantação da República,false,true,Outono,false,false,false,false
+POR008,2022-11-01,Todos os Santos,false,true,Outono,false,false,false,false
+POR021,2022-12-01,Restauração da Independência,false,true,Inverno,false,false,false,false
+POR412,2022-12-01,Restauração da Independência,false,true,Inverno,false,false,false,false
+POR032,2022-12-01,Restauração da Independência,false,true,Inverno,false,false,false,false
+POR012,2022-12-25,Dia de natal,false,false,Inverno,true,false,false,false
+POR403,2023-01-01,Dia de Ano Novo,true,false,Inverno,false,false,true,false
+POR018,2023-02-21,Carnaval,false,true,Inverno,false,false,false,false
+POR419,2023-02-21,Carnaval,false,true,Inverno,false,false,false,false
+POR408,2023-02-21,Carnaval,false,true,Inverno,false,false,false,false
+POR036,2023-02-21,Carnaval,false,true,Inverno,false,false,false,false
+POR012,2023-02-21,Carnaval,false,true,Inverno,false,false,false,false
+POR429,2023-04-07,Sexta-Feira Santa,false,true,Primavera,false,false,false,false
+POR016,2023-04-07,Sexta-Feira Santa,false,true,Primavera,false,false,false,false
+POR039,2023-04-07,Sexta-Feira Santa,false,true,Primavera,false,false,false,false
+U0142,2023-04-07,Sexta-Feira Santa,false,true,Primavera,false,false,false,false
+POR029,2023-04-09,Páscoa,false,true,Primavera,false,true,false,false
+POR421,2023-04-09,Páscoa,false,true,Primavera,false,true,false,false
+POR405,2023-04-09,Páscoa,false,true,Primavera,false,true,false,false
+POR030,2023-04-09,Páscoa,false,true,Primavera,false,true,false,false
+POR036,2023-04-09,Páscoa,false,true,Primavera,false,true,false,false
+POR454,2023-04-09,Páscoa,false,true,Primavera,false,true,false,false
+POR424,2023-04-25,Dia da Liberdade,true,true,Primavera,false,false,false,false
+POR413,2023-04-25,Dia da Liberdade,true,true,Primavera,false,false,false,false
+POR054,2023-04-25,Dia da Liberdade,true,true,Primavera,false,false,false,false
+POR402,2023-05-01,Dia do Trabalhador,true,true,Primavera,false,false,false,true
+POR430,2023-05-01,Dia do Trabalhador,true,true,Primavera,false,false,false,true
+POR420,2023-05-01,Dia do Trabalhador,true,true,Primavera,false,false,false,true
+POR417,2023-05-01,Dia do Trabalhador,true,true,Primavera,false,false,false,true
+POR065,2023-05-01,Dia do Trabalhador,true,true,Primavera,false,false,false,true
+POR437,2023-05-01,Dia do Trabalhador,true,true,Primavera,false,false,false,true
+POR406,2023-06-08,Corpo de Deus,true,true,Verão,false,false,false,false
+POR052,2023-06-08,Corpo de Deus,true,true,Verão,false,false,false,false
+POR446,2023-06-08,Corpo de Deus,true,true,Verão,false,false,false,false
+POR416,2023-06-10,Dia de Portugal,true,true,Verão,false,false,false,false
+POR063,2023-06-10,Dia de Portugal,true,true,Verão,false,false,false,false
+POR018,2023-06-10,Dia de Portugal,true,true,Verão,false,false,false,false
+POR023,2023-06-10,Dia de Portugal,true,true,Verão,false,false,false,false
+POR013,2023-06-10,Dia de Portugal,true,true,Verão,false,false,false,false
+POR409,2023-06-10,Dia de Portugal,true,true,Verão,false,false,false,false
+POR404,2023-06-10,Dia de Portugal,true,true,Verão,false,false,false,false
+POR432,2023-06-10,Dia de Portugal,true,true,Verão,false,false,false,false
+POR032,2023-06-10,Dia de Portugal,true,true,Verão,false,false,false,false
+POR062,2023-06-10,Dia de Portugal,true,true,Verão,false,false,false,false
+POR017,2023-06-10,Dia de Portugal,true,true,Verão,false,false,false,false
+POR016,2023-06-10,Dia de Portugal,true,true,Verão,false,false,false,false
+POR012,2023-06-10,Dia de Portugal,true,true,Verão,false,false,false,false
+U0143,2023-06-10,Dia de Portugal,true,true,Verão,false,false,false,false
+POR417,2023-06-24,Feriado Municipal de Almada,true,true,Verão,false,false,false,false
+POR025,2023-08-15,Assunção de Maria,true,true,Verão,false,false,false,false
+POR009,2023-08-15,Assunção de Maria,true,true,Verão,false,false,false,false
+POR034,2023-08-15,Assunção de Maria,true,true,Verão,false,false,false,false
+POR017,2023-08-15,Assunção de Maria,true,true,Verão,false,false,false,false
+U0142,2023-08-15,Assunção de Maria,true,true,Verão,false,false,false,false
+POR429,2023-10-05,Implantação da República,true,true,Outono,false,false,false,false
+POR017,2023-10-05,Implantação da República,true,true,Outono,false,false,false,false
+POR403,2023-10-05,Implantação da República,true,true,Outono,false,false,false,false
+U0143,2023-10-05,Implantação da República,true,true,Outono,false,false,false,false
+POR416,2023-11-01,Dia de Todos os Santos,true,true,Outono,false,false,false,false
+POR057,2023-11-01,Dia de Todos os Santos,true,true,Outono,false,false,false,false
+POR432,2023-11-01,Dia de Todos os Santos,true,true,Outono,false,false,false,false
+POR406,2023-12-01,Restauração da Independência,true,true,Inverno,false,false,false,false
+POR430,2023-12-01,Restauração da Independência,true,true,Inverno,false,false,false,false
+POR414,2023-12-01,Restauração da Independência,true,true,Inverno,false,false,false,false
+POR432,2023-12-01,Restauração da Independência,true,true,Inverno,false,false,false,false
+POR016,2023-12-01,Restauração da Independência,true,true,Inverno,false,false,false,false
+POR013,2023-12-08,Imaculada Conceição,true,true,Inverno,false,false,false,false
+POR429,2023-12-08,Imaculada Conceição,true,true,Inverno,false,false,false,false
+POR405,2023-12-08,Imaculada Conceição,true,true,Inverno,false,false,false,false
+POR065,2023-12-08,Imaculada Conceição,true,true,Inverno,false,false,false,false
+POR016,2024-02-13,Carnaval,false,true,Inverno,false,false,false,false
+POR063,2024-02-13,Carnaval,false,true,Inverno,false,false,false,false
+POR422,2024-02-13,Carnaval,false,true,Inverno,false,false,false,false
+POR010,2024-02-13,Carnaval,false,true,Inverno,false,false,false,false
+POR432,2024-03-29,Sexta-Feira Santa,false,true,Primavera,false,false,false,false
+POR031,2024-03-29,Sexta-Feira Santa,false,true,Primavera,false,false,false,false
+POR402,2024-03-29,Sexta-Feira Santa,false,true,Primavera,false,false,false,false
+POR406,2024-03-29,Sexta-Feira Santa,false,true,Primavera,false,false,false,false
+POR421,2024-03-29,Sexta-Feira Santa,false,true,Primavera,false,false,false,false
+POR016,2024-03-31,Páscoa,false,true,Primavera,false,true,false,false
+POR027,2020-01-01,Ano Novo,true,true,Inverno,false,false,true,false
+POR031,2020-01-01,Dia de Ano Novo,true,true,Inverno,false,false,true,false
+POR034,2020-01-01,Dia de Ano Novo,true,true,Inverno,false,false,true,false
+U0143,2020-04-07,Feriado aberto,true,true,Primavera,false,false,false,false
+POR425,2020-12-25,Natal,true,true,Inverno,true,false,false,false
+POR052,2021-01-01,Dia de Ano Novo,true,true,Inverno,false,false,true,false
+POR427,2021-01-01,Dia de Ano Novo,true,true,Inverno,false,false,true,false
+U0143,2021-01-01,Dia de Ano Novo,true,true,Inverno,false,false,true,false
+U0141,2021-01-01,Dia de Ano Novo,true,true,Inverno,false,false,true,false
+POR039,2021-04-25,Dia da Liberdade,true,true,Primavera,false,false,false,false
+POR032,2021-05-12,Feriado Cidade Aveiro,true,true,Primavera,false,false,false,false
+POR402,2021-12-25,Natal,true,true,Inverno,true,false,false,false
+POR028,2021-12-25,Natal,true,true,Inverno,true,false,false,false
+POR416,2022-01-01,Dia de Ano Novo,true,true,Inverno,false,false,true,false
+U0143,2022-08-13,Feriado municipal,true,true,Verão,false,false,false,false
+POR031,2022-10-05,Implantação da República,true,true,Outono,false,false,false,false
+POR010,2022-11-01,Feriado Dia de todos os Santos,true,true,Outono,false,false,false,false
+POR063,2022-12-25,Natal,true,false,Inverno,true,false,false,false
+POR425,2022-12-25,Natal,true,true,Inverno,true,false,false,false
+POR026,2022-12-25,Natal,true,true,Inverno,true,false,false,false
+POR018,2023-01-01,Dia de Ano Novo,true,true,Inverno,false,false,true,false
+POR414,2023-01-01,Dia de Ano Novo,true,true,Inverno,false,false,true,false
+POR008,2023-01-01,Dia de Ano Novo,true,true,Inverno,false,false,true,false
+U0143,2023-04-07,Feriado aberto,true,true,Primavera,false,false,false,false
+POR057,2023-12-25,Natal,true,true,Inverno,true,false,false,false
+POR033,2023-12-25,Natal,true,false,Inverno,true,false,false,false
+POR023,2023-12-25,Natal,true,true,Inverno,true,false,false,false
+POR036,2023-12-25,Natal,true,true,Inverno,true,false,false,false
+POR434,2024-01-01,Ano Novo,true,true,Inverno,false,false,true,false
+POR031,2024-01-01,Dia de Ano Novo,true,true,Inverno,false,false,true,false
+POR424,2024-01-01,Dia de Ano Novo,true,true,Inverno,false,false,true,false
+POR052,2024-01-01,Dia de Ano Novo,true,true,Inverno,false,false,true,false
+POR058,2024-01-01,Dia de Ano Novo,true,true,Inverno,false,false,true,false
+POR430,2024-01-01,Dia de Ano Novo,true,true,Inverno,false,false,true,false
+POR026,2024-01-01,Dia de Ano Novo,true,true,Inverno,false,false,true,false
+POR410,2024-01-01,Dia de Ano Novo,true,true,Inverno,false,false,true,false
+POR018,2024-12-25,Natal,true,true,Inverno,true,false,false,false
+POR425,2024-12-25,Natal,true,true,Inverno,true,false,false,false
+POR012,2021-06-03,Corpo de Deus,false,true,Verão,false,false,false,false
+POR019,2021-06-10,Dia de Portugal,false,true,Verão,false,false,false,false
+POR417,2021-12-01,Restauração da Independência,false,true,Inverno,false,false,false,false
+POR027,2021-12-08,Imaculada Conceição,false,true,Inverno,false,false,false,false
+POR412,2022-03-01,Carnaval,false,true,Primavera,false,false,false,false
+POR062,2022-04-15,Sexta-feira Santa,false,true,Primavera,false,false,false,false
+POR039,2022-04-15,Sexta-feira Santa,false,true,Primavera,false,false,false,false
+POR019,2022-04-17,Páscoa,false,true,Primavera,false,true,false,false
+POR062,2022-04-17,Páscoa,false,true,Primavera,false,true,false,false
+POR016,2022-04-17,Páscoa,false,true,Primavera,false,true,false,false
+POR434,2022-04-25,Dia da Liberdade,false,true,Primavera,false,false,false,false
+POR032,2022-05-01,1º MAIO - FERIADO ABERTO,false,true,Primavera,false,false,false,false
+POR034,2022-06-10,Dia de Portugal,false,true,Verão,false,false,false,false
+POR030,2022-06-10,Dia de Portugal,false,true,Verão,false,false,false,false
+POR413,2022-06-13,Feriado Municipal de Lisboa,true,true,Verão,false,false,false,false
+POR019,2022-06-16,Corpo de Deus,false,true,Verão,false,false,false,false
+POR425,2022-06-16,Corpo de Deus,false,true,Verão,false,false,false,false
+POR030,2022-06-16,Corpo de Deus,false,true,Verão,false,false,false,false
+POR065,2022-06-24,Municipal do Porto (24 Jun),false,true,Verão,false,false,false,false
+POR008,2022-08-15,Assunção de Maria,false,true,Verão,false,false,false,false
+POR012,2022-08-15,Assunção de Maria,false,true,Verão,false,false,false,false
+POR010,2022-08-15,Assunção de Maria,false,true,Verão,false,false,false,false
+POR434,2022-10-05,Implantação da República,false,true,Outono,false,false,false,false
+POR054,2022-10-05,Implantação da República,false,true,Outono,false,false,false,false
+POR065,2022-10-05,Implantação da República,false,true,Outono,false,false,false,false
+POR065,2022-11-01,Todos os Santos,false,true,Outono,false,false,false,false
+POR021,2022-11-01,Todos os Santos,false,true,Outono,false,false,false,false
+POR019,2022-12-01,Restauração da Independência,false,true,Inverno,false,false,false,false
+POR035,2022-12-01,Restauração da Independência,false,true,Inverno,false,false,false,false
+POR417,2022-12-08,Imaculada Conceição,false,true,Inverno,false,false,false,false
+POR010,2022-12-08,Imaculada Conceição,false,true,Inverno,false,false,false,false
+POR032,2022-12-08,Imaculada Conceição,false,true,Inverno,false,false,false,false
+POR009,2023-01-01,Dia Ano Novo,false,true,Inverno,false,false,true,false
+POR033,2023-02-21,Carnaval,false,true,Inverno,false,false,false,false
+POR425,2023-02-21,Carnaval,false,true,Inverno,false,false,false,false
+POR031,2023-02-21,Carnaval,false,true,Inverno,false,false,false,false
+POR008,2023-02-21,Carnaval,false,true,Inverno,false,false,false,false
+POR407,2023-02-21,Carnaval,false,true,Inverno,false,false,false,false
+POR404,2023-04-07,Sexta-Feira Santa,false,true,Primavera,false,false,false,false
+POR052,2023-04-09,Páscoa,false,true,Primavera,false,true,false,false
+POR413,2023-04-09,Páscoa,false,true,Primavera,false,true,false,false
+POR017,2023-04-09,Páscoa,false,true,Primavera,false,true,false,false
+POR038,2023-04-25,Dia da Liberdade,true,true,Primavera,false,false,false,false
+POR013,2023-04-25,Dia da Liberdade,true,true,Primavera,false,false,false,false
+POR436,2023-04-25,Dia da Liberdade,true,true,Primavera,false,false,false,false
+POR408,2023-04-25,Dia da Liberdade,true,true,Primavera,false,false,false,false
+POR404,2023-04-25,Dia da Liberdade,true,true,Primavera,false,false,false,false
+POR427,2023-04-25,Dia da Liberdade,true,true,Primavera,false,false,false,false
+POR027,2023-04-25,Dia da Liberdade,true,true,Primavera,false,false,false,false
+POR017,2023-04-25,Dia da Liberdade,true,true,Primavera,false,false,false,false
+POR008,2023-04-25,Dia da Liberdade,true,true,Primavera,false,false,false,false
+POR406,2023-05-01,Dia do Trabalhador,true,true,Primavera,false,false,false,true
+POR033,2023-05-01,Dia do Trabalhador,true,true,Primavera,false,false,false,true
+POR409,2023-05-01,Dia do Trabalhador,true,true,Primavera,false,false,false,true
+POR425,2023-05-01,Dia do Trabalhador,true,true,Primavera,false,false,false,true
+POR031,2023-05-01,Dia do Trabalhador,true,true,Primavera,false,false,false,true
+POR403,2023-05-01,Dia do Trabalhador,true,true,Primavera,false,false,false,true
+POR410,2023-05-01,Dia do Trabalhador,true,true,Primavera,false,false,false,true
+POR057,2023-05-18,Feriado Municipal de Vila Franca de Xira,false,true,Primavera,false,false,false,false
+POR424,2023-06-08,Corpo de Deus,true,true,Verão,false,false,false,false
+POR013,2023-06-08,Corpo de Deus,true,true,Verão,false,false,false,false
+POR414,2023-06-08,Corpo de Deus,true,true,Verão,false,false,false,false
+POR019,2023-06-08,Corpo de Deus,true,true,Verão,false,false,false,false
+POR425,2023-06-08,Corpo de Deus,true,true,Verão,false,false,false,false
+POR062,2023-06-08,Corpo de Deus,true,true,Verão,false,false,false,false
+POR403,2023-06-08,Corpo de Deus,true,true,Verão,false,false,false,false
+POR053,2023-06-10,Dia de Portugal,true,true,Verão,false,false,false,false
+POR419,2023-06-10,Dia de Portugal,true,true,Verão,false,false,false,false
+POR412,2023-06-10,Dia de Portugal,true,true,Verão,false,false,false,false
+POR053,2023-08-15,Assunção de Maria,true,true,Verão,false,false,false,false
+POR023,2023-08-15,Assunção de Maria,true,true,Verão,false,false,false,false
+POR436,2023-08-15,Assunção de Maria,true,true,Verão,false,false,false,false
+POR065,2023-08-15,Assunção de Maria,true,true,Verão,false,false,false,false
+POR403,2023-08-15,Assunção de Maria,true,true,Verão,false,false,false,false
+POR438,2023-08-15,Assunção de Maria,true,true,Verão,false,false,false,false
+POR025,2023-10-05,Implantação da República,true,true,Outono,false,false,false,false
+POR052,2023-10-05,Implantação da República,true,true,Outono,false,false,false,false
+POR053,2023-10-05,Implantação da República,true,true,Outono,false,false,false,false
+POR421,2023-10-05,Implantação da República,true,true,Outono,false,false,false,false
+POR420,2023-10-05,Implantação da República,true,true,Outono,false,false,false,false
+POR434,2023-10-05,Implantação da República,true,true,Outono,false,false,false,false
+POR445,2023-10-05,Implantação da República,true,true,Outono,false,false,false,false
+POR409,2023-11-01,Dia de Todos os Santos,true,true,Outono,false,false,false,false
+POR026,2023-11-01,Dia de Todos os Santos,true,true,Outono,false,false,false,false
+POR008,2023-11-01,Dia de Todos os Santos,true,true,Outono,false,false,false,false
+POR019,2023-11-01,Dia de Todos os Santos,true,true,Outono,false,false,false,false
+POR032,2023-11-01,Dia de Todos os Santos,true,true,Outono,false,false,false,false
+POR445,2023-11-01,Dia de Todos os Santos,true,true,Outono,false,false,false,false
+POR427,2023-12-01,Restauração da Independência,true,true,Inverno,false,false,false,false
+POR052,2023-12-01,Restauração da Independência,true,true,Inverno,false,false,false,false
+POR030,2023-12-01,Restauração da Independência,true,true,Inverno,false,false,false,false
+POR026,2023-12-01,Restauração da Independência,true,true,Inverno,false,false,false,false
+POR065,2023-12-01,Restauração da Independência,true,true,Inverno,false,false,false,false
+POR407,2023-12-01,Restauração da Independência,true,true,Inverno,false,false,false,false
+POR029,2023-12-01,Restauração da Independência,true,true,Inverno,false,false,false,false
+POR422,2023-12-08,Imaculada Conceição,true,true,Inverno,false,false,false,false
+POR039,2023-12-08,Imaculada Conceição,true,true,Inverno,false,false,false,false
+POR423,2024-02-13,Carnaval,false,true,Inverno,false,false,false,false
+POR009,2024-02-13,Carnaval,false,true,Inverno,false,false,false,false
+POR412,2024-03-29,Sexta-Feira Santa,false,true,Primavera,false,false,false,false
+POR404,2024-03-29,Sexta-Feira Santa,false,true,Primavera,false,false,false,false
+POR430,2024-03-29,Sexta-Feira Santa,false,true,Primavera,false,false,false,false
+POR013,2024-03-29,Sexta-Feira Santa,false,true,Primavera,false,false,false,false
+POR025,2024-03-29,Sexta-Feira Santa,false,true,Primavera,false,false,false,false
+POR409,2024-03-29,Sexta-Feira Santa,false,true,Primavera,false,false,false,false
+POR058,2024-03-29,Sexta-Feira Santa,false,true,Primavera,false,false,false,false
+POR031,2024-03-31,Páscoa,false,true,Primavera,false,true,false,false
+POR413,2024-03-31,Páscoa,false,true,Primavera,false,true,false,false
+POR436,2024-03-31,Páscoa,false,true,Primavera,false,true,false,false
+POR427,2024-03-31,Páscoa,false,true,Primavera,false,true,false,false
+POR063,2020-01-01,Dia de Ano Novo,true,true,Inverno,false,false,true,false
+POR430,2020-01-01,Dia de Ano Novo,true,true,Inverno,false,false,true,false
+POR411,2020-01-01,Dia de Ano Novo,true,true,Inverno,false,false,true,false
+POR026,2020-01-01,Dia de Ano Novo,true,true,Inverno,false,false,true,false
+POR026,2020-04-25,Dia da Liberdade,true,true,Primavera,false,false,false,false
+POR405,2020-05-01,1º MAIO - FERIADO ABERTO,true,true,Primavera,false,false,false,false
+U0141,2020-05-01,Dia do Trabalhador,true,true,Primavera,false,false,false,true
+POR438,2020-06-13,Feriado Municipal de Lisboa,true,true,Verão,false,false,false,false
+POR446,2020-06-24,Feriado Municipal de Vila Nova de Gaia ,true,true,Verão,false,false,false,false
+POR025,2020-12-25,Natal,true,true,Inverno,true,false,false,false
+POR454,2020-12-25,Natal,true,true,Inverno,true,false,false,false
+POR432,2021-01-01,Ano Novo,true,true,Inverno,false,false,true,false
+POR425,2021-01-01,Ano Novo,true,true,Inverno,false,false,true,false
+POR413,2021-01-01,Dia de Ano Novo,true,true,Inverno,false,false,true,false
+POR035,2021-01-01,Dia de Ano Novo,true,true,Inverno,false,false,true,false
+U0142,2021-01-01,Dia de Ano Novo,true,true,Inverno,false,false,true,false
+U0141,2021-06-10,Dia de Portugal,true,true,Verão,false,false,false,false
+POR039,2021-06-24,Feriado Municipal,true,true,Verão,false,false,false,false
+POR434,2021-12-25,Natal,true,false,Inverno,true,false,false,false
+POR057,2021-12-25,Natal,true,true,Inverno,true,false,false,false
+POR053,2021-12-25,Natal,true,true,Inverno,true,false,false,false
+POR407,2021-12-25,Natal,true,true,Inverno,true,false,false,false
+POR425,2021-12-25,Natal,true,true,Inverno,true,false,false,false
+POR434,2022-01-01,Ano Novo,true,true,Inverno,false,false,true,false
+POR411,2022-01-01,Dia de Ano Novo,true,true,Inverno,false,false,true,false
+POR454,2022-01-01,Dia de Ano Novo,true,true,Inverno,false,false,true,false
+POR039,2022-08-15,Assunção de Maria,true,true,Verão,false,false,false,false
+POR033,2022-12-25,Natal,true,false,Inverno,true,false,false,false
+POR446,2022-12-25,Natal,true,true,Inverno,true,false,false,false
+POR033,2023-01-01,Dia de Ano Novo,true,false,Inverno,false,false,true,false
+POR029,2023-01-01,Dia de Ano Novo,true,true,Inverno,false,false,true,false
+POR019,2023-01-01,Dia de Ano Novo,true,true,Inverno,false,false,true,false
+POR031,2023-04-25,Dia da Liberdade,true,true,Primavera,false,false,false,false
+POR035,2023-04-25,Dia da Liberdade,true,true,Primavera,false,false,false,false
+U0141,2023-04-25,Dia da Liberedade,true,true,Primavera,false,false,false,false
+POR435,2023-12-25,Natal,true,true,Inverno,true,false,false,false
+POR025,2023-12-25,Natal,true,true,Inverno,true,false,false,false
+POR414,2024-01-01,Dia de Ano Novo,true,true,Inverno,false,false,true,false
+POR019,2024-01-01,Dia de Ano Novo,true,true,Inverno,false,false,true,false
+POR030,2024-01-01,Dia de Ano Novo,true,true,Inverno,false,false,true,false
+U0141,2024-01-01,Dia de Ano Novo,true,true,Inverno,false,false,true,false
+POR031,2024-04-25,Dia da Liberdade,true,true,Primavera,false,false,false,false
+POR026,2024-04-25,Dia da Liberdade,true,true,Primavera,false,false,false,false
+POR039,2024-08-15,Assunção de Maria,true,true,Verão,false,false,false,false
+POR434,2024-09-15,Dia de Bocage (municipal),true,true,Outono,false,false,false,false
+POR029,2024-12-08,Imaculada Conceição,true,true,Inverno,false,false,false,false
+POR032,2024-12-25,Natal,true,true,Inverno,true,false,false,false
+POR036,2024-12-25,Natal,true,true,Inverno,true,false,false,false
+POR012,2024-12-25,Natal,true,false,Inverno,true,false,false,false
+POR417,2021-11-01,Todos os Santos,false,true,Outono,false,false,false,false
+POR019,2021-11-01,Todos os Santos,false,true,Outono,false,false,false,false
+POR021,2021-12-01,Restauração da Independência,false,true,Inverno,false,false,false,false
+POR065,2022-01-01,Dia de Ano Novo,false,false,Inverno,false,false,true,false
+POR019,2022-03-01,Carnaval,false,true,Primavera,false,false,false,false
+POR054,2022-03-01,Carnaval,false,true,Primavera,false,false,false,false
+POR432,2022-04-15,Sexta-feira Santa,false,true,Primavera,false,false,false,false
+POR017,2022-04-15,Sexta-feira Santa,false,true,Primavera,false,false,false,false
+POR035,2022-04-17,Páscoa,false,true,Primavera,false,true,false,false
+POR434,2022-04-17,Páscoa,false,true,Primavera,false,true,false,false
+POR425,2022-04-17,Páscoa,false,true,Primavera,false,true,false,false
+POR065,2022-04-17,Páscoa,false,true,Primavera,false,true,false,false
+POR009,2022-04-25,Dia da Liberdade,false,true,Primavera,false,false,false,false
+POR417,2022-04-25,Dia da Liberdade,false,true,Primavera,false,false,false,false
+POR021,2022-04-25,Dia da Liberdade,false,true,Primavera,false,false,false,false
+POR405,2022-05-01,1º MAIO - FERIADO ABERTO,false,true,Primavera,false,false,false,false
+POR030,2022-05-01,1º MAIO - FERIADO ABERTO,false,true,Primavera,false,false,false,false
+POR032,2022-06-10,Dia de Portugal,false,true,Verão,false,false,false,false
+POR434,2022-06-10,Dia de Portugal,false,true,Verão,false,false,false,false
+POR027,2022-06-16,Corpo de Deus,false,true,Verão,false,false,false,false
+POR432,2022-06-16,Corpo de Deus,false,true,Verão,false,false,false,false
+POR019,2022-08-15,Assunção de Maria,false,true,Verão,false,false,false,false
+POR425,2022-08-15,Assunção de Maria,false,true,Verão,false,false,false,false
+POR036,2022-08-15,Assunção de Maria,false,true,Verão,false,false,false,false
+POR013,2022-11-11,Feriado Municipal,false,true,Outono,false,false,false,false
+POR034,2022-12-01,Restauração da Independência,false,true,Inverno,false,false,false,false
+POR009,2022-12-01,Restauração da Independência,false,true,Inverno,false,false,false,false
+POR423,2022-12-08,Imaculada Conceição,false,true,Inverno,false,false,false,false
+POR025,2023-02-21,Carnaval,false,true,Inverno,false,false,false,false
+POR421,2023-02-21,Carnaval,false,true,Inverno,false,false,false,false
+POR009,2023-02-21,Carnaval,false,true,Inverno,false,false,false,false
+POR017,2023-02-21,Carnaval,false,true,Inverno,false,false,false,false
+POR405,2023-04-07,Sexta-Feira Santa,false,true,Primavera,false,false,false,false
+POR054,2023-04-07,Sexta-Feira Santa,false,true,Primavera,false,false,false,false
+POR058,2023-04-09,Páscoa,false,true,Primavera,false,true,false,false
+POR420,2023-04-09,Páscoa,false,true,Primavera,false,true,false,false
+POR021,2023-04-09,Páscoa,false,true,Primavera,false,true,false,false
+POR026,2023-04-09,Páscoa,false,true,Primavera,false,true,false,false
+POR065,2023-04-09,Páscoa,false,true,Primavera,false,true,false,false
+POR446,2023-04-09,Páscoa,false,true,Primavera,false,true,false,false
+POR402,2023-04-25,Dia da Liberdade,true,true,Primavera,false,false,false,false
+POR052,2023-04-25,Dia da Liberdade,true,true,Primavera,false,false,false,false
+POR019,2023-04-25,Dia da Liberdade,true,true,Primavera,false,false,false,false
+POR009,2023-04-25,Dia da Liberdade,true,true,Primavera,false,false,false,false
+POR032,2023-04-25,Dia da Liberdade,true,true,Primavera,false,false,false,false
+POR030,2023-04-25,Dia da Liberdade,true,true,Primavera,false,false,false,false
+POR065,2023-04-25,Dia da Liberdade,true,true,Primavera,false,false,false,false
+U0143,2023-04-25,Dia da Liberdade,true,true,Primavera,false,false,false,false
+POR058,2023-05-01,Dia do Trabalhador,true,true,Primavera,false,false,false,true
+POR422,2023-05-01,Dia do Trabalhador,true,true,Primavera,false,false,false,true
+POR432,2023-05-01,Dia do Trabalhador,true,true,Primavera,false,false,false,true
+POR009,2023-05-01,Dia do Trabalhador,true,true,Primavera,false,false,false,true
+POR057,2023-06-08,Corpo de Deus,true,true,Verão,false,false,false,false
+POR036,2023-06-08,Corpo de Deus,true,true,Verão,false,false,false,false
+POR017,2023-06-08,Corpo de Deus,true,true,Verão,false,false,false,false
+POR406,2023-06-10,Dia de Portugal,true,true,Verão,false,false,false,false
+POR422,2023-06-10,Dia de Portugal,true,true,Verão,false,false,false,false
+POR436,2023-06-10,Dia de Portugal,true,true,Verão,false,false,false,false
+POR427,2023-06-10,Dia de Portugal,true,true,Verão,false,false,false,false
+POR433,2023-06-10,Dia de Portugal,true,true,Verão,false,false,false,false
+POR430,2023-08-15,Assunção de Maria,true,true,Verão,false,false,false,false
+POR028,2023-08-15,Assunção de Maria,true,true,Verão,false,false,false,false
+POR424,2023-10-05,Implantação da República,true,true,Outono,false,false,false,false
+POR063,2023-10-05,Implantação da República,true,true,Outono,false,false,false,false
+POR409,2023-10-05,Implantação da República,true,true,Outono,false,false,false,false
+POR430,2023-10-05,Implantação da República,true,true,Outono,false,false,false,false
+POR411,2023-10-05,Implantação da República,true,true,Outono,false,false,false,false
+POR408,2023-10-05,Implantação da República,true,true,Outono,false,false,false,false
+POR410,2023-10-05,Implantação da República,true,true,Outono,false,false,false,false
+POR407,2023-10-05,Implantação da República,true,true,Outono,false,false,false,false
+POR029,2023-10-05,Implantação da República,true,true,Outono,false,false,false,false
+POR454,2023-10-05,Implantação da República,true,true,Outono,false,false,false,false
+POR406,2023-11-01,Dia de Todos os Santos,true,true,Outono,false,false,false,false
+POR424,2023-11-01,Dia de Todos os Santos,true,true,Outono,false,false,false,false
+POR053,2023-11-01,Dia de Todos os Santos,true,true,Outono,false,false,false,false
+POR414,2023-11-01,Dia de Todos os Santos,true,true,Outono,false,false,false,false
+POR054,2023-11-01,Dia de Todos os Santos,true,true,Outono,false,false,false,false
+POR402,2023-12-01,Restauração da Independência,true,true,Inverno,false,false,false,false
+POR435,2023-12-01,Restauração da Independência,true,true,Inverno,false,false,false,false
+POR445,2023-12-01,Restauração da Independência,true,true,Inverno,false,false,false,false
+POR427,2023-12-08,Imaculada Conceição,true,true,Inverno,false,false,false,false
+POR435,2023-12-08,Imaculada Conceição,true,true,Inverno,false,false,false,false
+POR413,2023-12-08,Imaculada Conceição,true,true,Inverno,false,false,false,false
+POR412,2023-12-08,Imaculada Conceição,true,true,Inverno,false,false,false,false
+POR434,2023-12-08,Imaculada Conceição,true,true,Inverno,false,false,false,false
+POR034,2023-12-08,Imaculada Conceição,true,true,Inverno,false,false,false,false
+POR407,2023-12-08,Imaculada Conceição,true,true,Inverno,false,false,false,false
+U0143,2023-12-08,Imaculada Conceição,true,true,Inverno,false,false,false,false
+POR429,2023-12-25,Natal,true,false,Inverno,true,false,false,false
+POR410,2023-12-25,Natal,true,false,Inverno,true,false,false,false
+POR029,2024-02-13,Carnaval,false,true,Inverno,false,false,false,false
+POR409,2024-02-13,Carnaval,false,true,Inverno,false,false,false,false
+POR436,2024-02-13,Carnaval,false,true,Inverno,false,false,false,false
+POR021,2024-02-13,Carnaval,false,true,Inverno,false,false,false,false
+POR054,2024-03-29,Sexta-Feira Santa,false,true,Primavera,false,false,false,false
+POR036,2024-03-29,Sexta-Feira Santa,false,true,Primavera,false,false,false,false
+POR017,2024-03-29,Sexta-Feira Santa,false,true,Primavera,false,false,false,false
+POR430,2024-03-31,Páscoa,false,true,Primavera,false,true,false,false
+POR424,2024-03-31,Páscoa,false,true,Primavera,false,true,false,false
+POR414,2024-03-31,Páscoa,false,true,Primavera,false,true,false,false
+POR407,2024-03-31,Páscoa,false,true,Primavera,false,true,false,false
+POR409,2024-03-31,Páscoa,false,true,Primavera,false,true,false,false
+POR053,2020-01-01,Dia de Ano Novo,true,true,Inverno,false,false,true,false
+POR023,2020-01-01,Dia de Ano Novo,true,false,Inverno,false,false,true,false
+POR414,2020-01-01,Dia de Ano Novo,true,true,Inverno,false,false,true,false
+POR404,2020-01-01,Dia de Ano Novo,true,true,Inverno,false,false,true,false
+POR427,2020-01-01,Dia de Ano Novo,true,true,Inverno,false,false,true,false
+U0141,2020-01-01,Dia de Ano Novo,true,true,Inverno,false,false,true,false
+POR446,2020-01-01,Ano Novo,true,true,Inverno,false,false,true,false
+POR010,2020-09-21,Feriado Cidade Viseu,true,true,Outono,false,false,false,false
+POR032,2020-12-25,Natal,true,true,Inverno,true,false,false,false
+POR008,2020-12-25,Natal,true,true,Inverno,true,false,false,false
+POR424,2021-01-01,Dia de Ano Novo,true,true,Inverno,false,false,true,false
+POR057,2021-01-01,Dia de Ano Novo,true,true,Inverno,false,false,true,false
+POR053,2021-01-01,Dia de Ano Novo,true,true,Inverno,false,false,true,false
+POR405,2021-05-01,1º MAIO - FERIADO ABERTO,true,true,Primavera,false,false,false,false
+POR435,2021-06-13,Feriado Municipal de Lisboa,true,true,Verão,false,false,false,false
+POR039,2021-08-15,Assunção de Maria,true,true,Verão,false,false,false,false
+POR035,2021-12-01,Restauração da Independência,true,true,Inverno,false,false,false,false
+POR409,2022-01-01,Dia de Ano Novo,true,true,Inverno,false,false,true,false
+POR427,2022-01-01,Dia de Ano Novo,true,true,Inverno,false,false,true,false
+POR026,2022-01-01,Dia de Ano Novo,true,true,Inverno,false,false,true,false
+POR407,2022-01-01,Dia de Ano Novo,true,true,Inverno,false,false,true,false
+U0142,2022-01-01,Dia de Ano Novo,true,true,Inverno,false,false,true,false
+POR021,2022-12-25,Dia de natal,true,false,Inverno,true,false,false,false
+POR454,2022-12-25,Natal,true,true,Inverno,true,false,false,false
+POR416,2023-01-01,Dia de Ano Novo,true,true,Inverno,false,false,true,false
+POR053,2023-01-01,Dia de Ano Novo,true,true,Inverno,false,false,true,false
+POR023,2023-01-01,Dia de Ano Novo,true,false,Inverno,false,false,true,false
+POR032,2023-01-01,Dia de Ano Novo,true,true,Inverno,false,false,true,false
+POR013,2023-05-01,Dia do Trabalhador,true,true,Primavera,false,false,false,true
+POR035,2023-06-08,Corpo de Deus,true,true,Verão,false,false,false,false
+POR063,2023-09-08,Feriado Municipal de Lagoa,true,true,Outono,false,false,false,false
+POR052,2023-12-25,Natal,true,true,Inverno,true,false,false,false
+POR063,2023-12-25,Natal,true,false,Inverno,true,false,false,false
+POR436,2023-12-25,Natal,true,true,Inverno,true,false,false,false
+POR032,2023-12-25,Natal,true,true,Inverno,true,false,false,false
+POR446,2024-01-01,Ano Novo,true,true,Inverno,false,false,true,false
+U0141,2024-05-01,Dia do Trabalhador,true,true,Primavera,false,false,false,true
+POR031,2024-08-15,Assunção de Maria,true,true,Verão,false,false,false,false
+POR034,2024-10-05,Implantação da República,true,true,Outono,false,false,false,false
+POR416,2024-11-19,Feriado Municipal de Odivelas,true,true,Outono,false,false,false,false
+POR031,2024-12-01,Restauração da Independência,true,true,Inverno,false,false,false,false
+POR028,2024-12-08,Dia da Imaculada Conceição,true,true,Inverno,false,false,false,false
+POR434,2024-12-25,Natal,true,false,Inverno,true,false,false,false
+POR033,2024-12-25,Natal,true,false,Inverno,true,false,false,false
+POR063,2024-12-25,Natal,true,false,Inverno,true,false,false,false
+POR013,2024-12-25,Natal,true,true,Inverno,true,false,false,false
+POR029,2024-12-25,Natal,true,true,Inverno,true,false,false,false
+POR028,2024-12-25,Natal,true,true,Inverno,true,false,false,false
+POR017,2024-12-25,Natal,true,true,Inverno,true,false,false,false
+POR036,2022-01-01,Dia de Ano Novo,false,false,Inverno,false,false,true,false
+POR016,2022-04-15,Sexta-feira Santa,false,true,Primavera,false,false,false,false
+POR027,2022-04-25,Dia da Liberdade,false,true,Primavera,false,false,false,false
+POR017,2022-04-25,Dia da Liberdade,false,true,Primavera,false,false,false,false
+POR417,2022-05-01,1º MAIO - FERIADO ABERTO,false,true,Primavera,false,false,false,false
+POR429,2022-06-13,Feriado Municipal de Lisboa,true,true,Verão,false,false,false,false
+POR422,2022-06-13,Feriado Municipal de Lisboa,true,true,Verão,false,false,false,false
+POR432,2022-06-24,Municipal do Porto (24 Jun),false,true,Verão,false,false,false,false
+POR010,2022-06-24,Municipal do Porto (24 Jun),false,true,Verão,false,false,false,false
+POR432,2022-08-15,Assunção de Maria,false,true,Verão,false,false,false,false
+POR027,2022-10-05,Implantação da República,false,true,Outono,false,false,false,false
+POR027,2022-12-01,Restauração da Independência,false,true,Inverno,false,false,false,false
+POR434,2022-12-01,Restauração da Independência,false,true,Inverno,false,false,false,false
+POR036,2022-12-01,Restauração da Independência,false,true,Inverno,false,false,false,false
+POR016,2022-12-01,Restauração da Independência,false,true,Inverno,false,false,false,false
+POR036,2022-12-08,Imaculada Conceição,false,true,Inverno,false,false,false,false
+POR028,2022-12-08,Imaculada Conceição,true,true,Inverno,false,false,false,false
+POR065,2022-12-08,Imaculada Conceição,false,true,Inverno,false,false,false,false
+POR017,2022-12-25,Dia de natal,false,false,Inverno,true,false,false,false
+POR405,2023-01-01,Dia de Ano Novo,true,false,Inverno,false,false,true,false
+POR416,2023-02-21,Carnaval,false,true,Inverno,false,false,false,false
+POR412,2023-02-21,Carnaval,false,true,Inverno,false,false,false,false
+POR032,2023-02-21,Carnaval,false,true,Inverno,false,false,false,false
+POR025,2023-04-07,Sexta-Feira Santa,false,true,Primavera,false,false,false,false
+POR436,2023-04-07,Sexta-Feira Santa,false,true,Primavera,false,false,false,false
+POR425,2023-04-07,Sexta-Feira Santa,false,true,Primavera,false,false,false,false
+POR454,2023-04-07,Sexta-Feira Santa,false,true,Primavera,false,false,false,false
+POR429,2023-04-09,Páscoa,false,true,Primavera,false,true,false,false
+POR423,2023-04-09,Páscoa,false,true,Primavera,false,true,false,false
+POR016,2023-04-09,Páscoa,false,true,Primavera,false,true,false,false
+POR403,2023-04-09,Páscoa,false,true,Primavera,false,true,false,false
+POR025,2023-04-25,Dia da Liberdade,true,true,Primavera,false,false,false,false
+POR058,2023-04-25,Dia da Liberdade,true,true,Primavera,false,false,false,false
+POR419,2023-04-25,Dia da Liberdade,true,true,Primavera,false,false,false,false
+POR417,2023-04-25,Dia da Liberdade,true,true,Primavera,false,false,false,false
+POR012,2023-04-25,Dia da Liberdade,true,true,Primavera,false,false,false,false
+POR454,2023-04-25,Dia da Liberdade,true,true,Primavera,false,false,false,false
+POR434,2023-05-01,Dia do Trabalhador,true,true,Primavera,false,false,false,true
+POR405,2023-05-01,Dia do Trabalhador,true,true,Primavera,false,false,false,true
+POR016,2023-05-30,Feriado Municipal de Matosinhos,false,true,Primavera,false,false,false,false
+POR038,2023-06-08,Corpo de Deus,true,true,Verão,false,false,false,false
+POR009,2023-06-08,Corpo de Deus,true,true,Verão,false,false,false,false
+POR423,2023-06-10,Dia de Portugal,true,true,Verão,false,false,false,false
+POR026,2023-06-10,Dia de Portugal,true,true,Verão,false,false,false,false
+POR410,2023-06-10,Dia de Portugal,true,true,Verão,false,false,false,false
+POR402,2023-08-15,Assunção de Maria,true,true,Verão,false,false,false,false
+POR058,2023-08-15,Assunção de Maria,true,true,Verão,false,false,false,false
+POR063,2023-08-15,Assunção de Maria,true,true,Verão,false,false,false,false
+POR421,2023-08-15,Assunção de Maria,true,true,Verão,false,false,false,false
+POR010,2023-08-15,Assunção de Maria,true,true,Verão,false,false,false,false
+POR026,2023-08-15,Assunção de Maria,true,true,Verão,false,false,false,false
+POR038,2023-10-05,Implantação da República,true,true,Outono,false,false,false,false
+POR417,2023-10-05,Implantação da República,true,true,Outono,false,false,false,false
+POR032,2023-10-05,Implantação da República,true,true,Outono,false,false,false,false
+POR029,2023-11-01,Dia de Todos os Santos,true,true,Outono,false,false,false,false
+POR405,2023-11-01,Dia de Todos os Santos,true,true,Outono,false,false,false,false
+POR021,2023-11-01,Dia de Todos os Santos,true,true,Outono,false,false,false,false
+POR437,2023-11-01,Dia de Todos os Santos,true,true,Outono,false,false,false,false
+U0142,2023-11-01,Dia de Todos os Santos,true,true,Outono,false,false,false,false
+POR429,2023-12-01,Restauração da Independência,true,true,Inverno,false,false,false,false
+POR062,2023-12-01,Restauração da Independência,true,true,Inverno,false,false,false,false
+POR008,2023-12-01,Restauração da Independência,true,true,Inverno,false,false,false,false
+POR057,2023-12-08,Imaculada Conceição,true,true,Inverno,false,false,false,false
+POR058,2023-12-08,Imaculada Conceição,true,true,Inverno,false,false,false,false
+POR419,2023-12-08,Imaculada Conceição,true,true,Inverno,false,false,false,false
+POR019,2023-12-08,Imaculada Conceição,true,true,Inverno,false,false,false,false
+POR028,2023-12-08,Imaculada Conceição,true,true,Inverno,false,false,false,false
+POR009,2023-12-08,Imaculada Conceição,true,true,Inverno,false,false,false,false
+POR058,2023-12-25,Natal,true,false,Inverno,true,false,false,false
+POR413,2023-12-25,Natal,true,false,Inverno,true,false,false,false
+POR420,2023-12-25,Natal,true,false,Inverno,true,false,false,false
+POR411,2024-02-13,Carnaval,false,true,Inverno,false,false,false,false
+POR406,2024-02-13,Carnaval,false,true,Inverno,false,false,false,false
+POR407,2024-02-13,Carnaval,false,true,Inverno,false,false,false,false
+POR438,2024-02-13,Carnaval,false,true,Inverno,false,false,false,false
+POR427,2024-02-13,Carnaval,false,true,Inverno,false,false,false,false
+POR019,2024-02-13,Carnaval,false,true,Inverno,false,false,false,false
+POR039,2024-03-29,Sexta-Feira Santa,false,true,Primavera,false,false,false,false
+POR446,2024-03-29,Sexta-Feira Santa,false,true,Primavera,false,false,false,false
+POR052,2024-03-29,Sexta-Feira Santa,false,true,Primavera,false,false,false,false
+POR033,2024-03-29,Sexta-Feira Santa,false,true,Primavera,false,false,false,false
+POR035,2024-03-29,Sexta-Feira Santa,false,true,Primavera,false,false,false,false
+POR420,2024-03-29,Sexta-Feira Santa,false,true,Primavera,false,false,false,false
+POR039,2024-03-31,Páscoa,false,true,Primavera,false,true,false,false
+POR053,2024-03-31,Páscoa,false,true,Primavera,false,true,false,false
+POR424,2020-01-01,Dia de Ano Novo,true,true,Inverno,false,false,true,false
+POR416,2020-01-01,Dia de Ano Novo,true,true,Inverno,false,false,true,false
+POR408,2020-01-01,Dia de Ano Novo,true,true,Inverno,false,false,true,false
+POR031,2020-04-25,Dia da Liberdade,true,true,Primavera,false,false,false,false
+POR039,2020-04-25,Dia da Liberdade,true,true,Primavera,false,false,false,false
+U0141,2020-06-08,Corpo de Deus,true,true,Verão,false,false,false,false
+POR433,2020-06-13,Feriado Municipal de Lisboa,true,true,Verão,false,false,false,false
+POR027,2020-12-25,Natal,true,true,Inverno,true,false,false,false
+POR019,2020-12-25,Natal,true,true,Inverno,true,false,false,false
+POR012,2020-12-25,Natal,true,false,Inverno,true,false,false,false
+POR038,2021-01-01,Dia de Ano Novo,true,true,Inverno,false,false,true,false
+POR025,2021-01-01,passagem de ano,true,true,Inverno,false,false,false,false
+POR436,2021-01-01,Dia de Ano Novo,true,true,Inverno,false,false,true,false
+POR429,2021-01-01,Dia de Ano Novo,true,true,Inverno,false,false,true,false
+POR436,2021-06-13,Feriado Municipal de Lisboa,true,true,Verão,false,false,false,false
+POR028,2021-12-08,Dia da Imaculada Conceição,true,true,Inverno,false,false,false,false
+POR023,2021-12-25,Natal,true,true,Inverno,true,false,false,false
+POR065,2021-12-25,Natal,true,true,Inverno,true,false,false,false
+POR027,2022-01-01,Ano Novo,true,true,Inverno,false,false,true,false
+POR424,2022-01-01,Dia de Ano Novo,true,true,Inverno,false,false,true,false
+POR052,2022-01-01,Dia de Ano Novo,true,true,Inverno,false,false,true,false
+POR058,2022-01-01,Dia de Ano Novo,true,true,Inverno,false,false,true,false
+U0141,2022-01-01,Dia de Ano Novo,true,true,Inverno,false,false,true,false
+U0143,2022-04-07,Feriado aberto,true,true,Primavera,false,false,false,false
+U0141,2022-06-08,Corpo de Deus,true,true,Verão,false,false,false,false
+POR436,2022-06-13,Feriado Municipal de Lisboa,true,true,Verão,false,false,false,false
+POR433,2022-06-13,Feriado Municipal de Lisboa,true,true,Verão,false,false,false,false
+POR434,2022-12-25,Natal,true,false,Inverno,true,false,false,false
+POR402,2022-12-25,Natal,true,true,Inverno,true,false,false,false
+POR018,2022-12-25,Natal,true,true,Inverno,true,false,false,false
+POR023,2022-12-25,Natal,true,true,Inverno,true,false,false,false
+POR027,2023-01-01,Ano Novo,true,true,Inverno,false,false,true,false
+POR052,2023-01-01,Dia de Ano Novo,true,true,Inverno,false,false,true,false
+POR411,2023-01-01,Dia de Ano Novo,true,true,Inverno,false,false,true,false
+POR408,2023-01-01,Dia de Ano Novo,true,true,Inverno,false,false,true,false
+POR039,2023-08-15,Assunção de Maria,true,true,Verão,false,false,false,false
+POR031,2023-10-05,Implantação da República,true,true,Outono,false,false,false,false
+POR027,2023-12-25,Natal,true,true,Inverno,true,false,false,false
+POR021,2024-01-01,Ano Novo,true,false,Inverno,false,false,true,false
+POR435,2024-01-01,Dia de Ano Novo,true,true,Inverno,false,false,true,false
+POR421,2024-01-01,Dia de Ano Novo,true,true,Inverno,false,false,true,false
+POR436,2024-01-01,Dia de Ano Novo,true,true,Inverno,false,false,true,false
+POR427,2024-01-01,Dia de Ano Novo,true,true,Inverno,false,false,true,false
+POR010,2024-11-01,Feriado Dia de todos os Santos,true,true,Outono,false,false,false,false
+POR435,2024-12-25,Natal,true,true,Inverno,true,false,false,false
+POR053,2024-12-25,Natal,true,true,Inverno,true,false,false,false
+POR008,2024-12-25,Natal,true,true,Inverno,true,false,false,false
+POR019,2021-06-28,Municipal Barreiro (28 Jun),false,true,Verão,false,false,false,false
+POR019,2021-12-25,Dia de natal,false,false,Inverno,true,false,false,false
+POR012,2022-04-15,Sexta-feira Santa,false,true,Primavera,false,false,false,false
+POR027,2022-04-15,Sexta-feira Santa,false,true,Primavera,false,false,false,false
+POR027,2022-04-17,Páscoa,false,true,Primavera,false,true,false,false
+POR035,2022-04-25,Dia da Liberdade,false,true,Primavera,false,false,false,false
+POR028,2022-04-25,Dia da Liberdade,false,true,Primavera,false,false,false,false
+POR030,2022-04-25,Dia da Liberdade,false,true,Primavera,false,false,false,false
+POR054,2022-04-25,Dia da Liberdade,false,true,Primavera,false,false,false,false
+POR027,2022-06-10,Dia de Portugal,false,true,Verão,false,false,false,false
+POR016,2022-06-10,Dia de Portugal,false,true,Verão,false,false,false,false
+POR402,2022-06-13,Feriado Municipal de Lisboa,true,true,Verão,false,false,false,false
+POR424,2022-06-13,Feriado Municipal de Lisboa,true,true,Verão,false,false,false,false
+POR454,2022-06-13,Feriado Municipal de Lisboa,true,true,Verão,false,false,false,false
+POR009,2022-06-16,Corpo de Deus,false,true,Verão,false,false,false,false
+POR035,2022-06-16,Corpo de Deus,false,true,Verão,false,false,false,false
+POR417,2022-06-24,Municipal do Porto (24 Jun),false,true,Verão,false,false,false,false
+POR021,2022-06-29,Municipal (29 Jun),false,true,Verão,false,false,false,false
+POR423,2022-08-15,Assunção de Maria,false,true,Verão,false,false,false,false
+POR065,2022-08-15,Assunção de Maria,false,true,Verão,false,false,false,false
+POR012,2022-10-05,Implantação da República,false,true,Outono,false,false,false,false
+POR030,2022-10-05,Implantação da República,false,true,Outono,false,false,false,false
+POR036,2022-11-01,Todos os Santos,false,true,Outono,false,false,false,false
+POR065,2022-12-01,Restauração da Independência,false,true,Inverno,false,false,false,false
+POR019,2022-12-08,Imaculada Conceição,false,true,Inverno,false,false,false,false
+POR054,2022-12-08,Imaculada Conceição,false,true,Inverno,false,false,false,false
+POR435,2023-02-21,Carnaval,false,true,Inverno,false,false,false,false
+POR029,2023-02-21,Carnaval,false,true,Inverno,false,false,false,false
+POR413,2023-02-21,Carnaval,false,true,Inverno,false,false,false,false
+U0142,2023-02-21,Carnaval,false,true,Inverno,false,false,false,false
+U0141,2023-02-21,Carnaval,false,true,Inverno,false,false,false,false
+POR424,2023-04-07,Sexta-Feira Santa,false,true,Primavera,false,false,false,false
+POR033,2023-04-07,Sexta-Feira Santa,false,true,Primavera,false,false,false,false
+POR427,2023-04-07,Sexta-Feira Santa,false,true,Primavera,false,false,false,false
+POR057,2023-04-09,Páscoa,false,true,Primavera,false,true,false,false
+POR013,2023-04-09,Páscoa,false,true,Primavera,false,true,false,false
+POR409,2023-04-09,Páscoa,false,true,Primavera,false,true,false,false
+POR430,2023-04-09,Páscoa,false,true,Primavera,false,true,false,false
+POR436,2023-04-09,Páscoa,false,true,Primavera,false,true,false,false
+POR414,2023-04-09,Páscoa,false,true,Primavera,false,true,false,false
+POR019,2023-04-09,Páscoa,false,true,Primavera,false,true,false,false
+POR410,2023-04-09,Páscoa,false,true,Primavera,false,true,false,false
+POR406,2023-04-25,Dia da Liberdade,true,true,Primavera,false,false,false,false
+POR425,2023-04-25,Dia da Liberdade,true,true,Primavera,false,false,false,false
+POR029,2023-05-01,Dia do Trabalhador,true,true,Primavera,false,false,false,true
+POR054,2023-05-01,Dia do Trabalhador,true,true,Primavera,false,false,false,true
+POR036,2023-05-01,Dia do Trabalhador,true,true,Primavera,false,false,false,true
+POR025,2023-06-08,Corpo de Deus,true,true,Verão,false,false,false,false
+POR432,2023-06-08,Corpo de Deus,true,true,Verão,false,false,false,false
+POR026,2023-06-08,Corpo de Deus,true,true,Verão,false,false,false,false
+POR058,2023-06-10,Dia de Portugal,true,true,Verão,false,false,false,false
+POR038,2023-06-10,Dia de Portugal,true,true,Verão,false,false,false,false
+POR454,2023-06-10,Dia de Portugal,true,true,Verão,false,false,false,false
+POR012,2023-06-24,Feriado Municipal de Almada,true,true,Verão,false,false,false,false
+POR432,2023-06-24,Feriado Municipal de Almada,true,true,Verão,false,false,false,false
+POR021,2023-06-29,Feriado Municipal de Évora,true,true,Verão,false,false,false,false
+POR026,2023-07-10,Feriado Municipal da Maia,false,true,Verão,false,false,false,false
+POR029,2023-08-15,Assunção de Maria,true,true,Verão,false,false,false,false
+POR411,2023-08-15,Assunção de Maria,true,true,Verão,false,false,false,false
+POR019,2023-08-15,Assunção de Maria,true,true,Verão,false,false,false,false
+POR417,2023-08-15,Assunção de Maria,true,true,Verão,false,false,false,false
+POR445,2023-08-15,Assunção de Maria,true,true,Verão,false,false,false,false
+POR018,2023-10-05,Implantação da República,true,true,Outono,false,false,false,false
+POR432,2023-10-05,Implantação da República,true,true,Outono,false,false,false,false
+POR054,2023-10-05,Implantação da República,true,true,Outono,false,false,false,false
+POR438,2023-10-05,Implantação da República,true,true,Outono,false,false,false,false
+POR016,2023-11-01,Dia de Todos os Santos,true,true,Outono,false,false,false,false
+POR407,2023-11-01,Dia de Todos os Santos,true,true,Outono,false,false,false,false
+POR424,2023-12-01,Restauração da Independência,true,true,Inverno,false,false,false,false
+POR025,2023-12-01,Restauração da Independência,true,true,Inverno,false,false,false,false
+POR018,2023-12-01,Restauração da Independência,true,true,Inverno,false,false,false,false
+POR436,2023-12-01,Restauração da Independência,true,true,Inverno,false,false,false,false
+POR438,2023-12-01,Restauração da Independência,true,true,Inverno,false,false,false,false
+POR021,2023-12-01,Restauração da Independência,true,true,Inverno,false,false,false,false
+POR028,2023-12-01,Restauração da Independência,true,true,Inverno,false,false,false,false
+POR033,2023-12-08,Imaculada Conceição,true,true,Inverno,false,false,false,false
+POR438,2023-12-08,Imaculada Conceição,true,true,Inverno,false,false,false,false
+POR419,2023-12-25,Natal,true,false,Inverno,true,false,false,false
+POR437,2023-12-25,Natal,true,false,Inverno,true,false,false,false
+POR417,2023-12-25,Natal,true,false,Inverno,true,false,false,false
+POR420,2024-02-13,Carnaval,false,true,Inverno,false,false,false,false
+POR410,2024-02-13,Carnaval,false,true,Inverno,false,false,false,false
+U0141,2024-02-13,Carnaval,false,true,Inverno,false,false,false,false
+POR027,2024-03-29,Sexta-Feira Santa,false,true,Primavera,false,false,false,false
+POR425,2024-03-29,Sexta-Feira Santa,false,true,Primavera,false,false,false,false
+POR026,2024-03-29,Sexta-Feira Santa,false,true,Primavera,false,false,false,false
+POR413,2024-03-29,Sexta-Feira Santa,false,true,Primavera,false,false,false,false
+POR403,2024-03-29,Sexta-Feira Santa,false,true,Primavera,false,false,false,false
+POR435,2024-03-29,Sexta-Feira Santa,false,true,Primavera,false,false,false,false
+POR417,2024-03-31,Páscoa,false,true,Primavera,false,true,false,false
+POR052,2024-03-31,Páscoa,false,true,Primavera,false,true,false,false
+POR026,2024-03-31,Páscoa,false,true,Primavera,false,true,false,false
+POR065,2024-03-31,Páscoa,false,true,Primavera,false,true,false,false
+POR025,2024-03-31,Páscoa,false,true,Primavera,false,true,false,false
+POR021,2020-01-01,Ano Novo,true,false,Inverno,false,false,true,false
+U0143,2020-01-01,Dia de Ano Novo,true,true,Inverno,false,false,true,false
+U0141,2020-04-25,Dia da Liberedade,true,true,Primavera,false,false,false,false
+POR437,2020-06-13,Feriado Municipal de Lisboa,true,true,Verão,false,false,false,false
+POR009,2021-01-01,Dia de Ano Novo,true,true,Inverno,false,false,true,false
+POR035,2021-04-25,Dia da Liberdade,true,true,Primavera,false,false,false,false
+U0141,2021-04-25,Dia da Liberedade,true,true,Primavera,false,false,false,false
+POR018,2021-06-07,Feriado Municipal de Oeiras,true,true,Verão,false,false,false,false
+POR420,2021-07-26,Feriado Municipal de Loures,true,true,Verão,false,false,false,false
+U0143,2021-08-13,Feriado municipal,true,true,Verão,false,false,false,false
+POR039,2021-12-01,Restauração da Independência,true,true,Inverno,false,false,false,false
+POR038,2021-12-25,Natal,true,true,Inverno,true,false,false,false
+POR013,2021-12-25,Natal,true,true,Inverno,true,false,false,false
+POR025,2021-12-25,Natal,true,true,Inverno,true,false,false,false
+POR412,2022-01-01,Ano Novo,true,true,Inverno,false,false,true,false
+POR023,2022-01-01,Dia de Ano Novo,true,false,Inverno,false,false,true,false
+POR436,2022-01-01,Dia de Ano Novo,true,true,Inverno,false,false,true,false
+POR445,2022-01-01,Dia de Ano Novo,true,true,Inverno,false,false,true,false
+POR446,2022-01-01,Ano Novo,true,true,Inverno,false,false,true,false
+U0141,2022-04-25,Dia da Liberedade,true,true,Primavera,false,false,false,false
+POR063,2022-09-08,Feriado Municipal de Lagoa,true,true,Outono,false,false,false,false
+POR010,2022-09-21,Feriado Cidade Viseu,true,true,Outono,false,false,false,false
+POR039,2022-12-01,Restauração da Independência,true,true,Inverno,false,false,false,false
+POR009,2022-12-25,Natal,true,false,Inverno,true,false,false,false
+POR406,2023-01-01,Dia de Ano Novo,true,true,Inverno,false,false,true,false
+POR038,2023-01-01,Dia de Ano Novo,true,true,Inverno,false,false,true,false
+POR429,2023-01-01,Dia de Ano Novo,true,true,Inverno,false,false,true,false
+POR017,2023-01-01,Dia de Ano Novo,true,true,Inverno,false,false,true,false
+POR445,2023-01-01,Dia de Ano Novo,true,true,Inverno,false,false,true,false
+POR437,2023-06-13,Feriado Municipal de Lisboa,true,true,Verão,false,false,false,false
+POR013,2023-12-25,Natal,true,true,Inverno,true,false,false,false
+POR029,2023-12-25,Natal,true,true,Inverno,true,false,false,false
+POR016,2023-12-25,Natal,true,true,Inverno,true,false,false,false
+POR422,2024-01-01,Dia de Ano Novo,true,true,Inverno,false,false,true,false
+POR417,2024-01-01,Dia de Ano Novo,true,true,Inverno,false,false,true,false
+POR012,2024-01-01,Dia de Ano Novo,true,false,Inverno,false,false,true,false
+U0141,2024-06-08,Corpo de Deus,true,true,Verão,false,false,false,false

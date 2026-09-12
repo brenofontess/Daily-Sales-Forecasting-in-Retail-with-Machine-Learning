@@ -1,0 +1,71 @@
+FK_LOJA,LOJA,FK_CIDADE,CIDADE,FK_REGIAO,REGIAO,PRODUTIVIDADE_HORA,N_COLABORADORES,SKUS,ABERTURA,FECHO,CAIXAS_TRADICIONAIS,SELF_CHECKOUTS
+POR023,Portimão,190,Portimão,15,Algarve,227,38,15354,06:00:00,21:00:00,11,13
+POR422,S - Benificiencia,235,Lisboa,14,Lisboa Central,133,14,2546,09:00:00,21:00:00,15,0
+POR435,S - Jose Ricardo,235,Lisboa,14,Lisboa Central,123,12,3393,10:00:00,23:00:00,16,0
+POR008,Gaia,99,Vila Nova de Gaia,12,Porto,210,56,37764,09:00:00,23:00:00,14,5
+POR445,S - Conde Redondo,235,Lisboa,14,Lisboa Central,449,14,3232,09:00:00,20:00:00,20,0
+POR417,S - Nuno Alvares Pereira,164,Almada,3,Margem Sul,225,16,3059,08:00:00,20:00:00,17,0
+POR446,S - Bento Jesus,1,Porto,12,Porto,133,14,3475,07:00:00,20:00:00,15,0
+POR406,S - Graça,235,Lisboa,14,Lisboa Central,157,12,2990,09:00:00,23:00:00,14,0
+POR437,S - Pedro Nunes,235,Lisboa,14,Lisboa Central,85,12,2951,08:00:00,23:00:00,13,0
+POR025,Alfragide,228,Alfragide,14,Lisboa Central,269,85,35052,08:00:00,21:00:00,26,8
+POR034,Figueira da Foz,118,Figueira da Foz,13,Beira Litoral,349,34,15682,08:00:00,23:00:00,8,2
+POR063,Lagoa,226,Lagoa,15,Algarve,242,20,9259,09:00:00,21:00:00,8,4
+U0142,S - Cacilhas,235,Lisboa,14,Lisboa Central,0,13,3172,09:00:00,21:00:00,15,0
+POR416,S - Odivelas,236,Odivelas,14,Lisboa Central,150,16,3364,08:00:00,20:00:00,18,0
+POR010,Viseu,237,Viseu,11,Beira Interior,195,30,8879,08:00:00,23:00:00,13,3
+POR062,Eiras,211,Eiras,13,Beira Litoral,172,19,9014,08:00:00,22:30:00,7,3
+POR031,Famalicão,98,Vila Nova de Famalicão,1,Região Norte,229,37,15101,09:00:00,21:00:00,13,3
+U0143,S - Ajuda,235,Lisboa,14,Lisboa Central,0,16,3235,09:00:00,23:00:00,17,0
+POR438,S - Rua Visconde Santarém,235,Lisboa,14,Lisboa Central,94,12,2523,09:00:00,21:00:00,15,0
+POR009,Coimbra,233,Coimbra,13,Beira Litoral,280,30,9774,08:00:00,23:00:00,6,4
+POR019,Coina,168,Coina,3,Margem Sul,424,44,19311,07:30:00,23:00:00,12,8
+POR054,Guarda,122,Guarda,11,Beira Interior,186,11,3215,08:00:00,22:30:00,5,1
+POR026,Maia,75,Maia,12,Porto,229,58,40519,08:00:00,23:00:00,14,3
+POR419,S - Algés ,242,Algés,18,Lisboa Litoral,111,13,2849,08:00:00,20:00:00,15,0
+POR420,S - Bobadela,235,Lisboa,14,Lisboa Central,100,12,2566,08:00:00,21:00:00,14,0
+POR404,S - Duque Avila,235,Lisboa,14,Lisboa Central,145,13,2660,08:00:00,23:00:00,16,0
+POR427,S - Estrada de Benfica,235,Lisboa,14,Lisboa Central,127,12,3312,10:00:00,20:00:00,14,0
+POR430,S - Amadora,167,Amadora,14,Lisboa Central,121,17,2973,09:00:00,21:00:00,20,0
+POR405,S - Costa Caparica (Pescadores),173,Costa da Caparica,3,Margem Sul,212,15,3432,08:00:00,23:00:00,16,0
+U0141,S - Vila Franca de Xira,244,Vila Franca de Xira,17,Lisboa Norte,0,11,2912,10:00:00,20:00:00,17,0
+POR036,Vila Real,100,Vila Real,1,Região Norte,234,19,8465,07:00:00,20:00:00,7,3
+POR012,Almada Fórum,164,Almada,3,Margem Sul,400,100,46951,08:30:00,23:00:00,26,6
+POR016,Matosinhos,77,Matosinhos,12,Porto,179,58,40050,09:00:00,23:00:00,18,3
+POR403,S - Pascoal de Melo,235,Lisboa,14,Lisboa Central,194,15,2675,08:00:00,23:00:00,18,0
+POR425,S - R.Luis Queiroz,164,Almada,3,Margem Sul,132,11,2533,09:00:00,21:00:00,14,0
+POR039,Vila do Conde,97,Vila do Conde,1,Região Norte,229,40,15860,09:00:00,20:00:00,10,4
+POR065,Canidelo,208,Canidelo,12,Porto,147,13,3145,08:30:00,22:30:00,8,0
+POR021,Évora,177,Évora,3,Margem Sul,461,29,8927,08:00:00,22:30:00,29,14
+POR052,Caldas da Rainha,171,Caldas da Rainha,17,Lisboa Norte,136,7,2760,07:00:00,20:00:00,4,4
+POR053,Olhão,187,Olhão,15,Algarve,302,19,9572,08:00:00,23:30:00,5,2
+POR030,Santo Tirso,87,Santo Tirso,1,Região Norte,253,19,9585,07:00:00,21:00:00,6,1
+POR408,S - Campolide,235,Lisboa,14,Lisboa Central,149,14,2743,08:00:00,21:00:00,15,0
+POR410,S - Penha de Franca,235,Lisboa,14,Lisboa Central,166,16,3057,08:00:00,20:00:00,20,0
+POR032,Aveiro,111,Aveiro,13,Beira Litoral,227,60,36896,08:00:00,23:30:00,14,5
+POR013,Torres Vedras,152,Torres Vedras,17,Lisboa Norte,330,30,9451,07:00:00,23:00:00,8,8
+POR413,S - Avenida Republica,235,Lisboa,14,Lisboa Central,130,14,3423,08:00:00,21:00:00,16,0
+POR432,S - Costa Caparica (Navegantes),173,Costa da Caparica,3,Margem Sul,212,15,2929,08:00:00,20:00:00,16,0
+POR402,S - João XXI,235,Lisboa,14,Lisboa Central,149,11,2676,10:00:00,23:00:00,14,0
+POR028,Castelo Branco,113,Castelo Branco,11,Beira Interior,233,27,7562,08:00:00,23:00:00,19,6
+POR033,Faro,178,Faro,15,Algarve,121,65,47879,07:00:00,23:00:00,17,13
+POR035,Gondomar,70,Gondomar,12,Porto,231,53,38937,09:00:00,23:00:00,14,24
+POR017,Guimarães,71,Guimarães,1,Região Norte,153,31,19248,08:00:00,21:00:00,13,7
+POR018,Paço de Arcos,229,Paço de Arcos,18,Lisboa Litoral,233,37,15534,09:00:00,21:00:00,15,10
+POR434,S - Av. D. João II,199,Setúbal,3,Margem Sul,210,14,3211,08:00:00,21:00:00,14,0
+POR411,S - Benfica,243,Benfica,14,Lisboa Central,175,15,3033,08:00:00,21:00:00,16,0
+POR058,Faro Mercado,178,Faro,15,Algarve,222,11,3386,07:15:00,21:00:00,3,8
+POR038,Sintra,158,Sintra,18,Lisboa Litoral,329,61,48810,08:00:00,23:00:00,17,3
+POR429,S - Carnide,235,Lisboa,14,Lisboa Central,126,14,2782,08:00:00,21:00:00,15,0
+POR029,Alverca,227,Alverca,17,Lisboa Norte,335,48,17367,08:00:00,21:00:00,50,26
+POR421,S - Almirante Reis II,235,Lisboa,14,Lisboa Central,103,10,3120,08:00:00,21:00:00,14,0
+POR436,S - Campo de Ourique,235,Lisboa,14,Lisboa Central,118,12,3090,09:00:00,21:00:00,13,0
+POR407,S - Queluz,235,Lisboa,14,Lisboa Central,146,14,2540,10:00:00,21:00:00,16,0
+POR409,S - Almirante Reis ,235,Lisboa,14,Lisboa Central,172,26,8009,09:00:00,21:00:00,26,0
+POR423,S - Bento Gonçalves,164,Almada,3,Margem Sul,144,11,2541,09:00:00,20:00:00,12,0
+POR057,Campera,239,Campera,17,Lisboa Norte,200,12,3225,07:30:00,23:30:00,11,4
+POR027,Setúbal,199,Setúbal,3,Margem Sul,392,71,44281,08:00:00,23:30:00,29,11
+POR414,S - Columbano Bordalo Pinheiro,235,Lisboa,14,Lisboa Central,162,13,3224,09:00:00,21:00:00,17,0
+POR412,S - Gil Vicente,164,Almada,3,Margem Sul,220,14,2818,09:00:00,20:00:00,15,0
+POR424,S - Lumiar,235,Lisboa,14,Lisboa Central,128,14,3300,08:00:00,23:00:00,15,0
+POR433,S - Oscar Monteiro,235,Lisboa,14,Lisboa Central,119,10,3003,08:00:00,20:00:00,12,0

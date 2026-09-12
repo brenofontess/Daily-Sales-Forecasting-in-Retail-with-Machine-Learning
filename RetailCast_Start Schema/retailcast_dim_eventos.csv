@@ -1,0 +1,66 @@
+FK_LOJA,DATA_INI,DATA_FIM,DESCRICAO,MES_EVENTO,ESTACAO_DO_ANO
+POR012,2023-01-01,2023-01-01,Janeiro 01.23,1,Inverno
+POR065,2022-12-24,2022-12-24,Véspera Natal,12,Inverno
+POR009,2022-11-21,2022-11-21,IP Garrafeira,11,Outono
+POR009,2022-11-14,2022-11-14,IP Lácteos,11,Outono
+POR062,2022-11-14,2022-11-14,Inventário Garrafeira,11,Outono
+POR062,2022-11-07,2022-11-07,Entrada Campanha,11,Outono
+POR062,2022-11-21,2022-11-21,Inventário Cápsulas,11,Outono
+POR062,2022-11-09,2022-11-09,Inventário Lácteos,11,Outono
+POR008,2022-12-24,2022-12-24,Véspera Natal,12,Inverno
+POR008,2022-12-31,2022-12-31,Véspera Ano Novo,12,Inverno
+POR008,2022-12-24,2022-12-24,Véspera Natal,12,Inverno
+POR008,2022-12-31,2022-12-31,Véspera Ano Novo,12,Inverno
+POR008,2022-12-31,2022-12-31,Véspera Ano Novo,12,Inverno
+POR008,2022-12-24,2022-12-24,Véspera Natal,12,Inverno
+POR008,2022-12-24,2022-12-24,Véspera Natal,12,Inverno
+POR008,2022-12-31,2022-12-31,Véspera Ano Novo,12,Inverno
+POR016,2022-12-31,2022-12-31,vespera natal,12,Inverno
+POR031,2022-10-21,2022-10-21,Campanha Natal,10,Outono
+POR029,2023-05-08,2023-05-08,Ip Brico,5,Primavera
+POR029,2023-05-16,2023-05-16,DMC BT,5,Primavera
+POR029,2023-05-15,2023-05-15,IP ARTIGOS MESA,5,Primavera
+POR029,2023-05-14,2023-05-14,IP ARTIGOS MESA,5,Primavera
+POR029,2023-05-08,2023-05-08,IP Interiores,5,Primavera
+POR029,2023-05-07,2023-05-07,IP Interiores armazém + brico,5,Primavera
+POR029,2023-05-16,2023-05-16,DMC BT,5,Primavera
+POR013,2023-05-15,2023-05-15,IP Perfumaria,5,Primavera
+POR013,2023-05-22,2023-05-22,IP Biológicos ,5,Primavera
+POR013,2022-12-27,2022-12-27,IP Perfumaria,12,Inverno
+POR013,2022-12-29,2022-12-29,IP Drogaria,12,Inverno
+POR013,2022-12-27,2022-12-27,IP Lácteos/Congelados,12,Inverno
+POR013,2023-05-16,2023-05-22,IP  Peixaria,5,Primavera
+POR013,2023-05-15,2023-05-15,IP  Peixaria,5,Primavera
+POR013,2022-12-26,2022-12-26,IP Pastelaria/Padaria,12,Inverno
+POR013,2023-05-22,2023-05-22,IP Pastelaria/Padaria,5,Primavera
+POR013,2022-12-27,2022-12-27,Montagem Campanha Têxtil Lar,12,Inverno
+POR013,2022-12-12,2022-12-12,Folheto ,12,Inverno
+POR013,2023-05-16,2023-05-16,Campanha Sazonais de Verão e Dia Mundial da Criança,5,Primavera
+POR013,2023-05-16,2023-05-16,Campanha Sazonais de Verão e Dia Mundial da Criança,5,Primavera
+POR013,2023-05-08,2023-05-08,IP Interiores ,5,Primavera
+POR013,2023-05-22,2023-05-22,IP Artigos de mesa,5,Primavera
+POR013,2023-05-16,2023-05-16,Campanha Sazonais de Verão e Dia Mundial da Criança,5,Primavera
+POR013,2023-05-15,2023-05-15,Campanha Sazonais de Verão e Dia Mundial da Criança,5,Primavera
+POR013,2022-12-26,2022-12-26,Montagem Campanha Têxtil Lar,12,Inverno
+POR013,2022-12-15,2022-12-15,IP Decoração Natal,12,Inverno
+POR013,2022-12-26,2022-12-26,IP Brinquedos,12,Inverno
+POR013,2023-05-18,2023-05-18,IP Brico,5,Primavera
+POR013,2023-05-15,2023-05-15,IP Frutas,5,Primavera
+POR013,2023-05-22,2023-05-22,IP Gastronomia,5,Primavera
+POR013,2023-05-11,2023-05-11,IP Equip. Tec.,5,Primavera
+POR027,2023-04-12,2023-04-12,Inventario NSBE,4,Primavera
+POR008,2023-04-03,2023-04-05,invent,4,Primavera
+POR016,2023-02-07,2023-02-07,INVENTARIO QUEIJOS,2,Inverno
+POR016,2022-11-08,2022-11-08,inventario garrafeira,11,Outono
+POR016,2022-11-14,2022-11-14,inventario lacteos,11,Outono
+POR016,2022-11-14,2022-11-14,inventario outdoor,11,Outono
+POR016,2022-11-15,2022-11-15,inventario capsulas cafe,11,Outono
+POR016,2022-11-12,2022-11-12,inventario ET,11,Outono
+POR029,2023-05-15,2023-05-31,IP PERFUMARIA,5,Primavera
+POR029,2023-05-14,2023-05-14,IP PERFUMARIA ARMAZÉM,5,Primavera
+POR029,2023-05-16,2023-05-16,DMC PGC,5,Primavera
+POR029,2023-03-08,2023-03-08,IP Interiores,3,Primavera
+POR029,2023-05-07,2023-05-07,IP Armazém Interiores,5,Primavera
+POR029,2023-05-14,2023-05-14,IP artigos de Mesa Armazém,5,Primavera
+POR029,2023-05-15,2023-05-15,IP artigos de Mesa,5,Primavera
+POR029,2023-05-08,2023-05-08,Ip Brico,5,Primavera
